@@ -172,6 +172,23 @@ const STATES = {
   MIRROR_SYNC:  { speed: 0.70, pause: 500, bar: 20, color: '#dc2626',      bg: 'rgba(220,38,38,0.08)' },
 };
 
+// The relay answers /api/chat as a server-sent event stream, not JSON. The finished reply is the
+// `done` event's text; if that is missing, the tokens are joined in order.
+function replyFromEventStream(raw) {
+  let done = '', tokens = '';
+  for (const block of raw.split(/\n\n+/)) {
+    const ev = (block.match(/^event: (.*)$/m) || [])[1];
+    const data = (block.match(/^data: (.*)$/m) || [])[1];
+    if (!ev || !data) continue;
+    try {
+      const d = JSON.parse(data);
+      if (ev === 'done' && d.text) done = d.text;
+      else if (ev === 'token' && d.token) tokens += d.token;
+    } catch (_) {}
+  }
+  return done || tokens;
+}
+
 const VALID_STATES = new Set(Object.keys(STATES));
 const MAX_HISTORY = 20;
 
@@ -427,13 +444,12 @@ async function handleUserSpeech(text) {
     const res = await fetch(HUB + '/api/chat', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ agent: 'claude', message: text, system: systemWithContext, history: history.slice(-12), stream: false })
+      body: JSON.stringify({ agent: 'mistral', message: text, system: systemWithContext, history: history.slice(-12), noaudio: true })
     });
 
     let reply = '';
     if (res.ok) {
-      const data = await res.json();
-      reply = data.response || data.text || data.content || '';
+      reply = replyFromEventStream(await res.text());
     }
 
     if (!reply) {

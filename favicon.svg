@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-12 -30 182 182"><rect x="-12" y="-30" width="182" height="182" rx="36" fill="#0b0c0f"/><g fill="#6b78ff"><circle cx="8.0" cy="8.0" r="2.6"/><circle cx="8.0" cy="61.1" r="3.2"/><circle cx="8.0" cy="114.2" r="4.1"/><circle cx="8.0" cy="43.4" r="2.6"/><circle cx="8.0" cy="78.8" r="3.8"/><circle cx="8.0" cy="96.5" r="3.8"/><circle cx="8.0" cy="25.7" r="2.6"/><circle cx="25.7" cy="8.0" r="2.7"/><circle cx="25.7" cy="96.5" r="4.4"/><circle cx="25.7" cy="61.1" r="3.6"/><circle cx="25.7" cy="25.7" r="3.7"/><circle cx="25.7" cy="78.8" r="4.2"/><circle cx="25.7" cy="114.2" r="4.7"/><circle cx="25.7" cy="43.4" r="3.1"/><circle cx="43.4" cy="43.4" r="4.6"/><circle cx="43.4" cy="25.7" r="4.3"/><circle cx="43.4" cy="61.1" r="5.1"/><circle cx="43.4" cy="8.0" r="2.7"/><circle cx="61.1" cy="25.7" r="3.2"/><circle cx="61.1" cy="43.4" r="4.1"/><circle cx="61.1" cy="78.8" r="5.2"/><circle cx="61.1" cy="61.1" r="5.5"/><circle cx="78.8" cy="78.8" r="5.8"/><circle cx="78.8" cy="96.5" r="5.8"/><circle cx="78.8" cy="61.1" r="5.4"/><circle cx="78.8" cy="43.4" r="3.6"/><circle cx="96.5" cy="25.7" r="3.8"/><circle cx="96.5" cy="43.4" r="5.3"/><circle cx="96.5" cy="78.8" r="5.8"/><circle cx="96.5" cy="61.1" r="5.3"/><circle cx="114.2" cy="43.4" r="5.2"/><circle cx="114.2" cy="61.1" r="5.5"/><circle cx="114.2" cy="8.0" r="3.9"/><circle cx="114.2" cy="25.7" r="4.3"/><circle cx="131.9" cy="78.8" r="6.5"/><circle cx="131.9" cy="61.1" r="6.3"/><circle cx="131.9" cy="43.4" r="5.6"/><circle cx="131.9" cy="8.0" r="4.3"/><circle cx="131.9" cy="25.7" r="5.1"/><circle cx="131.9" cy="96.5" r="7.1"/><circle cx="131.9" cy="114.2" r="7.1"/><circle cx="149.6" cy="96.5" r="7.1"/><circle cx="149.6" cy="114.2" r="7.1"/><circle cx="149.6" cy="8.0" r="4.6"/><circle cx="149.6" cy="25.7" r="5.1"/><circle cx="149.6" cy="78.8" r="6.5"/><circle cx="149.6" cy="43.4" r="5.6"/><circle cx="149.6" cy="61.1" r="6.3"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 184 184"><rect width="184" height="184" rx="36" fill="#0b0c0f"/><g transform="translate(34,24)">
+    <path d="M10,2 H84 L114,32 V126 a8,8 0 0 1 -8,8 H10 a8,8 0 0 1 -8,-8 V10 a8,8 0 0 1 8,-8 Z" fill="#16171a" stroke="#8590FF" stroke-width="5.2" stroke-linejoin="round"/>
+    <path d="M84,2 V26 a6,6 0 0 0 6,6 H114" fill="none" stroke="#8590FF" stroke-width="5.2" stroke-linejoin="round" stroke-linecap="round"/>
+    <polyline points="22,110 46,66 70,88 94,66" fill="none" stroke="#E8583A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="22" cy="44" r="8.2" fill="#8590FF"/>
+    <circle cx="46" cy="44" r="7" fill="none" stroke="#8590FF" stroke-width="2.2" stroke-dasharray="3.4 3.4"/>
+    <circle cx="70" cy="44" r="7.4" fill="#8590FF"/>
+    <circle cx="22" cy="66" r="6.4" fill="#8590FF"/>
+    <circle cx="46" cy="66" r="8.6" fill="#E8583A"/>
+    <circle cx="70" cy="66" r="8.4" fill="#8590FF"/>
+    <circle cx="94" cy="66" r="8.6" fill="#E8583A"/>
+    <circle cx="22" cy="88" r="7.6" fill="#8590FF"/>
+    <circle cx="46" cy="88" r="8.6" fill="#8590FF"/>
+    <circle cx="70" cy="88" r="8.6" fill="#E8583A"/>
+    <circle cx="94" cy="88" r="7.0" fill="#8590FF"/>
+    <circle cx="22" cy="110" r="8.6" fill="#E8583A"/>
+    <circle cx="46" cy="110" r="6.4" fill="#8590FF"/>
+    <circle cx="70" cy="110" r="8.0" fill="#8590FF"/>
+    <circle cx="94" cy="110" r="7" fill="none" stroke="#8590FF" stroke-width="2.2" stroke-dasharray="3.4 3.4"/>
+</g></svg>
