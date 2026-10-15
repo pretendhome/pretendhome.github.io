@@ -442,7 +442,7 @@ Source: https://missioncanvas.ai/canvases/construction
 
 Construction and Real Estate
 
-# Construction daily log and job costing software: Run the job, not the paperwork. Site data, documents and communications in one ordered picture.
+# Construction daily log and job costing software Run the job, not the paperwork. Site data, documents and communications in one ordered picture.
 Daily logs, change orders and job costing, in one place. Built around how your crew already works, running on
 your own computers.
 Book an audit No contract. Nothing to prepare. Meet Livella
@@ -512,7 +512,7 @@ Source: https://missioncanvas.ai/canvases/education
 
 Canvases CV-01 Education
 
-# Private AI for schools: Your notes on every student, on your own machine. A teacher's notes, kept on the teacher's machine.
+# Private AI for schools Your notes on every student, on your own machine. A teacher's notes, kept on the teacher's machine.
 Observations, summaries and lesson plans in one place, for schools that cannot send student data out. Roster in, observations captured by voice or typing, student lenses updated from the report cards a school already has, and lesson activities in three tiers. It runs on the teacher's own computer, and student data does not leave it.
 Book an audit No contract. Nothing to prepare.
 
@@ -574,7 +574,7 @@ Source: https://missioncanvas.ai/canvases/events-venues
 
 Canvases CV-04 Events & Venues
 
-# Ticketing and access control software for venues: One system from the ticket sale to the gate. From the first ticket sold to the last gate closed.
+# Ticketing and access control software for venues One system from the ticket sale to the gate. From the first ticket sold to the last gate closed.
 Ticketing, check-in, the box office and your visitor list, for events and permanent venues. One commercial engine for congresses, museums, festivals and fairs: online checkout, box office, ticketing, access control, CRM and analytics, sharing the same orders, payments and tickets.
 Book an audit No contract. Nothing to prepare.
 
@@ -672,7 +672,7 @@ Source: https://missioncanvas.ai/canvases/healthcare
 
 Canvases CV-06 Healthcare In progress
 
-# Patient check-in and scheduling software: Patient flow without the paperwork. Live flows and queues, with sensitive data kept where it belongs.
+# Patient check-in and scheduling software Patient flow without the paperwork. Live flows and queues, with sensitive data kept where it belongs.
 Check-in, scheduling and queues, with patient data kept on your own computers.
 Book an audit No contract. Nothing to prepare.
 
@@ -719,7 +719,7 @@ Source: https://missioncanvas.ai/canvases/logistics
 
 Canvases CV-02 Logistics
 
-# Order tracking software for small logistics companies: Know which order is late before the customer calls. Every order, its stage, and who is waiting on it.
+# Order tracking software for small logistics companies Know which order is late before the customer calls. Every order, its stage, and who is waiting on it.
 Orders, stages and customer updates in one place, checked overnight on your own computers. Orders imported from the spreadsheets you already keep, tracked through fourteen stages from quote to closed, checked overnight, and a question box that answers from the record and refuses what it cannot ground. Customer identity and pricing never leave the machine.
 Book an audit No contract. Nothing to prepare.
 
@@ -781,7 +781,7 @@ Source: https://missioncanvas.ai/canvases/office
 
 Canvases CV-07 Office & Administration In progress
 
-# Invoice processing automation for small businesses: Invoices read, checked and filed. The repetitive back-office work, extracted, checked and filed.
+# Invoice processing automation for small businesses Invoices read, checked and filed. The repetitive back-office work, extracted, checked and filed.
 The repetitive back-office work, done on your own computers.
 Book an audit No contract. Nothing to prepare.
 
@@ -828,7 +828,7 @@ Source: https://missioncanvas.ai/canvases/voice-front-desk
 
 Canvases CV-03 Voice & Front Desk
 
-# AI receptionist for small businesses: Every call answered. Every booking on the calendar. An agent that answers, books and remembers.
+# AI receptionist for small businesses Every call answered. Every booking on the calendar. An agent that answers, books and remembers.
 An agent answers the phone, WhatsApp and email, books and reschedules, and hands over to a person. AI agents on the phone, on WhatsApp and by email, connected to your calendar, governed by rules you write in plain language, and handing over to a person when it matters.
 Book an audit No contract. Nothing to prepare.
 
