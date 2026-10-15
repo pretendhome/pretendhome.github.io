@@ -16,6 +16,14 @@ Real screens, shipped canvases Logistics Today Version 0.1.9 · sample orders Fr
 Logistics · Today The morning summary: KPIs with the time they were computed, stale orders, bottlenecks and commitments. Recorded 21 September 2026 on sample orders.
 Front desk · At a glance Calls handled, resolved on their own, transferred to a person, and what still needs review.
 Education · Capture an observation Dictate or type. The fields are suggested, then set by the teacher, and saved on this machine.
+For your business
+
+## Software built around how you already work.
+We audit how the work moves, build from a working start for your industry, and hand it over to run on your computers. Book an audit
+Free for you
+
+## Palette, a free local AI app for your documents.
+Give it one folder. It reads only what you allow, on your computer, and links every line to its source. Get Palette free
 Who this is for Vertical markets our canvases support
 
 ## Small and mid-sized businesses. Vertical markets our canvases support.
