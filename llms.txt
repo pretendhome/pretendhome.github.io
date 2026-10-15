@@ -1,0 +1,36 @@
+# Mission Canvas
+
+> Private AI software built around how your team works. We audit the workflow, build the application and run it on your own computers. No per-seat fees.
+
+Mission Canvas builds private AI software for small and mid-sized businesses. Each engagement starts with a workflow audit, then the application is built from a working starting point for the industry (a "canvas") and runs on the business's own computers. Licensed per company, with no per-seat fees. Book an audit: https://missioncanvas.ai/audit/
+
+## Main pages
+
+- [Mission Canvas: private AI software for small businesses](https://missioncanvas.ai/): Private AI software built around how your team works. We audit the workflow, build the application and run it on your own computers. No per-seat fees.
+- [AI workflow audit for small businesses](https://missioncanvas.ai/audit/): Book an AI workflow audit: one call about the job that eats the most time in your week. No contract, nothing to prepare.
+- [Private AI software by industry](https://missioncanvas.ai/canvases/): Private AI software for construction, schools, logistics, front desks, events and venues, clinics and back offices. Find a canvas that gets you close; we make it fit.
+- [Private AI software for small businesses: questions answered](https://missioncanvas.ai/faq): Answers to what owners ask about private AI software before an audit: what it is, what it costs, who owns it, and where the data goes.
+- [How it works](https://missioncanvas.ai/how-it-works): What happens to your files, step by step, and what working with Mission Canvas looks like, from the audit to handover in four to six weeks.
+- [Palette: a free local AI app for your documents](https://missioncanvas.ai/palette): A free local AI app for Mac, Windows and Linux. Give it one folder. It reads only what you allow, on your computer, and links every line to its source.
+- [Pricing: one license per company, no per-seat fees](https://missioncanvas.ai/pricing): One license per company, plus services quoted before you commit. Never per seat, no per-token charges.
+- [Private, on-premise AI: your files stay on your computers](https://missioncanvas.ai/security): Your files are read on your own computers. What may leave is screened first, and every decision is logged.
+
+## Industries
+
+- [Construction daily log and job costing software](https://missioncanvas.ai/canvases/construction): Construction daily log and job costing software: daily logs, change orders and RFIs in one place, built around how your crew works, on your own computers.
+- [Private AI for schools: student notes and lesson plans](https://missioncanvas.ai/canvases/education): Private AI for schools: observations, student summaries and lesson plans in one place, on your own machines, for schools that cannot send student data out.
+- [Ticketing and access control software for venues](https://missioncanvas.ai/canvases/events-venues): Ticketing and access control software for events and venues: online sales, the gate, the box office and your visitor list in one system.
+- [Private patient check-in and scheduling software](https://missioncanvas.ai/canvases/healthcare): Patient check-in, scheduling and queues for clinics, with patient data kept on your own computers. In progress: book an audit to shape it.
+- [Order tracking software for small logistics companies](https://missioncanvas.ai/canvases/logistics): Order tracking software for small logistics companies: orders, stages and customer updates in one place, checked overnight on your own computers.
+- [Invoice processing automation for small businesses](https://missioncanvas.ai/canvases/office): Invoice processing automation for small businesses: invoices read, checked and filed, and the repetitive back-office work done on your own computers.
+- [AI receptionist for small businesses: phone, WhatsApp, email](https://missioncanvas.ai/canvases/voice-front-desk): An AI receptionist for small businesses: it answers the phone, WhatsApp and email, books and reschedules on your calendar, and hands over to a person.
+
+## Optional
+
+- [About](https://missioncanvas.ai/about): The people behind Mission Canvas, and why we build software around how your business works, on your own computers.
+- [Download the apps](https://missioncanvas.ai/apps/): Download the desktop apps for your team, for Mac, Windows and Linux.
+- [Developer docs](https://missioncanvas.ai/docs): Where to find install instructions for the command line and the desktop apps.
+- [Press and media](https://missioncanvas.ai/press): Press releases, coverage, company facts and logos for Mission Canvas, plus who to contact for interviews.
+- [Privacy and data handling](https://missioncanvas.ai/privacy): What this website collects, why, where it is kept and who can see it, and how Mission Canvas handles your business files.
+- [What is Mission Canvas](https://missioncanvas.ai/what-is-mission-canvas): Software built around how your business already works, running on your own computers, and handed over to you.
+- [Why Mission Canvas](https://missioncanvas.ai/why-mission-canvas): Software built around how your business works, running on your own computers, licensed per company with no per-seat fees.
