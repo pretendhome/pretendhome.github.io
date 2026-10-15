@@ -1,0 +1,8 @@
+{
+  "count": 0,
+  "pad": 4,
+  "ext": "webp",
+  "contact": 0.62,
+  "desktop": { "dir": "/creation/frames/desktop", "width": 1920, "height": 1080, "point": [0.5, 0.5] },
+  "mobile": { "dir": "/creation/frames/mobile", "width": 1080, "height": 1920, "point": [0.5, 0.5] }
+}
