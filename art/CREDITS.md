@@ -7,3 +7,5 @@
   src/components/warm/WarmHome.astro). AI-generated, supplied by Mission Canvas (~/Desktop/mc-images, 15 October 2026),
   resized to 1200 and 640 wide. Illustrative only: they are not customers, staff or real sites, and must never carry a
   name, a quote or a claim that they are.
+  The second set (15 October 2026, 18:00): clinic2, paperwork, classroom2, bikes, celebration, timber, loadingbay,
+  servicedesk, mapping. Same terms.

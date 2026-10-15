@@ -161,33 +161,65 @@ Owners and operations leads who are tired of typing the same thing into three sy
 Sound familiar? A workaround for the workaround
 
 ## Software shouldn't need a workaround for the workaround.
-- The spreadsheet that fixes the CRM.
-- The manual check that keeps the process from going wrong.
-- The person everyone asks because the system doesn't tell them what to do.
+customers_FIXED_v3.xlsx
+Customer CRM says Actually
+1 call first
+2 new address
+3
+4 see email
+The spreadsheet that fixes the CRM.
+Before it goes out
+✓ Check the totals again
+✓ Compare with last week's file
+✓ Copy it into the other system
+Check the totals again
+The manual check that keeps the process from going wrong.
+Direct messages
+Which file is the current one?
+Where do I find the price for this?
+Can you check this before I send it?
+Sorry, one more…
+The person everyone asks because the system doesn't tell them what to do.
 You know where the hours go. We build the software around how you actually work, so your team stops making up for it. Mission Canvas puts the way your company actually works into the application, so the business doesn't have to keep compensating for it.
 How it works How we build it
 
 ## From the way you work to software you can run, in four to six weeks. From the way you work to software you can run.
-- 1
+01 Audit 02 Redesign 03 Assemble 04 Operate
 
 ### Audit
-We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes. We work inside your company with proprietary audit tooling: mapping processes, tools and data flows, and measuring where time and accuracy are lost.
-Process map · Where the hours go Process map · Inefficiency report
-- 2
+We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes. We work inside your company with proprietary audit tooling: mapping processes, tools and data flows, and measuring where time and accuracy are lost. What you get
+Process map · Where the hours go Process map · Inefficiency report How long it all takes
+Four to six weeks from the audit to handover, depending on what the audit finds.
+Process map
+Quote → Order → Invoice
+Where the hours go
 
 ### Redesign
-We cut the steps that only exist to move information from one system to another. We redraw processes, tools and roles around what agents can reliably do and remove the steps that only existed to move information around.
-The new way of working, on paper Target operating model
-- 3
+We cut the steps that only exist to move information from one system to another. We redraw processes, tools and roles around what agents can reliably do and remove the steps that only existed to move information around. What you get
+The new way of working, on paper Target operating model How long it all takes
+Four to six weeks from the audit to handover, depending on what the audit finds.
+Steps taken out
+Retype the order into invoicing
+Email the spreadsheet round
+One record, kept by the software
 
 ### Assemble
-We start from the working application for your industry, change it to fit, and build the parts only you need. We compose your system from vertical canvas modules, customise them, and build the modules that only your company needs.
-Your application, set up Your application, configured
-- 4
+We start from the working application for your industry, change it to fit, and build the parts only you need. We compose your system from vertical canvas modules, customise them, and build the modules that only your company needs. What you get
+Your application, set up Your application, configured How long it all takes
+Four to six weeks from the audit to handover, depending on what the audit finds.
+Your application
+✓ Your records
+✓ Your rules
+✓ The parts only you need
 
 ### Operate
-The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team. Agents take over repetitive daily operations, analysis and reporting. We measure, tune and extend alongside your team.
-Running in your business Agents in production
+The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team. Agents take over repetitive daily operations, analysis and reporting. We measure, tune and extend alongside your team. What you get
+Running in your business Agents in production How long it all takes
+Four to six weeks from the audit to handover, depending on what the audit finds.
+Running
+✓ Data entry
+✓ Reports
+✓ Filing
 Book an audit No contract. Nothing to prepare.
 Proof
 
