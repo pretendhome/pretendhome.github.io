@@ -124,6 +124,96 @@ Start with an audit
 No contract. Nothing to prepare.
 Your company already knows how to work. Your software should too.
 
+# Private AI software, built around how your team works. Companies have two expensive options for AI. We offer a disruptive, affordable third.
+Mission Canvas, where the way your business works becomes software you own. Mission Canvas builds a local AI application around the way your company works, then hands it over — your hardware, your information, your call on when an outside model is used.
+- Runs on your own computers
+- No per-seat fees
+- Four to six weeks to handover
+Book an audit See how an audit works
+No contract. Nothing to prepare.
+Front desk · At a glance
+Call answered
+Booked on your calendar
+Passed to a person
+With the conversation so far
+Every call kept
+Summary, audio and transcript
+For your business
+
+## Software built around how you already work.
+We audit how the work moves, build from a working start for your industry, and hand it over to run on your computers. Book an audit
+Free for you
+
+## Palette, a free local AI app for your documents.
+Give it one folder. It reads only what you allow, on your computer, and links every line to its source. Get Palette free
+Who this is for Vertical markets our canvases support
+
+## Small and mid-sized businesses. Vertical markets our canvases support.
+Owners and operations leads who are tired of typing the same thing into three systems. Pick your industry. Mission Canvas builds applications for specific jobs across education, logistics, front desk, events, construction, healthcare and administration.
+- In progress Construction & Real Estate Daily logs, documents and job costs, in one place. Site data, documents and communications in one ordered picture.
+- Education The roster, the report cards and what the teacher noticed, on the teacher's own machine. The roster, the report cards and what the teacher noticed, on the teacher's own machine.
+- Logistics Every order, its stage, and who is waiting on it, checked overnight. Every order, its stage, and who is waiting on it, checked overnight.
+- Voice & Front Desk Calls answered, bookings made and follow-ups sent, on the channels your customers use. Agents that answer, book and follow up on the channels people use.
+- Events & Venues From online checkout to the gate, in one system. From online checkout to the gate, on one commercial engine.
+- In progress Healthcare Patient flow and queues, with sensitive data kept where it belongs. Live flows and queues, with sensitive data kept where it belongs.
+- In progress Office & Administration Invoices, queries and recurring paperwork, read, checked and filed. The repetitive back-office work, extracted, checked and filed.
+- Everything else Your field — everything else If the work runs on documents, records and rules, we can build for it. Manufacturing, agriculture, professional services, the public sector. If the work runs on documents, records and rules, it can become a canvas.
+Sound familiar? A workaround for the workaround
+
+## Software shouldn't need a workaround for the workaround.
+- The spreadsheet that fixes the CRM.
+- The manual check that keeps the process from going wrong.
+- The person everyone asks because the system doesn't tell them what to do.
+You know where the hours go. We build the software around how you actually work, so your team stops making up for it. Mission Canvas puts the way your company actually works into the application, so the business doesn't have to keep compensating for it.
+How it works How we build it
+
+## From the way you work to software you can run, in four to six weeks. From the way you work to software you can run.
+- 1
+
+### Audit
+We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes. We work inside your company with proprietary audit tooling: mapping processes, tools and data flows, and measuring where time and accuracy are lost.
+Process map · Where the hours go Process map · Inefficiency report
+- 2
+
+### Redesign
+We cut the steps that only exist to move information from one system to another. We redraw processes, tools and roles around what agents can reliably do and remove the steps that only existed to move information around.
+The new way of working, on paper Target operating model
+- 3
+
+### Assemble
+We start from the working application for your industry, change it to fit, and build the parts only you need. We compose your system from vertical canvas modules, customise them, and build the modules that only your company needs.
+Your application, set up Your application, configured
+- 4
+
+### Operate
+The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team. Agents take over repetitive daily operations, analysis and reporting. We measure, tune and extend alongside your team.
+Running in your business Agents in production
+Book an audit No contract. Nothing to prepare.
+Proof
+
+## Built, filed, and running on real data. Built, filed, and running against real data.
+Deployed
+An international school network runs the system on its real school data. An international school network runs the system against real school data.
+25 canvases
+Working starting points across education, logistics, construction, healthcare, events, voice, legal, finance and marketing. Seven are shown above. Built across education, logistics, construction, healthcare, events, voice, legal, finance and marketing. Seven of them are shown above.
+Patented
+Four provisional applications with the US Patent and Trademark Office, in three independent families. Two trademarks, examiner-approved. Four provisional applications with the United States Patent and Trademark Office, across three independent families. Two trademarks, examiner-approved.
+Two founders, eighteen months
+The system was built and shipping before we sold anything. The system was built and shipping before we sold anything.
+
+## Questions.
+What is Mission Canvas?
+Software built around how your business already works, running on your own computers. We audit how the work moves, build the application from a working starting point for your industry, and hand it over to you. Who is it for?
+Small and mid-sized businesses whose work runs on documents, records and rules. That includes construction, education, logistics, front desk and voice, events and venues, with healthcare and office work in progress. How is it different from ChatGPT or other AI chat tools?
+Chat tools answer questions in someone else's cloud. Mission Canvas builds an application around your workflow and runs it on your computers. The AI works inside it, with your rules and records, and an outside model is used only for the work you allow. What happens in the audit?
+We sit with your team and map how the work really moves: the tools, the files, the handoffs. We measure where the time goes. You get a process map and a list of where the hours go. No contract, nothing to prepare. How long does it take?
+Four to six weeks from the audit to handover, depending on what the audit finds.
+Show all 13 questions
+Start with an audit
+
+## Stop working around your software. Build it around your business. Stop working around your software. Build the software around your business. Book an audit
+No contract. Nothing to prepare.
+
 ---
 
 Source: https://missioncanvas.ai/about
