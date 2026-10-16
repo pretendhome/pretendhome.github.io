@@ -46,29 +46,42 @@ You know where the hours go. We build the software around how you actually work,
 How it works
 
 ## From the way you work to software you can run, in four to six weeks.
-You don't start from a blank page. We have working applications for common business problems, so you don't pay
-us to reinvent them.
-We call each one a canvas: the workflows, the words and the rules of one industry, already
-built. We start from yours, then change it to fit the rules your people follow and the steps your software
-never captured.
-The starting point is proven. What you end up with is yours.
-Four steps, four to six weeks
+01 Audit 02 Redesign 03 Assemble 04 Operate
 
 ### Audit
-We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes.
-You get Process map · Where the hours go
+We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes. What you get
+Process map · Where the hours go How long it all takes
+Four to six weeks from the audit to handover, depending on what the audit finds.
+Process map
+Quote → Order → Invoice
+Where the hours go
 
 ### Redesign
-We cut the steps that only exist to move information from one system to another.
-You get The new way of working, on paper
+We cut the steps that only exist to move information from one system to another. What you get
+The new way of working, on paper How long it all takes
+Four to six weeks from the audit to handover, depending on what the audit finds.
+Steps taken out
+Retype the order into invoicing
+Email the spreadsheet round
+One record, kept by the software
 
 ### Assemble
-We start from the working application for your industry, change it to fit, and build the parts only you need.
-You get Your application, set up
+We start from the working application for your industry, change it to fit, and build the parts only you need. What you get
+Your application, set up How long it all takes
+Four to six weeks from the audit to handover, depending on what the audit finds.
+Your application
+✓ Your records
+✓ Your rules
+✓ The parts only you need
 
 ### Operate
-The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team.
-You get Running in your business
+The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team. What you get
+Running in your business How long it all takes
+Four to six weeks from the audit to handover, depending on what the audit finds.
+Running
+✓ Data entry
+✓ Reports
+✓ Filing
 Book an audit No contract. Nothing to prepare.
 
 ## Questions.
