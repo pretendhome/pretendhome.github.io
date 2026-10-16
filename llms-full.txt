@@ -74,18 +74,6 @@ You get Your application, set up
 The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team.
 You get Running in your business
 Book an audit No contract. Nothing to prepare.
-Proof
-
-## Built, filed, and running on real data.
-Tested against live data · Runs on your own computers · Handed over in four to six weeks
-Deployed
-An international school network runs the system on its real school data.
-25 canvases
-Working starting points across education, logistics, construction, healthcare, events, voice, legal, finance and marketing. Seven are shown above.
-Patented
-Four provisional applications with the US Patent and Trademark Office, in three independent families. Two trademarks, examiner-approved.
-Two founders, eighteen months
-The system was built and shipping before we sold anything.
 Client stories
 
 ## In their own words.
@@ -225,17 +213,6 @@ Running
 ✓ Reports
 ✓ Filing
 Book an audit No contract. Nothing to prepare.
-Proof
-
-## Built, filed, and running on real data.
-Deployed
-An international school network runs the system on its real school data.
-25 canvases
-Working starting points across education, logistics, construction, healthcare, events, voice, legal, finance and marketing. Seven are shown above.
-Patented
-Four provisional applications with the US Patent and Trademark Office, in three independent families. Two trademarks, examiner-approved.
-Two founders, eighteen months
-The system was built and shipping before we sold anything.
 
 ## Questions.
 What is Mission Canvas?
