@@ -12,14 +12,6 @@ Source: https://missioncanvas.ai/
 Companies have two expensive options for AI. We offer a disruptive, affordable third.
 Book an audit
 No contract. Nothing to prepare.
-For your business
-
-## Software built around how you already work.
-We audit how the work moves, build from a working start for your industry, and hand it over to run on your computers. Book an audit
-Free for you
-
-## Palette, a free local AI app for your documents.
-Give it one folder. It reads only what you allow, on your computer, and links every line to its source. Get Palette free
 Who this is for
 
 ## Small and mid-sized businesses.
@@ -35,6 +27,14 @@ Real screens, shipped canvases Logistics Today Version 0.1.9 · sample orders Fr
 Logistics · Today The morning summary: KPIs with the time they were computed, stale orders, bottlenecks and commitments. Recorded 21 September 2026 on sample orders.
 Front desk · At a glance Calls handled, resolved on their own, transferred to a person, and what still needs review.
 Education · Capture an observation Dictate or type. The fields are suggested, then set by the teacher, and saved on this machine.
+For your business
+
+## Software built around how you already work.
+We audit how the work moves, build from a working start for your industry, and hand it over to run on your computers. Book an audit
+Free for you
+
+## Palette, a free local AI app for your documents.
+Give it one folder. It reads only what you allow, on your computer, and links every line to its source. Get Palette free
 Sound familiar?
 Software shouldn't need a workaround for the workaround.
 Every company has them.
@@ -52,36 +52,21 @@ How it works
 We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes. What you get
 Process map · Where the hours go How long it all takes
 Four to six weeks from the audit to handover, depending on what the audit finds.
-Process map
-Quote → Order → Invoice
-Where the hours go
 
 ### Redesign
 We cut the steps that only exist to move information from one system to another. What you get
 The new way of working, on paper How long it all takes
 Four to six weeks from the audit to handover, depending on what the audit finds.
-Steps taken out
-Retype the order into invoicing
-Email the spreadsheet round
-One record, kept by the software
 
 ### Assemble
 We start from the working application for your industry, change it to fit, and build the parts only you need. What you get
 Your application, set up How long it all takes
 Four to six weeks from the audit to handover, depending on what the audit finds.
-Your application
-✓ Your records
-✓ Your rules
-✓ The parts only you need
 
 ### Operate
 The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team. What you get
 Running in your business How long it all takes
 Four to six weeks from the audit to handover, depending on what the audit finds.
-Running
-✓ Data entry
-✓ Reports
-✓ Filing
 Book an audit No contract. Nothing to prepare.
 
 ## Questions.
@@ -111,14 +96,6 @@ Passed to a person
 With the conversation so far
 Every call kept
 Summary, audio and transcript
-For your business
-
-## Software built around how you already work.
-We audit how the work moves, build from a working start for your industry, and hand it over to run on your computers. Book an audit
-Free for you
-
-## Palette, a free local AI app for your documents.
-Give it one folder. It reads only what you allow, on your computer, and links every line to its source. Get Palette free
 Who this is for
 
 ## Small and mid-sized businesses.
@@ -127,6 +104,14 @@ Owners and operations leads who are tired of typing the same thing into three sy
 - In progress Healthcare Patient flow and queues, with sensitive data kept where it belongs.
 - In progress Office & Administration Invoices, queries and recurring paperwork, read, checked and filed.
 - Everything else If the work runs on documents, records and rules, we can build for it.
+For your business
+
+## Software built around how you already work.
+We audit how the work moves, build from a working start for your industry, and hand it over to run on your computers. Book an audit
+Free for you
+
+## Palette, a free local AI app for your documents.
+Give it one folder. It reads only what you allow, on your computer, and links every line to its source. Get Palette free
 Sound familiar?
 
 ## Software shouldn't need a workaround for the workaround.
@@ -159,36 +144,21 @@ How it works
 We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes. What you get
 Process map · Where the hours go How long it all takes
 Four to six weeks from the audit to handover, depending on what the audit finds.
-Process map
-Quote → Order → Invoice
-Where the hours go
 
 ### Redesign
 We cut the steps that only exist to move information from one system to another. What you get
 The new way of working, on paper How long it all takes
 Four to six weeks from the audit to handover, depending on what the audit finds.
-Steps taken out
-Retype the order into invoicing
-Email the spreadsheet round
-One record, kept by the software
 
 ### Assemble
 We start from the working application for your industry, change it to fit, and build the parts only you need. What you get
 Your application, set up How long it all takes
 Four to six weeks from the audit to handover, depending on what the audit finds.
-Your application
-✓ Your records
-✓ Your rules
-✓ The parts only you need
 
 ### Operate
 The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team. What you get
 Running in your business How long it all takes
 Four to six weeks from the audit to handover, depending on what the audit finds.
-Running
-✓ Data entry
-✓ Reports
-✓ Filing
 Book an audit No contract. Nothing to prepare.
 
 ## Questions.
