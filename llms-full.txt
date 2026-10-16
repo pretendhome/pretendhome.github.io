@@ -8,14 +8,10 @@ Mission Canvas builds private AI software for small and mid-sized businesses. Ea
 
 Source: https://missioncanvas.ai/
 
-# Software built around how your business works, running on your own computers.
+# Software built around your business, on your own computers.
 Companies have two expensive options for AI. We offer a disruptive, affordable third.
 Book an audit
-No contract. Nothing to prepare. Or see how an audit works
-Real screens, shipped canvases Logistics Today Version 0.1.9 · sample orders Front desk At a glance Current Italian-language build Education Capture an observation Version 0.2.106
-Logistics · Today The morning summary: KPIs with the time they were computed, stale orders, bottlenecks and commitments. Recorded 21 September 2026 on sample orders.
-Front desk · At a glance Calls handled, resolved on their own, transferred to a person, and what still needs review.
-Education · Capture an observation Dictate or type. The fields are suggested, then set by the teacher, and saved on this machine.
+No contract. Nothing to prepare.
 For your business
 
 ## Software built around how you already work.
@@ -30,15 +26,15 @@ Who this is for
 Owners and operations leads who are tired of typing the same thing into three systems. Pick your industry.
 ‹
 - CV-05 In progress Construction & Real Estate Job site, office and fleet in one system.
-- CV-01 Education A living picture of every student, built from what teachers notice.
-- CV-02 Logistics Every order, its stage, and who is waiting on it, checked overnight.
-- CV-03 Voice & Front Desk Calls answered, bookings made and follow-ups sent, on the channels your customers use.
-- CV-04 Events & Venues From online checkout to the gate, in one system.
 - CV-06 In progress Healthcare Patient flow and queues, with sensitive data kept where it belongs.
 - CV-07 In progress Office & Administration Invoices, queries and recurring paperwork, read, checked and filed.
 - CV-08 Everything else If the work runs on documents, records and rules, we can build for it. ›
 Each industry page lists what it handles today. New features are agreed in the audit and built for you, so the
 list is a floor, not a ceiling.
+Real screens, shipped canvases Logistics Today Version 0.1.9 · sample orders Front desk At a glance Current Italian-language build Education Capture an observation Version 0.2.106
+Logistics · Today The morning summary: KPIs with the time they were computed, stale orders, bottlenecks and commitments. Recorded 21 September 2026 on sample orders.
+Front desk · At a glance Calls handled, resolved on their own, transferred to a person, and what still needs review.
+Education · Capture an observation Dictate or type. The fields are suggested, then set by the teacher, and saved on this machine.
 Sound familiar?
 Software shouldn't need a workaround for the workaround.
 Every company has them.
@@ -74,34 +70,6 @@ You get Your application, set up
 The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team.
 You get Running in your business
 Book an audit No contract. Nothing to prepare.
-Client stories
-
-## In their own words.
-All Construction Front desk Feedback
-‹
-- Livella
-Awaiting quote · review copy only
-
-### Pellegrini
-,
-- 0.0 Call
-Awaiting quote · review copy only
-
-### An eye clinic
-,
-- 0.0 Call
-Awaiting quote · review copy only
-
-### A municipal waste service
-,
-- 0.0 Call
-Awaiting quote · review copy only
-
-### A tourist information line
-,
-- FeedbackCompanion
-Awaiting quote · review copy only
-, ›
 
 ## Questions.
 What is Mission Canvas?
@@ -116,12 +84,12 @@ Start with an audit
 ## Stop working around your software. Build it around your business. Book an audit
 No contract. Nothing to prepare.
 Your company already knows how to work. Your software should too.
-Software built around how your business works, running on your own computers.
+Software built around your business, on your own computers.
 Companies have two expensive options for AI. We offer a disruptive, affordable third.
 - Runs on your own computers
 - No per-seat fees
 - Four to six weeks to handover
-Book an audit See how an audit works
+Book an audit
 No contract. Nothing to prepare.
 Front desk · At a glance
 Call answered
@@ -143,10 +111,6 @@ Who this is for
 ## Small and mid-sized businesses.
 Owners and operations leads who are tired of typing the same thing into three systems. Pick your industry.
 - In progress Construction & Real Estate Job site, office and fleet in one system.
-- Education A living picture of every student, built from what teachers notice.
-- Logistics Every order, its stage, and who is waiting on it, checked overnight.
-- Voice & Front Desk Calls answered, bookings made and follow-ups sent, on the channels your customers use.
-- Events & Venues From online checkout to the gate, in one system.
 - In progress Healthcare Patient flow and queues, with sensitive data kept where it belongs.
 - In progress Office & Administration Invoices, queries and recurring paperwork, read, checked and filed.
 - Everything else If the work runs on documents, records and rules, we can build for it.
