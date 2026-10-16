@@ -63,7 +63,7 @@ mkdir -p "$INSTALL_DIR"
 # Download or update the CLI binary
 # Release resolution: the desktop app's releases (tags desktop-v*) live in this
 # same repo, so "releases/latest" can resolve to a release that carries none of
-# the mc-* binaries. On 2026-09-20 it resolved to a Tropical IT release and all
+# the mc-* binaries. On 2026-09-20 it resolved to a Logistics app release and all
 # three of these downloads 404'd, which broke the install command printed on
 # missioncanvas.ai. install.sh already resolves the CLI train explicitly; this
 # script was missed. Resolve the newest CLI release (tag v*), and fall back to

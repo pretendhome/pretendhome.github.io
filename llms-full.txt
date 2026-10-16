@@ -1,6 +1,6 @@
 # Mission Canvas
 
-> Private AI software built around how your team works. We audit the workflow, build the application and run it on your own computers. No per-seat fees.
+> Software built around how your business works, running on your own computers. We audit the workflow, build the application and hand it over. No per-seat fees.
 
 Mission Canvas builds private AI software for small and mid-sized businesses. Each engagement starts with a workflow audit, then the application is built from a working starting point for the industry (a "canvas") and runs on the business's own computers. Licensed per company, with no per-seat fees. Book an audit: https://missioncanvas.ai/audit/
 
@@ -8,8 +8,8 @@ Mission Canvas builds private AI software for small and mid-sized businesses. Ea
 
 Source: https://missioncanvas.ai/
 
-# Private AI software, built around how your team works. Companies have two expensive options for AI. We offer a disruptive, affordable third.
-Mission Canvas, where the way your business works becomes software you own. Mission Canvas builds a local AI application around the way your company works, then hands it over — your hardware, your information, your call on when an outside model is used.
+# Software built around how your business works, running on your own computers.
+Companies have two expensive options for AI. We offer a disruptive, affordable third.
 Book an audit
 No contract. Nothing to prepare. Or see how an audit works
 Real screens, shipped canvases Logistics Today Version 0.1.9 · sample orders Front desk At a glance Current Italian-language build Education Capture an observation Version 0.2.106
@@ -24,71 +24,68 @@ Free for you
 
 ## Palette, a free local AI app for your documents.
 Give it one folder. It reads only what you allow, on your computer, and links every line to its source. Get Palette free
-Who this is for Vertical markets our canvases support
+Who this is for
 
-## Small and mid-sized businesses. Vertical markets our canvases support.
-Owners and operations leads who are tired of typing the same thing into three systems. Pick your industry. Mission Canvas builds applications for specific jobs across education, logistics, front desk, events, construction, healthcare and administration.
+## Small and mid-sized businesses.
+Owners and operations leads who are tired of typing the same thing into three systems. Pick your industry.
 ‹
-- CV-05 In progress Construction & Real Estate Daily logs, documents and job costs, in one place. Site data, documents and communications in one ordered picture.
-- CV-01 Education The roster, the report cards and what the teacher noticed, on the teacher's own machine. The roster, the report cards and what the teacher noticed, on the teacher's own machine.
-- CV-02 Logistics Every order, its stage, and who is waiting on it, checked overnight. Every order, its stage, and who is waiting on it, checked overnight.
-- CV-03 Voice & Front Desk Calls answered, bookings made and follow-ups sent, on the channels your customers use. Agents that answer, book and follow up on the channels people use.
-- CV-04 Events & Venues From online checkout to the gate, in one system. From online checkout to the gate, on one commercial engine.
-- CV-06 In progress Healthcare Patient flow and queues, with sensitive data kept where it belongs. Live flows and queues, with sensitive data kept where it belongs.
-- CV-07 In progress Office & Administration Invoices, queries and recurring paperwork, read, checked and filed. The repetitive back-office work, extracted, checked and filed.
-- CV-08 Everything else Your field — everything else If the work runs on documents, records and rules, we can build for it. Manufacturing, agriculture, professional services, the public sector. If the work runs on documents, records and rules, it can become a canvas. ›
+- CV-05 In progress Construction & Real Estate Job site, office and fleet in one system.
+- CV-01 Education A living picture of every student, built from what teachers notice.
+- CV-02 Logistics Every order, its stage, and who is waiting on it, checked overnight.
+- CV-03 Voice & Front Desk Calls answered, bookings made and follow-ups sent, on the channels your customers use.
+- CV-04 Events & Venues From online checkout to the gate, in one system.
+- CV-06 In progress Healthcare Patient flow and queues, with sensitive data kept where it belongs.
+- CV-07 In progress Office & Administration Invoices, queries and recurring paperwork, read, checked and filed.
+- CV-08 Everything else If the work runs on documents, records and rules, we can build for it. ›
 Each industry page lists what it handles today. New features are agreed in the audit and built for you, so the
 list is a floor, not a ceiling.
-Every canvas page lists the features it supports today. New ones are defined during the audit and built for your company, so the list you see is a floor, not a ceiling.
-Sound familiar? A workaround for the workaround
+Sound familiar?
 Software shouldn't need a workaround for the workaround.
 Every company has them.
 The spreadsheet that fixes the CRM.
 The manual check that keeps the process from going wrong.
 The person everyone asks because the system doesn't tell them what to do.
-It's easy to call this "just how we work." It isn't. It's what happens when the software stops matching the business. These things are easy to dismiss as "just how we work." They aren't. They're what happens when the software stops matching the business.
-You know where the hours go. We build the software around how you actually work, so your team stops making up for it. Mission Canvas puts the way your company actually works into the application, so the business doesn't have to keep compensating for it.
-How it works How we build it
+It's easy to call this "just how we work." It isn't. It's what happens when the software stops matching the business.
+You know where the hours go. We build the software around how you actually work, so your team stops making up for it.
+How it works
 
-## From the way you work to software you can run, in four to six weeks. From the way you work to software you can run.
+## From the way you work to software you can run, in four to six weeks.
 You don't start from a blank page. We have working applications for common business problems, so you don't pay
 us to reinvent them.
-You don't need another blank canvas. We already have working applications for common business problems. They give us a starting point, so you're not paying us to reinvent something that already exists. Then we change it.
 We call each one a canvas: the workflows, the words and the rules of one industry, already
 built. We start from yours, then change it to fit the rules your people follow and the steps your software
 never captured.
-We spend four to six weeks learning how your company actually operates and adapting the application around it. The rules people follow. The information they need. The parts of the process that never made it into the software.
 The starting point is proven. What you end up with is yours.
-Four steps, four to six weeks What the engagement is made of
+Four steps, four to six weeks
 
 ### Audit
-We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes. We work inside your company with proprietary audit tooling: mapping processes, tools and data flows, and measuring where time and accuracy are lost.
-You get Output Process map · Where the hours go Process map · Inefficiency report
+We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes.
+You get Process map · Where the hours go
 
 ### Redesign
-We cut the steps that only exist to move information from one system to another. We redraw processes, tools and roles around what agents can reliably do and remove the steps that only existed to move information around.
-You get Output The new way of working, on paper Target operating model
+We cut the steps that only exist to move information from one system to another.
+You get The new way of working, on paper
 
 ### Assemble
-We start from the working application for your industry, change it to fit, and build the parts only you need. We compose your system from vertical canvas modules, customise them, and build the modules that only your company needs.
-You get Output Your application, set up Your application, configured
+We start from the working application for your industry, change it to fit, and build the parts only you need.
+You get Your application, set up
 
 ### Operate
-The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team. Agents take over repetitive daily operations, analysis and reporting. We measure, tune and extend alongside your team.
-You get Output Running in your business Agents in production
+The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team.
+You get Running in your business
 Book an audit No contract. Nothing to prepare.
 Proof
 
-## Built, filed, and running on real data. Built, filed, and running against real data.
-· ·
+## Built, filed, and running on real data.
+Tested against live data · Runs on your own computers · Handed over in four to six weeks
 Deployed
-An international school network runs the system on its real school data. An international school network runs the system against real school data.
+An international school network runs the system on its real school data.
 25 canvases
-Working starting points across education, logistics, construction, healthcare, events, voice, legal, finance and marketing. Seven are shown above. Built across education, logistics, construction, healthcare, events, voice, legal, finance and marketing. Seven of them are shown above.
+Working starting points across education, logistics, construction, healthcare, events, voice, legal, finance and marketing. Seven are shown above.
 Patented
-Four provisional applications with the US Patent and Trademark Office, in three independent families. Two trademarks, examiner-approved. Four provisional applications with the United States Patent and Trademark Office, across three independent families. Two trademarks, examiner-approved.
+Four provisional applications with the US Patent and Trademark Office, in three independent families. Two trademarks, examiner-approved.
 Two founders, eighteen months
-The system was built and shipping before we sold anything. The system was built and shipping before we sold anything.
+The system was built and shipping before we sold anything.
 Client stories
 
 ## In their own words.
@@ -128,12 +125,11 @@ Four to six weeks from the audit to handover, depending on what the audit finds.
 Show all 13 questions
 Start with an audit
 
-## Stop working around your software. Build it around your business. Stop working around your software. Build the software around your business. Book an audit
+## Stop working around your software. Build it around your business. Book an audit
 No contract. Nothing to prepare.
 Your company already knows how to work. Your software should too.
-
-# Private AI software, built around how your team works. Companies have two expensive options for AI. We offer a disruptive, affordable third.
-Mission Canvas, where the way your business works becomes software you own. Mission Canvas builds a local AI application around the way your company works, then hands it over — your hardware, your information, your call on when an outside model is used.
+Software built around how your business works, running on your own computers.
+Companies have two expensive options for AI. We offer a disruptive, affordable third.
 - Runs on your own computers
 - No per-seat fees
 - Four to six weeks to handover
@@ -154,19 +150,19 @@ Free for you
 
 ## Palette, a free local AI app for your documents.
 Give it one folder. It reads only what you allow, on your computer, and links every line to its source. Get Palette free
-Who this is for Vertical markets our canvases support
+Who this is for
 
-## Small and mid-sized businesses. Vertical markets our canvases support.
-Owners and operations leads who are tired of typing the same thing into three systems. Pick your industry. Mission Canvas builds applications for specific jobs across education, logistics, front desk, events, construction, healthcare and administration.
-- In progress Construction & Real Estate Daily logs, documents and job costs, in one place. Site data, documents and communications in one ordered picture.
-- Education The roster, the report cards and what the teacher noticed, on the teacher's own machine. The roster, the report cards and what the teacher noticed, on the teacher's own machine.
-- Logistics Every order, its stage, and who is waiting on it, checked overnight. Every order, its stage, and who is waiting on it, checked overnight.
-- Voice & Front Desk Calls answered, bookings made and follow-ups sent, on the channels your customers use. Agents that answer, book and follow up on the channels people use.
-- Events & Venues From online checkout to the gate, in one system. From online checkout to the gate, on one commercial engine.
-- In progress Healthcare Patient flow and queues, with sensitive data kept where it belongs. Live flows and queues, with sensitive data kept where it belongs.
-- In progress Office & Administration Invoices, queries and recurring paperwork, read, checked and filed. The repetitive back-office work, extracted, checked and filed.
-- Everything else Your field — everything else If the work runs on documents, records and rules, we can build for it. Manufacturing, agriculture, professional services, the public sector. If the work runs on documents, records and rules, it can become a canvas.
-Sound familiar? A workaround for the workaround
+## Small and mid-sized businesses.
+Owners and operations leads who are tired of typing the same thing into three systems. Pick your industry.
+- In progress Construction & Real Estate Job site, office and fleet in one system.
+- Education A living picture of every student, built from what teachers notice.
+- Logistics Every order, its stage, and who is waiting on it, checked overnight.
+- Voice & Front Desk Calls answered, bookings made and follow-ups sent, on the channels your customers use.
+- Events & Venues From online checkout to the gate, in one system.
+- In progress Healthcare Patient flow and queues, with sensitive data kept where it belongs.
+- In progress Office & Administration Invoices, queries and recurring paperwork, read, checked and filed.
+- Everything else If the work runs on documents, records and rules, we can build for it.
+Sound familiar?
 
 ## Software shouldn't need a workaround for the workaround.
 customers_FIXED_v3.xlsx
@@ -188,23 +184,23 @@ Where do I find the price for this?
 Can you check this before I send it?
 Sorry, one more…
 The person everyone asks because the system doesn't tell them what to do.
-You know where the hours go. We build the software around how you actually work, so your team stops making up for it. Mission Canvas puts the way your company actually works into the application, so the business doesn't have to keep compensating for it.
-How it works How we build it
+You know where the hours go. We build the software around how you actually work, so your team stops making up for it.
+How it works
 
-## From the way you work to software you can run, in four to six weeks. From the way you work to software you can run.
+## From the way you work to software you can run, in four to six weeks.
 01 Audit 02 Redesign 03 Assemble 04 Operate
 
 ### Audit
-We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes. We work inside your company with proprietary audit tooling: mapping processes, tools and data flows, and measuring where time and accuracy are lost. What you get
-Process map · Where the hours go Process map · Inefficiency report How long it all takes
+We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes. What you get
+Process map · Where the hours go How long it all takes
 Four to six weeks from the audit to handover, depending on what the audit finds.
 Process map
 Quote → Order → Invoice
 Where the hours go
 
 ### Redesign
-We cut the steps that only exist to move information from one system to another. We redraw processes, tools and roles around what agents can reliably do and remove the steps that only existed to move information around. What you get
-The new way of working, on paper Target operating model How long it all takes
+We cut the steps that only exist to move information from one system to another. What you get
+The new way of working, on paper How long it all takes
 Four to six weeks from the audit to handover, depending on what the audit finds.
 Steps taken out
 Retype the order into invoicing
@@ -212,8 +208,8 @@ Email the spreadsheet round
 One record, kept by the software
 
 ### Assemble
-We start from the working application for your industry, change it to fit, and build the parts only you need. We compose your system from vertical canvas modules, customise them, and build the modules that only your company needs. What you get
-Your application, set up Your application, configured How long it all takes
+We start from the working application for your industry, change it to fit, and build the parts only you need. What you get
+Your application, set up How long it all takes
 Four to six weeks from the audit to handover, depending on what the audit finds.
 Your application
 ✓ Your records
@@ -221,8 +217,8 @@ Your application
 ✓ The parts only you need
 
 ### Operate
-The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team. Agents take over repetitive daily operations, analysis and reporting. We measure, tune and extend alongside your team. What you get
-Running in your business Agents in production How long it all takes
+The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team. What you get
+Running in your business How long it all takes
 Four to six weeks from the audit to handover, depending on what the audit finds.
 Running
 ✓ Data entry
@@ -231,15 +227,15 @@ Running
 Book an audit No contract. Nothing to prepare.
 Proof
 
-## Built, filed, and running on real data. Built, filed, and running against real data.
+## Built, filed, and running on real data.
 Deployed
-An international school network runs the system on its real school data. An international school network runs the system against real school data.
+An international school network runs the system on its real school data.
 25 canvases
-Working starting points across education, logistics, construction, healthcare, events, voice, legal, finance and marketing. Seven are shown above. Built across education, logistics, construction, healthcare, events, voice, legal, finance and marketing. Seven of them are shown above.
+Working starting points across education, logistics, construction, healthcare, events, voice, legal, finance and marketing. Seven are shown above.
 Patented
-Four provisional applications with the US Patent and Trademark Office, in three independent families. Two trademarks, examiner-approved. Four provisional applications with the United States Patent and Trademark Office, across three independent families. Two trademarks, examiner-approved.
+Four provisional applications with the US Patent and Trademark Office, in three independent families. Two trademarks, examiner-approved.
 Two founders, eighteen months
-The system was built and shipping before we sold anything. The system was built and shipping before we sold anything.
+The system was built and shipping before we sold anything.
 
 ## Questions.
 What is Mission Canvas?
@@ -251,7 +247,7 @@ Four to six weeks from the audit to handover, depending on what the audit finds.
 Show all 13 questions
 Start with an audit
 
-## Stop working around your software. Build it around your business. Stop working around your software. Build the software around your business. Book an audit
+## Stop working around your software. Build it around your business. Book an audit
 No contract. Nothing to prepare.
 
 ---
@@ -260,9 +256,8 @@ Source: https://missioncanvas.ai/about
 
 About Mission Canvas
 
-# AI should back up your expertise, not replace it. Designing the future of human–AI collaboration.
+# AI should back up your expertise, not replace it.
 We help businesses see, own and improve the work that matters most, with AI they can answer for.
-Mission Canvas exists to help every person and every organization design, understand, and continuously improve the work that matters most — through AI they can actually answer for.
 A note from the founder
 ,
 
@@ -282,59 +277,46 @@ Running development teams.
 
 ## What we believe.
 
-### Own your workflows. Don’t rent your intelligence. Knowledge work deserves the innovation manufacturing already got.
+### Own your workflows. Don’t rent your intelligence.
 What your company knows sits in email, calendars, documents, drives and people’s heads. We connect it on hardware you control.
-Today, the knowledge an organization depends on is scattered across systems that do not talk to each other. People spend hours every day looking for information they already have.
-Mission Canvas connects that knowledge into a living system so people and organizations can think more clearly, work together more effectively, and continuously improve. We believe every organization should own its workflows rather than rent its intelligence.
 
-### You decide what runs where. AI should not replace human expertise. It should amplify it.
+### You decide what runs where.
 Requests run on your machines. You decide what leaves, which AI models are used, and why.
-We are building toward a world where intelligent systems help people spend less time searching, organizing, and repeating work — and more time creating, solving problems, caring for others, and making decisions that matter.
-From AI that you visit to AI that executes the work around you. Requests run on hardware the customer controls, with governed handoffs to frontier models only when they add value. The user decides what runs where, what information leaves, which models are used, and why.
 
-### Work should be visible. Every important workflow should be visible, improvable, and trusted.
+### Work should be visible.
 Spreadsheets changed finance. Computer-aided design changed engineering. We want you to see how work flows, and improve it.
-Spreadsheets transformed finance. Computer-aided design transformed engineering. Mission Canvas aims to do the same for knowledge work — a system where people can see how work flows, understand how decisions were made, and improve those workflows over time.
-Whether someone is organizing their personal life, running a small business, managing a hospital, or coordinating a global enterprise, the requirement is the same. AI should not be a black box. It should be explainable, governed, collaborative, and trusted.
 
-## What we’re working toward. What we are building toward.
-These are outcomes we’re working to prove, not results we claim today. These are the outcomes we are working to prove, not results we are claiming today.
+## What we’re working toward.
+These are outcomes we’re working to prove, not results we claim today.
 
-### Give people their time back Give people their time back
-Cut repetitive work, so attention goes to people, ideas and decisions. Cut repetitive knowledge work substantially, so attention goes to creativity, relationships, and higher-value decisions.
+### Give people their time back
+Cut repetitive work, so attention goes to people, ideas and decisions.
 
-### Make AI understandable Make AI understandable
-Systems you can see into, explain and check. No black boxes. Replace black-box AI with systems that are transparent, explainable, auditable, and straightforward to trust.
+### Make AI understandable
+Systems you can see into, explain and check. No black boxes.
 
-### Connect what you know Connect human knowledge
-Turn scattered information into something your team can search and share. Turn disconnected information into organizational intelligence that can be searched, visualized, improved, and shared.
+### Connect what you know
+Turn scattered information into something your team can search and share.
 
-### Keep what people know Preserve institutional memory
-Capture how work is done before it leaves with someone who retires. Capture workflows, decisions, and best practices before they disappear through turnover or retirement.
+### Keep what people know
+Capture how work is done before it leaves with someone who retires.
 
-### AI for everyone Democratize AI
-Let anyone design a workflow, not only developers and data scientists. Let anyone design an intelligent workflow — not only developers and data scientists.
+### AI for everyone
+Let anyone design a workflow, not only developers and data scientists.
 
-### Work better together Improve collaboration
-Let teams build, share and improve their workflows together. Let teams build, share, reuse, and continuously improve AI-powered workflows together.
+### Work better together
+Let teams build, share and improve their workflows together.
 
-### Earn trust Build responsible AI
-Privacy, security and human oversight first. Technology should earn trust, not demand it. Prioritize transparency, governance, privacy, security, and human oversight. Technology should earn trust, not demand it.
+### Earn trust
+Privacy, security and human oversight first. Technology should earn trust, not demand it.
 
-## Wherever paperwork piles up. Clinicians spend too much time on administration and not enough on patients.
+## Wherever paperwork piles up.
 Healthcare is where this matters most. Patient information can’t go into a public AI tool. With Mission
 Canvas, sensitive work stays on a local model, and every answer records the path it took.
-Healthcare is one of the largest opportunities for responsible AI, and one of the hardest places to deploy it.
-Patient information cannot be pasted into a public model, and the proposed update to the HIPAA Security Rule
-would require documented evidence behind decisions touching protected health information.
-That is the problem Mission Canvas was built for. Sensitive domains are routed to a local model by rules compiled
-into the system, and every answer carries a record of the path it took. Mission Canvas helps healthcare
-organizations redesign administrative and clinical workflows that improve care while reducing unnecessary cost.
 The same approach works in education, logistics, legal, financial services, government and manufacturing.
-Legal, financial services, government, education, life sciences, manufacturing, and aerospace and defense.
 
-## Your company already knows how to work. Your software should too. We are not simply building AI software.
-Building the tool is a separate job, quoted before you commit. We are building infrastructure for a different way of working. A future where people and AI collaborate naturally. Where knowledge is connected instead of fragmented. Where organizations learn continuously instead of repeatedly starting over. Where intelligent workflows become reusable assets that improve over time. Book an audit
+## Your company already knows how to work. Your software should too.
+Building the tool is a separate job, quoted before you commit. Book an audit
 No contract. Nothing to prepare.
 
 ---
@@ -403,38 +385,37 @@ Source: https://missioncanvas.ai/canvases/
 
 Canvases
 
-# Pick your industry. Canvases
+# Pick your industry.
 Each one starts from a working application for that industry: its documents, its words and its rules, already
 built. We change it to fit you.
-Find a Canvas that gets you close. We'll make it fit.
 - CV-05 In progress
 
 ## Construction & Real Estate
-Run the job, not the paperwork. Site data, documents and communications in one ordered picture. Site reporting · Document control · Cost tracking
+Run the job, not the paperwork. Job sites · Delivery tickets · Fleet and fuel
 - CV-01
 
 ## Education
-Your notes on every student, on your own machine. The roster, the report cards and what the teacher noticed, on the teacher's own machine. Student lenses · Observations · Lesson activities
+A living picture of every student, on your own machines. Student lenses · Observations · Parent summaries
 - CV-02
 
 ## Logistics
-Know which order is late before the customer calls. Every order, its stage, and who is waiting on it, checked overnight. Order tracking · Overnight risk check · Questions from the record
+Know which order is late before the customer calls. Order tracking · Overnight risk check · Questions from the record
 - CV-03
 
 ## Voice & Front Desk
-Every call answered. Every booking on the calendar. Agents that answer, book and follow up on the channels people use. AI phone agents · WhatsApp · Booking
+Every call answered. Every booking on the calendar. AI phone agents · WhatsApp · Booking
 - CV-04
 
 ## Events & Venues
-One system from the ticket sale to the gate. From online checkout to the gate, on one commercial engine. Ticketing · Access control · POS · Visitor CRM
+One system from the ticket sale to the gate. Ticketing · Access control · POS · Visitor CRM
 - CV-06 In progress
 
 ## Healthcare
-Patient flow without the paperwork. Live flows and queues, with sensitive data kept where it belongs. Patient flow · Scheduling · Clinical operations
+Patient flow without the paperwork. Patient flow · Scheduling · Clinical operations
 - CV-07 In progress
 
 ## Office & Administration
-Invoices read, checked and filed. The repetitive back-office work, extracted, checked and filed. Invoices · Queries · Recurring work
+Invoices read, checked and filed. Invoices · Queries · Recurring work
 - CV-08
 
 ## Your field
@@ -450,51 +431,61 @@ Source: https://missioncanvas.ai/canvases/construction
 
 Construction and Real Estate
 
-# Construction daily log and job costing software Run the job, not the paperwork. Site data, documents and communications in one ordered picture.
-Daily logs, change orders and job costing, in one place. Built around how your crew already works, running on
-your own computers.
+# Construction job costing and fleet software Run the job, not the paperwork.
+Job site, office and fleet in one system, with AI doing the back-office work. Built around how your crew already
+works, running on your own computers.
 Book an audit No contract. Nothing to prepare. Meet Livella
-
-## Sound familiar?
-The site runs all day. The paperwork waits until night.
-- Daily logs
-- Change orders
-- Job costing
 
 ## What it handles today.
 These parts work now. Anything else your business needs is agreed in the audit and built for you. This list is
 the floor, not the ceiling.
-This canvas is in progress. There are no screenshots of it yet, so this page shows none. What follows is what it is being built around, not a list of finished features.
-- Site reporting
+- 01
 
-### Daily logs
-Crew notes, photos and hours from the site, in one daily log. No retyping at night.
-- Document control
+### Every job site in one record
+Status, crews, documents and progress in one place. Each job’s costs run from estimate to actuals and stay current.
+- 02
 
-### Drawings, RFIs and submittals
-The current version of every drawing, RFI and submittal, findable in seconds.
-- Cost tracking
+### Delivery tickets read by AI
+Inbound and outbound delivery tickets are digitised, read automatically and tied to the right job.
+- 03
 
-### Job costing and change orders
-Costs and change orders checked against the budget while the job runs, not after.
+### Safety and quality without paper
+Protective equipment is assigned and declarations stay compliant. Concrete pours and material quality are logged to code.
+- 04
+
+### Fleet and fuel
+Equipment records, due dates and job-site assignments. Fuel tracked by machine and by job. Scheduled maintenance and driver contracts linked.
+- 05
+
+### Crew and hiring
+Employee records and roles without spreadsheets. AI screens résumés from application to shortlist.
+- 06
+
+### Office paperwork
+Mileage reimbursements calculated and printed to PDF. Payments to vendors and employees ordered, tracked and approved. Invoices read automatically.
+- 07
+
+### An assistant that knows the business
+Answers questions from the firm’s own data. Field notes can be dictated and transcribed automatically.
 Meet Livella
 
 ## Livella
-Daily logs, documents and job costs for builders, in one place.
-Livella is the construction app we start from. It's for who are tired of chasing paper between the site and the office.
+Job site, office and fleet in one system, with AI doing the back-office work.
+Livella is the construction app we start from: a web app for the office and a field app for the site, with
+unlimited field users.
 Book an audit No contract. Nothing to prepare.
-Livella · Daily log
+Livella · Job site
 ↑
 
 ## See it on a real job.
-Three screens from one day: the log, a change order, the cost sheet.
-· ·
+Three screens from one day: the job, a delivery ticket, the cost sheet.
+Runs every day at an Italian construction firm that pays for it and whose own work it was built around.
 
 ## Four to six weeks, start to handover.
 What working with us looks like, so you know how much disruption to expect.
 
 ### Audit
-We walk through how a job moves from the site to the office: logs, RFIs, change orders, costs.
+We walk through how a job moves from the site to the office: notes, delivery tickets, fuel, costs.
 
 ### Redesign
 We cut the steps where someone retypes the same thing into another system.
@@ -510,7 +501,7 @@ Your crew uses it on live jobs. We adjust it with you as it runs.
 - If you use an outside AI model, only what that task needs is sent, and it's logged.
 - You can run local models instead, and send nothing out. How we handle your data
 
-## Show us the job that eats your week. Do what you do best. We'll handle the software.
+## Show us the job that eats your week.
 Building the tool is a separate job, quoted before you commit. Book an audit
 No contract. Nothing to prepare.
 
@@ -520,37 +511,33 @@ Source: https://missioncanvas.ai/canvases/education
 
 Canvases CV-01 Education
 
-# Private AI for schools Your notes on every student, on your own machine. A teacher's notes, kept on the teacher's machine.
-Observations, summaries and lesson plans in one place, for schools that cannot send student data out. Roster in, observations captured by voice or typing, student lenses updated from the report cards a school already has, and lesson activities in three tiers. It runs on the teacher's own computer, and student data does not leave it.
+# Private AI for schools A living picture of every student, on your own machines.
+Say or type what you noticed in under a minute. The right student’s lens updates: strategies that work, accommodations, CEFR milestones. Student data never leaves the school.
 Book an audit No contract. Nothing to prepare.
 
-## Sound familiar?
-The lesson ends. What you noticed is in your head, on sticky notes and in a notebook.
-- Observations
-- Report cards
-- Lesson plans
-
-## What it handles today. Everything this canvas already does.
+## What it handles today.
 These parts work now. Anything else your business needs is agreed in the audit and built for you. This list is the floor, not the ceiling.
-The inventory below is what ships before we change a line. It is a floor, not a ceiling:
-the features your company needs are defined in the audit and built on top.
 - 01
 
-### Observation notes
-Say what you noticed. It becomes a note on the right student in under a minute.
+### Student and classroom lenses
+A learning profile for each student and each class that keeps growing across grades and teachers.
 - 02
 
-### Summaries for home
-Drafted from your notes. Nothing goes home until you have checked it.
+### Progress notes and IEPs
+Bring in a note that covers several students. Each student gets only their own part, with a confidence badge.
 - 03
 
-### Lesson plans
-Built from the coursework you already have, not from a blank page.
+### Summaries for parents
+Drafted only from confirmed lens entries. Nothing goes home until every sentence traces back to one.
+- 04
 
-## See it on a real day. A working platform, not a slide.
-A recording of the shipped build, unedited. This canvas is software that already runs. What you see here is the starting point we customise, not a concept to be built from zero.
+### Exercises from your coursework
+Activities adapted from the school’s own coursework and textbooks, in three tiers.
+
+## See it on a real day.
+A recording of the shipped build, unedited.
 Education · recording ↑ Recorded 21 September 2026 on version 0.2.106, unedited: roster import, a report card into the lenses, an observation, a summary and a three-tier activity. The class is a sample.
-· ·
+Tested against live data · Runs on your own computers · Handed over in four to six weeks
 Everything it already does: 8 modules, 42 features
 - M-01 Students A lens per student, built from what the school already writes down.
 - M-02 Observe A short note, attached to the right child, in under a minute.
@@ -572,7 +559,7 @@ Everything it already does: 8 modules, 42 features
 - CV-06 Healthcare
 - CV-07 Office & Administration
 
-## Show us the job that eats your week. Do what you do best. We'll handle the software.
+## Show us the job that eats your week.
 Building the tool is a separate job, quoted before you commit. Book an audit
 No contract. Nothing to prepare.
 
@@ -582,20 +569,12 @@ Source: https://missioncanvas.ai/canvases/events-venues
 
 Canvases CV-04 Events & Venues
 
-# Ticketing and access control software for venues One system from the ticket sale to the gate. From the first ticket sold to the last gate closed.
-Ticketing, check-in, the box office and your visitor list, for events and permanent venues. One commercial engine for congresses, museums, festivals and fairs: online checkout, box office, ticketing, access control, CRM and analytics, sharing the same orders, payments and tickets.
+# Ticketing and access control software for venues One system from the ticket sale to the gate.
+Ticketing, check-in, the box office and your visitor list, for events and permanent venues.
 Book an audit No contract. Nothing to prepare.
 
-## Sound familiar?
-Doors open in an hour. Sales are in one system, the guest list in another, the cash drawer in a third.
-- Ticket sales
-- The gate
-- The box office
-
-## What it handles today. Everything this canvas already does.
+## What it handles today.
 These parts work now. Anything else your business needs is agreed in the audit and built for you. This list is the floor, not the ceiling.
-The inventory below is what ships before we change a line. It is a floor, not a ceiling:
-the features your company needs are defined in the audit and built on top.
 - 01
 
 ### Tickets
@@ -609,8 +588,8 @@ A clear yes or no at every scan, with the reason.
 ### The box office
 Online and walk-up sales in one catalogue, and a cash drawer that adds up.
 
-## See it on a real day. How the platform is laid out.
-Interface schematics with illustrative data. Product screenshots will replace them. This canvas is software that already runs. What you see here is the starting point we customise, not a concept to be built from zero. The figures on this page are drawings of the interface, not screenshots.
+## See it on a real day.
+Interface schematics with illustrative data. Product screenshots will replace them.
 Events & Venues · End-to-end pipeline
 - 01 Configure
 - Tenant
@@ -641,7 +620,7 @@ Events & Venues · End-to-end pipeline
 - Reconciliation
 - CSV export
 - Audit log Interface schematic · illustrative data ↑ Configuration, sale, fulfilment, access and reporting share one data model. Every state change is an event.
-· ·
+Tested against live data · Runs on your own computers · Handed over in four to six weeks
 Everything it already does: 15 modules, 80 features
 - M-01 Platform and governance Multi-tenant foundations, licensing and access control.
 - M-02 Events The event as a first-class object, from draft to archive.
@@ -670,7 +649,7 @@ Everything it already does: 15 modules, 80 features
 - CV-06 Healthcare
 - CV-07 Office & Administration
 
-## Show us the job that eats your week. Do what you do best. We'll handle the software.
+## Show us the job that eats your week.
 Building the tool is a separate job, quoted before you commit. Book an audit
 No contract. Nothing to prepare.
 
@@ -680,15 +659,9 @@ Source: https://missioncanvas.ai/canvases/healthcare
 
 Canvases CV-06 Healthcare In progress
 
-# Patient check-in and scheduling software Patient flow without the paperwork. Live flows and queues, with sensitive data kept where it belongs.
+# Patient check-in and scheduling software Patient flow without the paperwork.
 Check-in, scheduling and queues, with patient data kept on your own computers.
 Book an audit No contract. Nothing to prepare.
-
-## Sound familiar?
-The waiting room fills before the first appointment starts.
-- Check-in
-- Scheduling
-- The queue
 
 ## What it is being built around.
 This canvas is in progress, so these are what it is being built around, not finished features. There are no screenshots yet.
@@ -704,7 +677,7 @@ Appointments, changes and cancellations in one book.
 
 ### Clinical operations
 The admin around care, with sensitive data kept where it belongs.
-· ·
+Runs on your own computers · Handed over in four to six weeks
 
 ## Your files stay on your computer.
 - Files are read and organised on a computer you already own. No data migration. No new cloud account.
@@ -717,7 +690,7 @@ The admin around care, with sensitive data kept where it belongs.
 - CV-04 Events & Venues
 - CV-07 Office & Administration
 
-## Show us the job that eats your week. Do what you do best. We'll handle the software.
+## Show us the job that eats your week.
 Building the tool is a separate job, quoted before you commit. Book an audit
 No contract. Nothing to prepare.
 
@@ -727,20 +700,12 @@ Source: https://missioncanvas.ai/canvases/logistics
 
 Canvases CV-02 Logistics
 
-# Order tracking software for small logistics companies Know which order is late before the customer calls. Every order, its stage, and who is waiting on it.
-Orders, stages and customer updates in one place, checked overnight on your own computers. Orders imported from the spreadsheets you already keep, tracked through fourteen stages from quote to closed, checked overnight, and a question box that answers from the record and refuses what it cannot ground. Customer identity and pricing never leave the machine.
+# Order tracking software for small logistics companies Know which order is late before the customer calls.
+Orders, stages and customer updates in one place, checked overnight on your own computers.
 Book an audit No contract. Nothing to prepare.
 
-## Sound familiar?
-The day starts with a spreadsheet and a list of people to chase.
-- Order status
-- The morning list
-- Customer updates
-
-## What it handles today. Everything this canvas already does.
+## What it handles today.
 These parts work now. Anything else your business needs is agreed in the audit and built for you. This list is the floor, not the ceiling.
-The inventory below is what ships before we change a line. It is a floor, not a ceiling:
-the features your company needs are defined in the audit and built on top.
 - 01
 
 ### The order file
@@ -754,10 +719,10 @@ Worked out overnight: what stalled, what is at risk, and where the bottleneck is
 ### Customer updates
 Drafted from the record. A person approves each one before it goes.
 
-## See it on a real day. A working platform, not a slide.
-A recording of the shipped build, unedited. This canvas is software that already runs. What you see here is the starting point we customise, not a concept to be built from zero.
+## See it on a real day.
+A recording of the shipped build, unedited.
 Logistics · recording ↑ Recorded 21 September 2026 on version 0.1.9, unedited: the morning screen, orders, the dashboard, and questions asked in English and Spanish. The orders are a sample file.
-· ·
+Tested against live data · Runs on your own computers · Handed over in four to six weeks
 Everything it already does: 8 modules, 35 features
 - M-01 Today The control tower, computed overnight.
 - M-02 Orders One record per order, from quote to closed.
@@ -779,7 +744,7 @@ Everything it already does: 8 modules, 35 features
 - CV-06 Healthcare
 - CV-07 Office & Administration
 
-## Show us the job that eats your week. Do what you do best. We'll handle the software.
+## Show us the job that eats your week.
 Building the tool is a separate job, quoted before you commit. Book an audit
 No contract. Nothing to prepare.
 
@@ -789,15 +754,9 @@ Source: https://missioncanvas.ai/canvases/office
 
 Canvases CV-07 Office & Administration In progress
 
-# Invoice processing automation for small businesses Invoices read, checked and filed. The repetitive back-office work, extracted, checked and filed.
+# Invoice processing automation for small businesses Invoices read, checked and filed.
 The repetitive back-office work, done on your own computers.
 Book an audit No contract. Nothing to prepare.
-
-## Sound familiar?
-The inbox has forty invoices, and three of them are wrong.
-- Invoices
-- Queries
-- Recurring work
 
 ## What it is being built around.
 This canvas is in progress, so these are what it is being built around, not finished features. There are no screenshots yet.
@@ -813,7 +772,7 @@ Questions about an invoice or a payment answered from the record.
 
 ### Recurring work
 The monthly and weekly jobs that follow the same steps every time.
-· ·
+Runs on your own computers · Handed over in four to six weeks
 
 ## Your files stay on your computer.
 - Files are read and organised on a computer you already own. No data migration. No new cloud account.
@@ -826,7 +785,7 @@ The monthly and weekly jobs that follow the same steps every time.
 - CV-04 Events & Venues
 - CV-06 Healthcare
 
-## Show us the job that eats your week. Do what you do best. We'll handle the software.
+## Show us the job that eats your week.
 Building the tool is a separate job, quoted before you commit. Book an audit
 No contract. Nothing to prepare.
 
@@ -836,20 +795,12 @@ Source: https://missioncanvas.ai/canvases/voice-front-desk
 
 Canvases CV-03 Voice & Front Desk
 
-# AI receptionist for small businesses Every call answered. Every booking on the calendar. An agent that answers, books and remembers.
-An agent answers the phone, WhatsApp and email, books and reschedules, and hands over to a person. AI agents on the phone, on WhatsApp and by email, connected to your calendar, governed by rules you write in plain language, and handing over to a person when it matters.
+# AI receptionist for small businesses Every call answered. Every booking on the calendar.
+An agent answers the phone, WhatsApp and email, books and reschedules, and hands over to a person.
 Book an audit No contract. Nothing to prepare.
 
-## Sound familiar?
-The phone rings while your hands are full.
-- Missed calls
-- Rescheduling
-- Follow-ups
-
-## What it handles today. Everything this canvas already does.
+## What it handles today.
 These parts work now. Anything else your business needs is agreed in the audit and built for you. This list is the floor, not the ceiling.
-The inventory below is what ships before we change a line. It is a floor, not a ceiling:
-the features your company needs are defined in the audit and built on top.
 - 01
 
 ### The appointment book
@@ -863,10 +814,10 @@ A person is always one transfer away, with the conversation so far.
 ### The call record
 Summary, audio and transcript kept for every conversation.
 
-## See it on a real day. A working platform, not a slide.
-Screens from the current Italian-language build. This canvas is software that already runs. What you see here is the starting point we customise, not a concept to be built from zero.
+## See it on a real day.
+Screens from the current Italian-language build.
 Voice & Front Desk · The front desk at a glance ↑ Calls handled, resolved autonomously, transferred to a person, and what still needs review.
-· ·
+Tested against live data · Runs on your own computers · Handed over in four to six weeks
 Everything it already does: 9 modules, 38 features
 - M-01 Channels One agent, reachable the way people already reach you.
 - M-02 Agent behaviour Control without prompt engineering.
@@ -889,7 +840,7 @@ Everything it already does: 9 modules, 38 features
 - CV-06 Healthcare
 - CV-07 Office & Administration
 
-## Show us the job that eats your week. Do what you do best. We'll handle the software.
+## Show us the job that eats your week.
 Building the tool is a separate job, quoted before you commit. Book an audit
 No contract. Nothing to prepare.
 
@@ -950,60 +901,60 @@ Source: https://missioncanvas.ai/how-it-works
 
 How it works
 
-# From scattered files to one picture of your business. From scattered knowledge. To a company that connects.
-Four steps turn what your company already has into something AI can work with. All of it on your own computers. One continuous picture. Four steps to put it to work.
+# From scattered files to one picture of your business.
+Four steps turn what your company already has into something AI can work with. All of it on your own computers.
 Book an audit No contract. Nothing to prepare.
 
 ## The four steps, in one painting
-01 · Read Scan
+01 · Read
 
-### Start with what you have. Start with what you have.
-Files, exports and records, read on your own machines. Nothing to move, nothing to retype. Files, exports and records become an indexed picture of your business. The work starts on your own machines.
+### Start with what you have.
+Files, exports and records, read on your own machines. Nothing to move, nothing to retype.
 You get
-A private index of what your company knows A local index of your company’s knowledge 02 · Sort Extract
+A private index of what your company knows 02 · Sort
 
-### Work out what each file is about. Give every piece a meaning.
-It finds the people, customers, orders, documents, processes and equipment behind the files. Recognize the people, customers, orders, documents, processes and assets behind the files.
+### Work out what each file is about.
+It finds the people, customers, orders, documents, processes and equipment behind the files.
 You get
-The things your business is made of Recognizable business entities 03 · Connect Connect
+The things your business is made of 03 · Connect
 
-### See how it all fits together. See how it all fits together.
-It links those things into one picture of how your company works, so the AI gets the connections, not just loose text. Link entities into a shared model of how your company works. Give agents relationships, not just isolated text.
+### See how it all fits together.
+It links those things into one picture of how your company works, so the AI gets the connections, not just loose text.
 You get
-One connected map of your company One connected company map 04 · Work Serve
+One connected map of your company 04 · Work
 
-### Put that knowledge to work. Put that knowledge to work.
-AI workers, called agents, use the map inside your walls. If an outside model is needed, only what the task needs is sent. Agents use the connected knowledge within your perimeter. When a model is needed, only the necessary context is passed on.
+### Put that knowledge to work.
+AI workers, called agents, use the map inside your walls. If an outside model is needed, only what the task needs is sent.
 You get
-Context for agents and for your industry’s application Context for agents and vertical canvases
-- 01 Read Scan
-- 02 Sort Extract
-- 03 Connect Connect
-- 04 Work Serve
+Context for agents and for your industry’s application
+- 01 Read
+- 02 Sort
+- 03 Connect
+- 04 Work
 Follow one example
 
-## One customer, one order, one contract. Same business. A shared understanding.
-Here is what each step does to three ordinary files. We call the result a private map of your company: the things in it, and how they connect. A private representation of how your company works is a map of the things in your company and the relationships between them. Here is one example, from the first file to the agent that uses it.
-- Read Scan
+## One customer, one order, one contract.
+Here is what each step does to three ordinary files. We call the result a private map of your company: the things in it, and how they connect.
+- Read
 
-### Start with what you have. Start with what you have.
-It starts with the material your team already uses. Everything is indexed on your own computers, so there is a base to work from. The map begins with the material your team already uses. It indexes that knowledge locally so there is a foundation to work from.
-Example A customer record, an order export and a signed contract. A customer record, an order export and a signed contract.
-- Sort Extract
+### Start with what you have.
+It starts with the material your team already uses. Everything is indexed on your own computers, so there is a base to work from.
+Example A customer record, an order export and a signed contract.
+- Sort
 
-### Work out what each file is about. Give every piece a meaning.
-A file is just a container. A customer or an order is something your business understands. This step finds those things across all your files. A file is a container. An entity is something the business understands. Extraction identifies those things across the source material.
-Example The customer, the order and the contract become three separate things it knows about. The customer, the order and the contract become distinct entities.
-- Connect Connect
+### Work out what each file is about.
+A file is just a container. A customer or an order is something your business understands. This step finds those things across all your files.
+Example The customer, the order and the contract become three separate things it knows about.
+- Connect
 
-### See how it all fits together. See how it all fits together.
-Connections turn separate facts into context: who looks after a customer, what an order needs, which document describes a piece of equipment. Relationships turn separate facts into context: who manages a customer, what an order uses, and which document describes an asset.
-Example A customer places an order. That order points to a contract. A customer places an order. That order references a contract.
-- Work Serve
+### See how it all fits together.
+Connections turn separate facts into context: who looks after a customer, what an order needs, which document describes a piece of equipment.
+Example A customer places an order. That order points to a contract.
+- Work
 
-### Put that knowledge to work. Put that knowledge to work.
-The map becomes the base for your application and its agents. The AI model can run locally or outside; the map stays yours. The map becomes a working foundation for functional canvases and agents. The model can be local or external; the company map stays yours.
-Example An agent follows the order’s links to find the right customer and contract. An agent follows the order’s links to find the relevant customer and document.
+### Put that knowledge to work.
+The map becomes the base for your application and its agents. The AI model can run locally or outside; the map stays yours.
+Example An agent follows the order’s links to find the right customer and contract.
 Working with us
 
 ## Four to six weeks, start to handover.
@@ -1043,7 +994,7 @@ Works with what you already have
 - Files and exports you already keep
 Imports shown are the Logistics canvas today. Others are agreed in the audit.
 
-## Your company already has the knowledge. Let's put it to work. Your company already has the knowledge. Let’s give it a map.
+## Your company already has the knowledge. Let's put it to work.
 Building the tool is a separate job, quoted before you commit. Book an audit
 No contract. Nothing to prepare.
 
@@ -1194,6 +1145,7 @@ Book an audit No contract. Nothing to prepare.
 - 1
 
 ## The audit
+Free
 We map how the work runs and where the hours go. You get a process map and a quote for the build.
 - 2
 
@@ -1256,10 +1208,10 @@ keeps your name, email and the time you chose so it can send the invite.
 Only to set up and run your audit, and to follow up about it. We don't sell it, rent it or use it for
 advertising.
 
-## Where it is kept and who sees it
-Your emails arrive in our company inbox at. Only the Mission Canvas team members
-running your audit can see them. We keep them for, and you can ask us to delete them at any
-time.
+## Your email stays with your email provider
+Mission Canvas does not bring your company's email into an inbox of ours. When your application automates
+email work, it is set up inside the provider you already use: Google Workspace, Microsoft 365, or any IMAP and
+SMTP service. Your correspondence stays inside your own security boundaries.
 
 ## How our software handles your business files
 - Your files are read and organized on your own computer.
@@ -1368,8 +1320,8 @@ The audit ends in software your team uses, not a slide deck.
 ## Who it is for.
 Small and mid-sized businesses whose work runs on documents, records and rules.
 ‹
-- CV-05 In progress Construction & Real Estate Daily logs, documents and job costs, in one place.
-- CV-01 Education The roster, the report cards and what the teacher noticed, on the teacher's own machine.
+- CV-05 In progress Construction & Real Estate Job site, office and fleet in one system.
+- CV-01 Education A living picture of every student, built from what teachers notice.
 - CV-02 Logistics Every order, its stage, and who is waiting on it, checked overnight.
 - CV-03 Voice & Front Desk Agents that answer, book and follow up on the channels people use.
 - CV-04 Events & Venues From online checkout to the gate, on one commercial engine.
@@ -1444,7 +1396,7 @@ Patent pending
 Four provisional applications with the US Patent and Trademark Office, in three independent families.
 Eighteen months
 Two founders built and shipped the system before selling anything.
-Customer proof: · ·
+Tested against live data · Runs on your own computers · Handed over in four to six weeks
 Figures as of October 2026.
 
 ## Do what you do best. We'll handle the software.
