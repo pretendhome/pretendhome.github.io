@@ -749,30 +749,6 @@ One connected map of your company
 ### Put that knowledge to work.
 AI workers, called agents, use the map inside your walls. If an outside model is needed, only what the task needs is sent. What you get
 Context for agents and for your industry’s application
-Follow one example
-
-## One customer, one order, one contract.
-Here is what each step does to three ordinary files. We call the result a private map of your company: the things in it, and how they connect.
-- Read
-
-### Start with what you have.
-It starts with the material your team already uses. Everything is indexed on your own computers, so there is a base to work from.
-Example A customer record, an order export and a signed contract.
-- Sort
-
-### Work out what each file is about.
-A file is just a container. A customer or an order is something your business understands. This step finds those things across all your files.
-Example The customer, the order and the contract become three separate things it knows about.
-- Connect
-
-### See how it all fits together.
-Connections turn separate facts into context: who looks after a customer, what an order needs, which document describes a piece of equipment.
-Example A customer places an order. That order points to a contract.
-- Work
-
-### Put that knowledge to work.
-The map becomes the base for your application and its agents. The AI model can run locally or outside; the map stays yours.
-Example An agent follows the order’s links to find the right customer and contract.
 Working with us
 
 ## Four to six weeks, start to handover.
@@ -1032,9 +1008,6 @@ SMTP service. Your correspondence stays inside your own security boundaries.
 - Your files are read and organized on your own computer.
 - If you use a cloud AI model, only the minimum context for that task is sent to it.
 - You can run local models instead, so nothing is sent at all.
-
-## Questions or deletion requests
-Email jason.covington@missioncanvas.ai and we'll answer.
 
 ---
 
