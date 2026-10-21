@@ -82,97 +82,6 @@ Start with an audit
 ## Stop working around your software. Build it around your business. Book an audit
 No contract. Nothing to prepare.
 Your company already knows how to work. Your software should too.
-Software built around your business, on your own computers.
-Companies have two expensive options for AI. We offer a disruptive, affordable third.
-- Runs on your own computers
-- No per-seat fees
-- Four to six weeks to handover
-Book an audit
-No contract. Nothing to prepare.
-Front desk · At a glance
-Call answered
-Booked on your calendar
-Passed to a person
-With the conversation so far
-Every call kept
-Summary, audio and transcript
-Who this is for
-
-## Small and mid-sized businesses.
-Owners and operations leads who are tired of typing the same thing into three systems. Pick your industry.
-- In progress Construction & Real Estate Job site, office and fleet in one system.
-- In progress Healthcare Patient flow and queues, with sensitive data kept where it belongs.
-- In progress Office & Administration Invoices, queries and recurring paperwork, read, checked and filed.
-- Everything else If the work runs on documents, records and rules, we can build for it.
-For your business
-
-## Software built around how you already work.
-We audit how the work moves, build from a working start for your industry, and hand it over to run on your computers. Book an audit
-Free for you
-
-## Palette, a free local AI app for your documents.
-Give it one folder. It reads only what you allow, on your computer, and links every line to its source. Get Palette free
-Sound familiar?
-
-## Software shouldn't need a workaround for the workaround.
-customers_FIXED_v3.xlsx
-Customer CRM says Actually
-1 call first
-2 new address
-3
-4 see email
-The spreadsheet that fixes the CRM.
-Before it goes out
-✓ Check the totals again
-✓ Compare with last week's file
-✓ Copy it into the other system
-Check the totals again
-The manual check that keeps the process from going wrong.
-Direct messages
-Which file is the current one?
-Where do I find the price for this?
-Can you check this before I send it?
-Sorry, one more…
-The person everyone asks because the system doesn't tell them what to do.
-You know where the hours go. We build the software around how you actually work, so your team stops making up for it.
-How it works
-
-## From the way you work to software you can run, in four to six weeks.
-01 Audit 02 Redesign 03 Assemble 04 Operate
-
-### Audit
-We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes. What you get
-Process map · Where the hours go How long it all takes
-Four to six weeks from the audit to handover, depending on what the audit finds.
-
-### Redesign
-We cut the steps that only exist to move information from one system to another. What you get
-The new way of working, on paper How long it all takes
-Four to six weeks from the audit to handover, depending on what the audit finds.
-
-### Assemble
-We start from the working application for your industry, change it to fit, and build the parts only you need. What you get
-Your application, set up How long it all takes
-Four to six weeks from the audit to handover, depending on what the audit finds.
-
-### Operate
-The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team. What you get
-Running in your business How long it all takes
-Four to six weeks from the audit to handover, depending on what the audit finds.
-Book an audit No contract. Nothing to prepare.
-
-## Questions.
-What is Mission Canvas?
-Software built around how your business already works, running on your own computers. We audit how the work moves, build the application from a working starting point for your industry, and hand it over to you. Who is it for?
-Small and mid-sized businesses whose work runs on documents, records and rules. That includes construction, education, logistics, front desk and voice, events and venues, with healthcare and office work in progress. How is it different from ChatGPT or other AI chat tools?
-Chat tools answer questions in someone else's cloud. Mission Canvas builds an application around your workflow and runs it on your computers. The AI works inside it, with your rules and records, and an outside model is used only for the work you allow. What happens in the audit?
-We sit with your team and map how the work really moves: the tools, the files, the handoffs. We measure where the time goes. You get a process map and a list of where the hours go. No contract, nothing to prepare. How long does it take?
-Four to six weeks from the audit to handover, depending on what the audit finds.
-Show all 13 questions
-Start with an audit
-
-## Stop working around your software. Build it around your business. Book an audit
-No contract. Nothing to prepare.
 
 ---
 
@@ -182,8 +91,6 @@ About Mission Canvas
 
 # AI should back up your expertise, not replace it.
 We help businesses see, own and improve the work that matters most, with AI they can answer for.
-A note from the founder
-,
 
 ## The team.
 
@@ -398,11 +305,6 @@ Job site, office and fleet in one system, with AI doing the back-office work.
 Livella is the construction app we start from: a web app for the office and a field app for the site, with
 unlimited field users.
 Book an audit No contract. Nothing to prepare.
-Livella · Job site
-↑
-
-## See it on a real job.
-Three screens from one day: the job, a delivery ticket, the cost sheet.
 Runs every day at an Italian construction firm that pays for it and whose own work it was built around.
 
 ## Four to six weeks, start to handover.
@@ -804,7 +706,7 @@ A working application for one industry: its workflows, its words and its rules, 
 
 ## Cost and ownership
 What does it cost?
-One license per company, plus services quoted before you commit. Never per seat, no per-token charges, and no subscription for the application we hand over. The audit itself costs. Who owns what you build?
+One license per company, plus services quoted before you commit. Never per seat, no per-token charges, and no subscription for the application we hand over. Who owns what you build?
 You do. The application is handed over to run on your hardware. What if we stop working together?
 The application keeps running on your machines.
 
@@ -829,32 +731,24 @@ How it works
 Four steps turn what your company already has into something AI can work with. All of it on your own computers.
 Book an audit No contract. Nothing to prepare.
 
-## The four steps, in one painting
-01 · Read
+## The four steps
+01 Read 02 Sort 03 Connect 04 Work
 
 ### Start with what you have.
-Files, exports and records, read on your own machines. Nothing to move, nothing to retype.
-You get
-A private index of what your company knows 02 · Sort
+Files, exports and records, read on your own machines. Nothing to move, nothing to retype. What you get
+A private index of what your company knows
 
 ### Work out what each file is about.
-It finds the people, customers, orders, documents, processes and equipment behind the files.
-You get
-The things your business is made of 03 · Connect
+It finds the people, customers, orders, documents, processes and equipment behind the files. What you get
+The things your business is made of
 
 ### See how it all fits together.
-It links those things into one picture of how your company works, so the AI gets the connections, not just loose text.
-You get
-One connected map of your company 04 · Work
+It links those things into one picture of how your company works, so the AI gets the connections, not just loose text. What you get
+One connected map of your company
 
 ### Put that knowledge to work.
-AI workers, called agents, use the map inside your walls. If an outside model is needed, only what the task needs is sent.
-You get
+AI workers, called agents, use the map inside your walls. If an outside model is needed, only what the task needs is sent. What you get
 Context for agents and for your industry’s application
-- 01 Read
-- 02 Sort
-- 03 Connect
-- 04 Work
 Follow one example
 
 ## One customer, one order, one contract.
@@ -1045,9 +939,6 @@ Mission Canvas builds software around how small and mid-sized businesses already
 computers. Each business starts with an audit. Its first canvas is for construction and real estate, with
 Livella for daily reports, documents and job costs. Customers license the software once per company, with no
 per-seat fees.
-Founded
-Based in
-Founders
 Website
 missioncanvas.ai
 
@@ -1102,7 +993,7 @@ replace.
 
 ## Questions about cost.
 What does it cost?
-One license per company, plus services quoted before you commit. Never per seat, no per-token charges, and no subscription for the application we hand over. The audit itself costs. Who owns what you build?
+One license per company, plus services quoted before you commit. Never per seat, no per-token charges, and no subscription for the application we hand over. Who owns what you build?
 You do. The application is handed over to run on your hardware. What if we stop working together?
 The application keeps running on your machines.
 
@@ -1143,7 +1034,7 @@ SMTP service. Your correspondence stays inside your own security boundaries.
 - You can run local models instead, so nothing is sent at all.
 
 ## Questions or deletion requests
-Email jason.covington@missioncanvas.ai and we'll answer within.
+Email jason.covington@missioncanvas.ai and we'll answer.
 
 ---
 
