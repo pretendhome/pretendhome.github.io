@@ -30,7 +30,7 @@ Mission Canvas offers Customized Software as a Service: custom software built ar
 
 - [About](https://pretendhome.github.io/about): Meet the Mission Canvas team and the operating, software and information-system experience behind our approach to custom workflows.
 - [Desktop tools: downloads from Mission Canvas](https://pretendhome.github.io/apps/): Explore the existing desktop tools for Mac, Windows and Linux. Custom workflow development, integrations and ongoing care are commissioned separately.
-- [Guides and documentation](https://pretendhome.github.io/docs): Public developer tools and installation links, plus the operating notes and responsibilities to establish for your custom deployment.
+- [Tools and installation notes](https://pretendhome.github.io/docs): Public developer tools and installation links, plus the operating notes and responsibilities to establish for your custom deployment.
 - [Press and media](https://pretendhome.github.io/press): Company information, a downloadable logo and the press contact for Mission Canvas, a custom software service with ongoing maintenance and improvement.
 - [Privacy and data handling](https://pretendhome.github.io/privacy): What happens to your information when you contact Mission Canvas, and how access to business files is agreed before connecting a custom workflow.
 - [What is Mission Canvas](https://pretendhome.github.io/what-is-mission-canvas): Customized Software as a Service: software for one recurring business workflow, built from reusable foundations and cared for after launch.

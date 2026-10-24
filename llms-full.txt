@@ -10,7 +10,7 @@ Mission Canvas offers Customized Software as a Service: custom software built ar
 Source: https://pretendhome.github.io/
 
 # Your business. Your software. Kept working.
-Customized Software as a Service. Built for your work. Cared for over time.
+Custom software for your business. Built around you. Maintained by us.
 Let’s talk
 Start with one workflow.
 Who this is for
@@ -22,9 +22,9 @@ Software for the work between your tools, shaped around your team and maintained
 - CV-06 In progress Healthcare Patient flow and queues, with sensitive data kept where it belongs.
 - CV-07 In progress Office & Administration Invoices, queries and recurring paperwork, read, checked and filed.
 - CV-08 Everything else If the work runs on documents, records and rules, we can build for it. ›
-Start from the capabilities shown for your industry. We agree your custom workflow, the changes it needs and
-how we will care for it.
-Real screens, shipped canvases Logistics Today Version 0.1.9 · sample orders Front desk At a glance Current Italian-language build Education Capture an observation Version 0.2.106
+Industry examples suggest what we could build for your team. The screens below show existing apps,
+separate from your custom service.
+Existing app walkthroughs Logistics Today Version 0.1.9 · sample orders Front desk At a glance Current Italian-language build Education Capture an observation Version 0.2.106
 Logistics · Today The morning summary: KPIs with the time they were computed, stale orders, bottlenecks and commitments. Recorded 21 September 2026 on sample orders.
 Front desk · At a glance Calls handled, resolved on their own, transferred to a person, and what still needs review.
 Education · Capture an observation Dictate or type. The fields are suggested, then set by the teacher, and saved on this machine.
@@ -35,7 +35,7 @@ We understand your workflow, build around it and keep the software useful throug
 Free for you
 
 ## Palette, a free local AI app for your documents.
-Explore local AI on selected files, with source references. A custom service adds the build and care your business needs. Get Palette free
+An optional way to explore local AI on your files. You can discuss a custom workflow without downloading or installing anything. Get Palette free
 Sound familiar?
 Software shouldn't need a workaround for the workaround.
 Every company has them.
@@ -203,14 +203,14 @@ what to build and what the ongoing care would involve.
 - The job to improve. Where it starts, where it gets stuck and what finished should look like.
 - A useful first workflow. The people, tools and decisions to bring together, without rebuilding everything.
 - A plan after launch. What we build, how we check it and who keeps it useful.
-Step 1 of 2
+Opens a draft in your email app
 
 ## Tell us where to start.
 Your name Work email
 Company Industry Choose one Construction & Real Estate Education Logistics Voice & Front Desk Events & Venues Healthcare Office & Administration Something else Which recurring job needs a better way through? Prepare email
-Your email draft is ready. Review and send it to start the conversation. Calendar preview
-This opens an email in your own mail program, already written, for you to send. Nothing is stored on this
-site. How we handle your data.
+Review and send the draft in your email app. If no draft opens, use the address below. Calendar preview
+Review and send the draft in your email app. If it does not open, email jason.covington@missioncanvas.ai
+from your usual inbox. Nothing is submitted by this page. How we handle your data.
 
 ---
 
@@ -324,10 +324,10 @@ We adapt Livella to your jobs, cost codes and forms, and check it with the peopl
 ### Operate
 We maintain the agreed workflow as forms, jobs and office requirements change.
 
-## Your job files stay on your computer.
-- Files are read and organized on a computer you already own. No data migration. No new cloud account.
-- If you use an outside AI model, only what that task needs is sent, and it's logged.
-- You can run local models instead, and send nothing out. How we handle your data
+## Agree where your job information is handled.
+- We agree where the workflow runs and which job records and accounts it needs.
+- Connected services and outside AI providers are identified in the scope.
+- Access, export and support responsibilities are agreed before use. How we handle your data
 
 ## Where does a site record get held up?
 Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
@@ -347,25 +347,25 @@ Let’s talk Start with one workflow.
 These parts work now. We adapt the forms, roles and review steps around a specific job, then agree their ongoing care.
 - 01
 
-### Student and classroom lenses
+### Student and class records
 A learning profile for each student and each class that keeps growing across grades and teachers.
 - 02
 
 ### Progress notes and IEPs
-Bring in a note that covers several students. Each student gets only their own part, with a confidence badge.
+Review the notes extracted for each student before updating their record.
 - 03
 
 ### Summaries for parents
-Drafted only from confirmed lens entries. Nothing goes home until every sentence traces back to one.
+A draft from confirmed records, for the teacher to review before sharing.
 - 04
 
 ### Exercises from your coursework
 Activities adapted from the school’s own coursework and textbooks, in three tiers.
 
-## See it on a real day.
-A recording of the shipped build, unedited.
+## See the starting point.
+An unedited product recording with sample data.
 Education · recording ↑ Recorded 21 September 2026 on version 0.2.106, unedited: roster import, a report card into the lenses, an observation, a summary and a three-tier activity. The class is a sample.
-Tested against live data · Runs on your own computers · Scoped build and ongoing care
+Existing software to build on · Deployment agreed for your workflow · Scoped build and ongoing care
 The underlying capabilities: 8 modules, 42 features
 - M-01 Students A lens per student, built from what the school already writes down.
 - M-02 Observe A short note, attached to the right child, in under a minute.
@@ -376,10 +376,10 @@ The underlying capabilities: 8 modules, 42 features
 - M-07 Governance and privacy The verdict is computed from the log, not asserted.
 - M-08 Coordinator views The school, seen across classrooms.
 
-## Your files stay on your computer.
-- Files are read and organised on a computer you already own. No data migration. No new cloud account.
-- If you use an outside AI model, only what that task needs is sent, and it is logged.
-- You can run local models instead, and send nothing out. How we handle your data Other industries
+## Agree where your information is handled.
+- We agree where the workflow runs and which records and accounts it needs.
+- Connected services and outside AI providers are identified in the scope.
+- Access, export and support responsibilities are agreed before use. How we handle your data Other industries
 - CV-05 Construction & Real Estate
 - CV-02 Logistics
 - CV-03 Voice & Front Desk
@@ -416,7 +416,7 @@ Gate staff see the decision and reason for each scan.
 ### The box office
 Online and walk-up sales share a catalogue; shift staff reconcile the cash.
 
-## See it on a real day.
+## See the starting point.
 Interface schematics with illustrative data. Product screenshots will replace them.
 Events & Venues · End-to-end pipeline
 - 01 Configure
@@ -448,7 +448,7 @@ Events & Venues · End-to-end pipeline
 - Reconciliation
 - CSV export
 - Audit log Interface schematic · illustrative data ↑ Configuration, sale, fulfilment, access and reporting share one data model. Every state change is an event.
-Tested against live data · Runs on your own computers · Scoped build and ongoing care
+Existing software to build on · Deployment agreed for your workflow · Scoped build and ongoing care
 The underlying capabilities: 15 modules, 80 features
 - M-01 Platform and governance Multi-tenant foundations, licensing and access control.
 - M-02 Events The event as a first-class object, from draft to archive.
@@ -466,10 +466,10 @@ The underlying capabilities: 15 modules, 80 features
 - M-14 Notifications and automations An event bus you can build on.
 - M-15 Tenant administration Everything an operator needs to run their own house.
 
-## Your files stay on your computer.
-- Files are read and organised on a computer you already own. No data migration. No new cloud account.
-- If you use an outside AI model, only what that task needs is sent, and it is logged.
-- You can run local models instead, and send nothing out. How we handle your data Other industries
+## Agree where your information is handled.
+- We agree where the workflow runs and which records and accounts it needs.
+- Connected services and outside AI providers are identified in the scope.
+- Access, export and support responsibilities are agreed before use. How we handle your data Other industries
 - CV-05 Construction & Real Estate
 - CV-01 Education
 - CV-02 Logistics
@@ -505,12 +505,12 @@ Appointments, changes and cancellations in one book.
 
 ### Clinic administration
 The administrative records around care; clinical decisions stay with the responsible professionals.
-Runs on your own computers · Scoped build and ongoing care
+Deployment agreed for your workflow · Scoped build and ongoing care
 
-## Your files stay on your computer.
-- Files are read and organised on a computer you already own. No data migration. No new cloud account.
-- If you use an outside AI model, only what that task needs is sent, and it is logged.
-- You can run local models instead, and send nothing out. How we handle your data Other industries
+## Agree where your information is handled.
+- We agree where the workflow runs and which records and accounts it needs.
+- Connected services and outside AI providers are identified in the scope.
+- Access, export and support responsibilities are agreed before use. How we handle your data Other industries
 - CV-05 Construction & Real Estate
 - CV-01 Education
 - CV-02 Logistics
@@ -547,10 +547,10 @@ Before the team starts calling vendors: an overnight view of stalled work, risk 
 ### Customer updates
 Drafted from the record. A person approves each one before it goes.
 
-## See it on a real day.
-A recording of the shipped build, unedited.
+## See the starting point.
+An unedited product recording with sample data.
 Logistics · recording ↑ Recorded 21 September 2026 on version 0.1.9, unedited: the morning screen, orders, the dashboard, and questions asked in English and Spanish. The orders are a sample file.
-Tested against live data · Runs on your own computers · Scoped build and ongoing care
+Existing software to build on · Deployment agreed for your workflow · Scoped build and ongoing care
 The underlying capabilities: 8 modules, 35 features
 - M-01 Today The control tower, computed overnight.
 - M-02 Orders One record per order, from quote to closed.
@@ -561,10 +561,10 @@ The underlying capabilities: 8 modules, 35 features
 - M-07 Governance and settings Who answered, and from where.
 - M-08 Deliverables Drafted from the record, approved by a person.
 
-## Your files stay on your computer.
-- Files are read and organised on a computer you already own. No data migration. No new cloud account.
-- If you use an outside AI model, only what that task needs is sent, and it is logged.
-- You can run local models instead, and send nothing out. How we handle your data Other industries
+## Agree where your information is handled.
+- We agree where the workflow runs and which records and accounts it needs.
+- Connected services and outside AI providers are identified in the scope.
+- Access, export and support responsibilities are agreed before use. How we handle your data Other industries
 - CV-05 Construction & Real Estate
 - CV-01 Education
 - CV-03 Voice & Front Desk
@@ -600,12 +600,12 @@ Questions about an invoice or a payment answered from the record.
 
 ### Recurring work
 The monthly and weekly jobs that follow the same steps every time.
-Runs on your own computers · Scoped build and ongoing care
+Deployment agreed for your workflow · Scoped build and ongoing care
 
-## Your files stay on your computer.
-- Files are read and organised on a computer you already own. No data migration. No new cloud account.
-- If you use an outside AI model, only what that task needs is sent, and it is logged.
-- You can run local models instead, and send nothing out. How we handle your data Other industries
+## Agree where your information is handled.
+- We agree where the workflow runs and which records and accounts it needs.
+- Connected services and outside AI providers are identified in the scope.
+- Access, export and support responsibilities are agreed before use. How we handle your data Other industries
 - CV-05 Construction & Real Estate
 - CV-01 Education
 - CV-02 Logistics
@@ -642,10 +642,10 @@ Pass the caller and conversation to a person when the request needs staff attent
 ### The call record
 Staff can review the summary, audio and transcript when a caller follows up.
 
-## See it on a real day.
+## See the starting point.
 Screens from the current Italian-language build.
 Voice & Front Desk · The front desk at a glance ↑ Calls handled, resolved autonomously, transferred to a person, and what still needs review.
-Tested against live data · Runs on your own computers · Scoped build and ongoing care
+Existing software to build on · Deployment agreed for your workflow · Scoped build and ongoing care
 The underlying capabilities: 9 modules, 38 features
 - M-01 Channels One agent, reachable the way people already reach you.
 - M-02 Agent behaviour Control without prompt engineering.
@@ -657,10 +657,10 @@ The underlying capabilities: 9 modules, 38 features
 - M-08 Platform and security Built to be operated for many customers.
 - M-09 Metering and observability Know what runs, what fails and what it costs.
 
-## Your files stay on your computer.
-- Files are read and organised on a computer you already own. No data migration. No new cloud account.
-- If you use an outside AI model, only what that task needs is sent, and it is logged.
-- You can run local models instead, and send nothing out. How we handle your data Other industries
+## Agree where your information is handled.
+- We agree where the workflow runs and which records and accounts it needs.
+- Connected services and outside AI providers are identified in the scope.
+- Access, export and support responsibilities are agreed before use. How we handle your data Other industries
 - CV-05 Construction & Real Estate
 - CV-01 Education
 - CV-02 Logistics
@@ -676,9 +676,9 @@ Start with one workflow.
 
 Source: https://pretendhome.github.io/docs
 
-Developer docs
+Existing tools
 
-# Who runs it, and how?
+# Tools and installation notes.
 Your deployment needs operating notes: setup, access, routine checks and who to call. We agree who keeps them
 current. The public developer tool below is still under construction; full documentation is not published.
 - mc setup configure model access
@@ -931,7 +931,7 @@ Source: https://pretendhome.github.io/pricing
 Pricing
 
 # A clear build. A clear care plan.
-Pay for a defined build and the care that keeps it useful. We quote both around one important workflow in your business.
+A quoted build, followed by recurring care for connections, fixes and agreed improvements. We price both around your workflow.
 Let’s talk Start with one workflow.
 - 1
 
