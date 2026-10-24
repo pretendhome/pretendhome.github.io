@@ -1,37 +1,37 @@
 # Mission Canvas
 
-> Customized Software as a Service. Mission Canvas builds software around your business workflows, then maintains and improves it as your work changes.
+> Custom software built around your business, with ongoing maintenance and agreed improvements. Start with one workflow and a clear scope of care.
 
-Mission Canvas offers Customized Software as a Service: software built around a business workflow, with scoped maintenance and agreed improvements. A reusable foundation supports source-linked work, version history and controlled actions. Each engagement defines its workflow, costs, deployment and care responsibilities. Start a workflow conversation: https://pretendhome.github.io/audit/
+Mission Canvas offers Customized Software as a Service: custom software built around a business workflow, with scoped maintenance and agreed improvements. Each engagement defines the build, costs, deployment and ongoing care. Book a workflow audit: https://pretendhome.github.io/audit/
 
 
 ## Main pages
 
-- [Mission Canvas — Custom software, continuously cared for](https://pretendhome.github.io/): Customized Software as a Service. Mission Canvas builds software around your business workflows, then maintains and improves it as your work changes.
-- [Find your first workflow](https://pretendhome.github.io/audit/): Tell Mission Canvas about one recurring workflow. We’ll explore a focused custom software project and the ongoing care it would need.
-- [Workflows by industry](https://pretendhome.github.io/canvases/): Explore illustrative workflows by industry, then use them to describe the information, people, and decisions your own software needs to support.
-- [Questions and answers](https://pretendhome.github.io/faq): These answers describe our proposed CSaaS approach; your written proposal sets the scope, responsibilities, price, and operating terms for an engagement.
-- [How it works](https://pretendhome.github.io/how-it-works): We shape a focused software project around your workflow, then agree how its maintenance and improvement will be handled.
-- [Palette](https://pretendhome.github.io/palette): Palette is a desktop foundation and development application associated with Mission Canvas, with its own capabilities, installation requirements, and operating boundaries.
-- [Pricing](https://pretendhome.github.io/pricing): Our proposed service combines a scoped setup and build with recurring care, with final terms and figures set by quote.
-- [Security and control](https://pretendhome.github.io/security): Security requirements belong in the project scope, alongside the workflow, integrations, responsibilities, and evidence needed before everyday use begins.
+- [Mission Canvas: Customized Software as a Service](https://pretendhome.github.io/): Custom software built around your business, with ongoing maintenance and agreed improvements. Start with one workflow and a clear scope of care.
+- [Find your first custom workflow](https://pretendhome.github.io/audit/): Book an AI workflow audit: one call about the job that eats the most time in your week. No contract, nothing to prepare.
+- [Custom software and ongoing care by industry](https://pretendhome.github.io/canvases/): Custom software for your industry, shaped around your workflow with agreed maintenance and improvements.
+- [Private AI software for small businesses: questions answered](https://pretendhome.github.io/faq): Answers to what owners ask about private AI software before an audit: what it is, what it costs, who owns it, and where the data goes.
+- [How it works](https://pretendhome.github.io/how-it-works): How Mission Canvas turns your workflow into custom software, with clear boundaries and ongoing care.
+- [Palette: a free local AI app for your documents](https://pretendhome.github.io/palette): A free local AI app for Mac, Windows and Linux. Give it one folder. It reads only what you allow, on your computer, and links every line to its source.
+- [Pricing: custom software and ongoing care](https://pretendhome.github.io/pricing): A scoped setup and build, followed by recurring care. Final figures, responsibilities and outside costs are agreed by quote.
+- [Your data and controls: custom software for your workflow](https://pretendhome.github.io/security): Agree deployment, access and AI use for your custom workflow, with responsibilities for ongoing maintenance and review.
 
 ## Industries
 
-- [Construction workflows](https://pretendhome.github.io/canvases/construction): A custom construction workflow could connect selected project records, open questions, and handover tasks, with ongoing care defined for the solution.
-- [Education workflows](https://pretendhome.github.io/canvases/education): A custom education workflow could bring requests, required information, and reviewed communications together, with access and ongoing care shaped around your setting.
-- [Events and venue workflows](https://pretendhome.github.io/canvases/events-venues): A custom venue workflow could connect incoming inquiries, event requirements, selected availability information, and reviewed proposals, with ongoing care agreed for the solution.
-- [Healthcare administration workflows](https://pretendhome.github.io/canvases/healthcare): A possible healthcare administration engagement would begin with the information, access, professional responsibilities, and review required before considering a custom software solution.
-- [Logistics workflows](https://pretendhome.github.io/canvases/logistics): A custom logistics workflow could connect selected shipment information, exception ownership, and customer updates, with ongoing care agreed around the operation.
-- [Office workflows](https://pretendhome.github.io/canvases/office): A custom office workflow could connect requests, selected documents, responsible owners, and reviewed responses, with ongoing care defined around the team's needs.
-- [Front desk workflows](https://pretendhome.github.io/canvases/voice-front-desk): A custom front desk workflow could help staff capture requests, find approved information, and coordinate follow-up, with voice considered where it proves useful.
+- [Construction job costing and fleet software](https://pretendhome.github.io/canvases/construction): Construction job costing and fleet software, customized for your crew with ongoing care. Job site, office and fleet on your own computers.
+- [Private AI for schools: student lenses and parent summaries](https://pretendhome.github.io/canvases/education): Private AI for schools, customized and cared for: student lenses track observations, strategies, accommodations and CEFR milestones on your own machines.
+- [Ticketing and access control software for venues](https://pretendhome.github.io/canvases/events-venues): Ticketing and access control software for venues, customized and cared for: online sales, the gate, box office and visitor records in one system.
+- [Private patient check-in and scheduling software](https://pretendhome.github.io/canvases/healthcare): Patient check-in, scheduling and queues on your own computers. In progress: custom software and ongoing care scoped for your clinic.
+- [Order tracking software for small logistics companies](https://pretendhome.github.io/canvases/logistics): Order tracking software for small logistics companies: orders, overnight checks and customer updates on your own computers, customized and cared for.
+- [Invoice processing automation for small businesses](https://pretendhome.github.io/canvases/office): Invoice processing automation for small businesses, customized and cared for: invoices read, checked and filed on your own computers.
+- [AI receptionist for small businesses: phone, WhatsApp, email](https://pretendhome.github.io/canvases/voice-front-desk): An AI receptionist for small businesses: phone, WhatsApp, email and calendar bookings, customized around your front desk with ongoing care.
 
 ## Optional
 
-- [About Mission Canvas](https://pretendhome.github.io/about): Mission Canvas brings custom software development and ongoing care together around the workflows a business needs to carry out every day.
-- [Desktop downloads](https://pretendhome.github.io/apps/): Download existing desktop applications. A download is separate from Mission Canvas’s scoped custom software and ongoing care service.
-- [Documentation](https://pretendhome.github.io/docs): A service engagement needs clear workflow guidance, operating responsibilities, and a record of agreed changes, alongside any underlying application documentation.
-- [Mission Canvas company brief](https://pretendhome.github.io/press): Mission Canvas is developing a Customized Software as a Service offering for businesses that need software shaped around their own workflows.
-- [Privacy and data handling](https://pretendhome.github.io/privacy): How the Mission Canvas website handles enquiries, analytics and personal information, and how project data arrangements are agreed.
-- [What is Mission Canvas?](https://pretendhome.github.io/what-is-mission-canvas): Mission Canvas is developing a service that combines software built for a particular business with ongoing maintenance, support, and improvement.
-- [Why Mission Canvas?](https://pretendhome.github.io/why-mission-canvas): Our proposed CSaaS approach connects a focused custom build with the care needed as systems, people, and business requirements change.
+- [About](https://pretendhome.github.io/about): The people behind Mission Canvas: custom software built around your workflows, with ongoing maintenance and agreed improvements.
+- [Download the apps](https://pretendhome.github.io/apps/): Existing desktop apps for Mac, Windows and Linux. Downloads are separate from a scoped custom workflow build and ongoing care.
+- [Developer docs](https://pretendhome.github.io/docs): Install instructions for existing tools, alongside the approach to custom workflow software and ongoing care.
+- [Press and media](https://pretendhome.github.io/press): Mission Canvas builds custom workflow software with ongoing care. Company facts, logos and the contact for press enquiries.
+- [Privacy and data handling](https://pretendhome.github.io/privacy): How workflow enquiries use your email app, what this website collects, and how data access is agreed for custom software and ongoing care.
+- [What is Mission Canvas](https://pretendhome.github.io/what-is-mission-canvas): Customized Software as a Service: software built around your workflow, with ongoing maintenance, support and improvement as your business changes.
+- [Why Mission Canvas](https://pretendhome.github.io/why-mission-canvas): Custom software built around your workflow, with ongoing maintenance, support and agreed improvements as your business changes.
