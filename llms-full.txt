@@ -11,7 +11,7 @@ Source: https://pretendhome.github.io/
 
 # Your business. Your software. Kept working.
 Custom software for your business. Built around you. Maintained by us.
-Let’s talk
+Book an audit
 Start with one workflow.
 Who this is for
 
@@ -31,7 +31,7 @@ Education · Capture an observation Dictate or type. The fields are suggested, t
 For your business
 
 ## Custom software. Ongoing care.
-We understand your workflow, build around it and keep the software useful through agreed maintenance and improvements. Let’s talk
+We understand your workflow, build around it and keep the software useful through agreed maintenance and improvements. Book an audit
 Free for you
 
 ## Palette, a free local AI app for your documents.
@@ -68,7 +68,7 @@ We agree build timing once the scope is clear. Care covers the connections, fixe
 We maintain connections, fix problems and agree improvements as your business changes, with care scoped to the software you use. What you get
 Maintained connections · Fixes · Improvements Timing and ongoing care
 We agree build timing once the scope is clear. Care covers the connections, fixes and improvements agreed for your workflow.
-Let’s talk Start with one workflow.
+Book an audit Start with one workflow.
 
 ## Questions.
 What is Mission Canvas?
@@ -80,7 +80,7 @@ The first walkthrough shows what needs connecting and building. We agree a deliv
 Show all 13 questions
 Start with an audit
 
-## Your business. Your software. Kept working. Let’s talk
+## Your business. Your software. Kept working. Book an audit
 Start with one workflow.
 Start with one workflow. Agree the build and the ongoing care.
 
@@ -149,7 +149,7 @@ have to chase information or work around a tool.
 Our role continues after launch: understand what happens in use, care for the software and agree what to improve next.
 
 ## Tell us about the job your team wants to work better.
-Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Book an audit
 Start with one workflow.
 
 ---
@@ -255,7 +255,7 @@ Prepare the invoice for its next reviewer. Invoices · Queries · Recurring work
 Show us one recurring job and where it waits on a person, document or another system. Scope the workflow · Agree ongoing care
 
 ## Let’s make one workflow work better.
-Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Book an audit
 Start with one workflow.
 
 ---
@@ -267,7 +267,7 @@ Construction and Real Estate
 # Construction job costing and fleet software Keep the site and office on the same job.
 Keep job records, delivery tickets and costs together so the site and office work from the same information.
 We adapt Livella to your forms and maintain the agreed workflow.
-Let’s talk Start with one workflow. Meet Livella
+Book an audit Start with one workflow. Meet Livella
 
 ## From site records to office decisions.
 Start with the parts that work today. We agree how your jobs, cost codes and forms fit, then maintain
@@ -306,7 +306,7 @@ Meet Livella
 Job records, delivery tickets and costs, shared by the site and office.
 Livella gives field teams and office staff a shared starting point. We agree the workflow, access and
 ongoing care for your implementation.
-Let’s talk Start with one workflow.
+Book an audit Start with one workflow.
 Runs every day at an Italian construction firm that pays for it and whose own work it was built around.
 
 ## Built with your crew. Kept useful as jobs change.
@@ -330,7 +330,7 @@ We maintain the agreed workflow as forms, jobs and office requirements change.
 - Access, export and support responsibilities are agreed before use. How we handle your data
 
 ## Where does a site record get held up?
-Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Book an audit
 Start with one workflow.
 
 ---
@@ -341,7 +341,7 @@ Industries CV-01 Education
 
 # Private AI for schools From a classroom note to a reviewed next step.
 Teachers record observations and review parent drafts from the same student record. We adapt coursework and report formats, with care as those change.
-Let’s talk Start with one workflow.
+Book an audit Start with one workflow.
 
 ## What it handles today.
 These parts work now. We adapt the forms, roles and review steps around a specific job, then agree their ongoing care.
@@ -388,7 +388,7 @@ The underlying capabilities: 8 modules, 42 features
 - CV-07 Office & Administration
 
 ## Where does the handoff get stuck?
-Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Book an audit
 Start with one workflow.
 
 ---
@@ -399,7 +399,7 @@ Industries CV-04 Events & Venues
 
 # Ticketing and access control software for venues Give venue teams one record from sale to gate.
 Online sales, box office and entry share the same tickets. Care follows changes to your forms, gate rules and reports.
-Let’s talk Start with one workflow.
+Book an audit Start with one workflow.
 
 ## What it handles today.
 These parts work now. We adapt the forms, roles and review steps around a specific job, then agree their ongoing care.
@@ -478,7 +478,7 @@ The underlying capabilities: 15 modules, 80 features
 - CV-07 Office & Administration
 
 ## Where does the handoff get stuck?
-Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Book an audit
 Start with one workflow.
 
 ---
@@ -489,7 +489,7 @@ Industries CV-06 Healthcare In progress
 
 # Patient check-in and scheduling software A clear next step at the clinic desk.
 For reception and scheduling staff. Shape check-in and queue handoffs, then agree care as forms and responsibilities change.
-Let’s talk Start with one workflow.
+Book an audit Start with one workflow.
 
 ## What it is being built around.
 These workflows are being scoped and built, not finished features. Bring the forms, handoffs and review steps your team needs. There are no screenshots yet.
@@ -519,7 +519,7 @@ Deployment agreed for your workflow · Scoped build and ongoing care
 - CV-07 Office & Administration
 
 ## Where does the handoff get stuck?
-Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Book an audit
 Start with one workflow.
 
 ---
@@ -530,7 +530,7 @@ Industries CV-02 Logistics
 
 # Order tracking software for small logistics companies Know which order needs attention next.
 For operations teams chasing status and customer updates. We adapt the imports and maintain agreed connections.
-Let’s talk Start with one workflow.
+Book an audit Start with one workflow.
 
 ## What it handles today.
 These parts work now. We adapt the forms, roles and review steps around a specific job, then agree their ongoing care.
@@ -573,7 +573,7 @@ The underlying capabilities: 8 modules, 35 features
 - CV-07 Office & Administration
 
 ## Where does the handoff get stuck?
-Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Book an audit
 Start with one workflow.
 
 ---
@@ -584,7 +584,7 @@ Industries CV-07 Office & Administration In progress
 
 # Invoice processing automation for small businesses Prepare the invoice for its next reviewer.
 For the people chasing invoices and repeat requests. Agree the checks, reviewer handoffs and care as your forms change.
-Let’s talk Start with one workflow.
+Book an audit Start with one workflow.
 
 ## What it is being built around.
 These workflows are being scoped and built, not finished features. Bring the forms, handoffs and review steps your team needs. There are no screenshots yet.
@@ -614,7 +614,7 @@ Deployment agreed for your workflow · Scoped build and ongoing care
 - CV-06 Healthcare
 
 ## Where does the handoff get stuck?
-Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Book an audit
 Start with one workflow.
 
 ---
@@ -625,7 +625,7 @@ Industries CV-03 Voice & Front Desk
 
 # AI receptionist for small businesses Give callers a clear next step.
 Phone, WhatsApp and email bookings, with handover to staff. Care follows changes to your rules and services.
-Let’s talk Start with one workflow.
+Book an audit Start with one workflow.
 
 ## What it handles today.
 These parts work now. We adapt the forms, roles and review steps around a specific job, then agree their ongoing care.
@@ -669,7 +669,7 @@ The underlying capabilities: 9 modules, 38 features
 - CV-07 Office & Administration
 
 ## Where does the handoff get stuck?
-Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Book an audit
 Start with one workflow.
 
 ---
@@ -720,7 +720,7 @@ We start there. We check how your tools can connect, what access they allow and 
 A separate desktop application for working with your files. Downloading Palette does not include a custom workflow build or the ongoing service described here.
 
 ## Let’s make one workflow work better.
-Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Book an audit
 Start with one workflow.
 
 ---
@@ -731,7 +731,7 @@ How it works
 
 # Start with one job. Make it work better.
 Show us a recurring job, the tools involved and where the handoffs get difficult. We build around that work, review it with your team and keep improving it.
-Let’s talk Start with one workflow.
+Book an audit Start with one workflow.
 
 ## From your information to useful work
 01 Read 02 Sort 03 Connect 04 Work
@@ -791,7 +791,7 @@ Works with what you already have
 Imports shown are the Logistics canvas today. Others are agreed in the audit.
 
 ## Tell us the job you want to improve.
-Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Book an audit
 Start with one workflow.
 
 ---
@@ -801,14 +801,13 @@ Source: https://pretendhome.github.io/palette
 Mission Canvas Palette
 
 # The free desktop application: Palette
-Explore the foundation. Try one folder.
 Explore a folder, review the sources and see how document changes are recorded. Palette is a free desktop
 tool; a custom business workflow and ongoing care are commissioned separately.
 Mac Windows Linux
 Palette runs on a computer.
 Send yourself this page
 and open it there.
-Free. No account. Version 0.4.1, released 15 October 2026. Mac is signed and notarised. Windows is not yet
+Free. No account. Version 0.4.2, released 24 October 2026. Mac is signed and notarised. Windows is not yet
 signed, so SmartScreen will warn you once: what to click, and how to check the file.
 The design we are building toward. The app as it ships today is below, screen by screen.
 See it work · 105 seconds, unedited
@@ -873,7 +872,7 @@ Explore the app or discuss a custom workflow
 The pictured build It reads plain text:.txt,.md,.csv,.json
 and.ics. PDFs and Office files are listed and skipped. Check the current build before relying on a
 particular file format or workflow.
-Install · version 0.4.1 · 15 October 2026
+Install · version 0.4.2 · 24 October 2026
 - Mac
 Open MissionCanvas.dmg and drag the app into Applications. It is signed and notarised. If macOS still says it cannot be verified, right-click the app and choose Open. Download for Mac, 683 MB
 - Windows
@@ -882,13 +881,13 @@ Run MissionCanvas-Setup.exe. The installer is not yet code-signed, so SmartScree
 Open MissionCanvas.deb with your software installer, or run sudo apt install ~/Downloads/MissionCanvas.deb. Download for Linux, 701 MB
 The files are still named MissionCanvas. They are Palette. SHA-256: check the file you downloaded
 MissionCanvas.dmg
-c40da39e084ee9e389fcc463ede4b50fd0017c21a3c96bf9b5a537f255737559
+55b1076d1e9359065d405d5658c00fa0a630355c87a13542885c87d622702e27
 MissionCanvas-Setup.exe
-e10eca901181b2165f20c6f348206115edecafa41fd0748166d837683270e7b7
+5380141c921d30c0a8762eb8bed5b808850465c40c491b4a3fd0a84dceac271b
 MissionCanvas.deb
-1b60efe155406e6a0b1d74dd3f03d332eae923d555db25b09d99fc2246024417
+75f1bd828b529636c9f709eee9efb53eb4ec787a590c312955ff1be2cca99ed3
 Mac and Linux: shasum -a 256 <file>. Windows: certutil -hashfile <file> SHA256. These
-are the digests GitHub publishes for release desktop-v0.4.1; this page reads them when it is built.
+are the digests GitHub publishes for release desktop-v0.4.2; this page reads them when it is built.
 Price
 
 ## A free desktop download.
@@ -897,7 +896,7 @@ For your business
 ## Try the app. Commission the workflow.
 Mission Canvas builds software for one important job in your business, using reusable foundations and your
 own workflow. Care maintains its connections, fixes problems and makes the improvements we agree together.
-Let’s talk
+Book an audit
 
 ## Start with the sample notes. Download Palette
 
@@ -932,7 +931,7 @@ Pricing
 
 # A clear build. A clear care plan.
 A quoted build, followed by recurring care for connections, fixes and agreed improvements. We price both around your workflow.
-Let’s talk Start with one workflow.
+Book an audit Start with one workflow.
 - 1
 
 ## Define the job
@@ -973,7 +972,7 @@ We make ownership, licensing and access clear before the build, including how th
 We agree how data can be exported, what is handed over and who will operate the software and its connected services.
 
 ## Scope the work. Understand the cost.
-Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Book an audit
 Start with one workflow.
 
 ---
@@ -1065,7 +1064,7 @@ We start there. We check how your tools can connect, what access they allow and 
 For information about details shared through this website, read the privacy page.
 
 ## Let’s make one workflow work better.
-Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Book an audit
 Start with one workflow.
 
 ---
@@ -1127,7 +1126,7 @@ What the build and ongoing service pay for.
 Who it fits, how to start and what your team needs.
 
 ## Let’s make one workflow work better.
-Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Book an audit
 Start with one workflow.
 
 ---
@@ -1186,5 +1185,5 @@ A useful first workflow · Someone to maintain it · A way to improve it
 The build and ongoing service are priced for the work involved.
 
 ## Let’s make one workflow work better.
-Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Book an audit
 Start with one workflow.

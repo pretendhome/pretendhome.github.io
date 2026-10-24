@@ -8,7 +8,7 @@ Mission Canvas offers Customized Software as a Service: custom software built ar
 ## Main pages
 
 - [Mission Canvas: Customized Software as a Service](https://pretendhome.github.io/): Custom software built around your business, with ongoing maintenance and agreed improvements. Start with one workflow and a clear scope of care.
-- [Let’s talk about your workflow](https://pretendhome.github.io/audit/): Tell us about one recurring job. We will discuss a focused custom workflow, the first build and its ongoing care.
+- [Book an audit](https://pretendhome.github.io/audit/): Tell us about one recurring job. We will discuss a focused custom workflow, the first build and its ongoing care.
 - [Custom software and ongoing care by industry](https://pretendhome.github.io/canvases/): Explore software for site and office records, clinic administration, invoices and other recurring work, with customization and ongoing care agreed.
 - [Custom software and ongoing care: questions answered](https://pretendhome.github.io/faq): What Mission Canvas does, who it fits, how the first workflow walkthrough works, and what to know about cost, data and ongoing care.
 - [How it works](https://pretendhome.github.io/how-it-works): Choose one important workflow. Build custom software around it, review real examples and keep it useful with ongoing care.
