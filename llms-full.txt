@@ -11,7 +11,7 @@ Source: https://pretendhome.github.io/
 
 # Your business. Your software. Kept working.
 Customized Software as a Service. Built for your work. Cared for over time.
-Book an audit
+Let’s talk
 Start with one workflow.
 Who this is for
 
@@ -31,7 +31,7 @@ Education · Capture an observation Dictate or type. The fields are suggested, t
 For your business
 
 ## Custom software. Ongoing care.
-We understand your workflow, build around it and keep the software useful through agreed maintenance and improvements. Book an audit
+We understand your workflow, build around it and keep the software useful through agreed maintenance and improvements. Let’s talk
 Free for you
 
 ## Palette, a free local AI app for your documents.
@@ -50,37 +50,37 @@ How it works
 01 Audit 02 Redesign 03 Assemble 04 Operate
 
 ### Audit
-We sit with your team and follow the work: the tools, information, handoffs and decisions. Together, we choose a useful first scope. What you get
-Workflow map · Agreed first scope How long it all takes
-Build timing is agreed after the audit. Maintenance and improvements continue within your care agreement.
+Show us one recurring job: where it starts, who handles it and what gets in the way. Together, we choose the first useful scope. What you get
+One workflow · A clear outcome Timing and ongoing care
+We agree build timing once the scope is clear. Care covers the connections, fixes and improvements agreed for your workflow.
 
 ### Redesign
-We shape a clearer workflow, with the business rules, review steps and responsibilities your team needs. What you get
-Your workflow, defined together How long it all takes
-Build timing is agreed after the audit. Maintenance and improvements continue within your care agreement.
+We agree what the software should do, which tools it connects and which decisions stay with your team. What you get
+The steps, connections and review points Timing and ongoing care
+We agree build timing once the scope is clear. Care covers the connections, fixes and improvements agreed for your workflow.
 
 ### Assemble
-We build your custom software on a reusable foundation, connect the agreed tools, and review it with your team. What you get
-Your software, built around your work How long it all takes
-Build timing is agreed after the audit. Maintenance and improvements continue within your care agreement.
+We build on a reusable foundation, then shape the software around your business. Your team reviews it using real examples and exceptions. What you get
+Custom software · Reviewed with your team Timing and ongoing care
+We agree build timing once the scope is clear. Care covers the connections, fixes and improvements agreed for your workflow.
 
 ### Operate
-We maintain and support the software within your care agreement, then improve it with you as your business changes. What you get
-Ongoing care · Agreed improvements How long it all takes
-Build timing is agreed after the audit. Maintenance and improvements continue within your care agreement.
-Book an audit Start with one workflow.
+We maintain connections, fix problems and agree improvements as your business changes, with care scoped to the software you use. What you get
+Maintained connections · Fixes · Improvements Timing and ongoing care
+We agree build timing once the scope is clear. Care covers the connections, fixes and improvements agreed for your workflow.
+Let’s talk Start with one workflow.
 
 ## Questions.
 What is Mission Canvas?
-Customized Software as a Service: custom software built around your workflow, with ongoing maintenance, support and improvement as your business changes. We start with the work your team needs to do. Who is it for?
-Businesses whose recurring work runs across documents, records, messages and systems. The industry examples on this site illustrate workflows we can discuss and scope around your team. How is it different from ChatGPT or other AI chat tools?
-Chat tools help with questions and drafts. Mission Canvas builds software around your workflow, information and business rules, then agrees how it will be maintained and improved. AI is one possible tool within that solution. What happens in the audit?
-We walk through a recurring task with your team: the tools, information, handoffs and decisions. Together, we identify a useful first scope and what a successful result would look like. How long does it take?
-We agree delivery timing after reviewing the scope, integrations and access needed. Ongoing maintenance and improvement are defined in the care agreement.
+Customized Software as a Service: we build software for a recurring job in your business, then maintain it and make agreed improvements as the work changes. Who is it for?
+Teams repeatedly chasing information, copying between tools or checking the same records. Client intake, document preparation and follow-up are useful jobs to discuss first. How is it different from a one-off software project?
+We build on reusable foundations and stay responsible for ongoing care. Maintenance and agreed improvements continue after launch, with a team that knows the workflow. What happens in the audit?
+Talk us through one recurring job: how it starts, the tools and people involved, and where it gets stuck. We identify a useful first outcome together. How long does it take?
+The first walkthrough shows what needs connecting and building. We agree a delivery plan before work starts; maintenance and agreed improvements continue after the first release.
 Show all 13 questions
 Start with an audit
 
-## Your business. Your software. Kept working. Book an audit
+## Your business. Your software. Kept working. Let’s talk
 Start with one workflow.
 Start with one workflow. Agree the build and the ongoing care.
 
@@ -90,8 +90,9 @@ Source: https://pretendhome.github.io/about
 
 About Mission Canvas
 
-# Your software should grow with your work.
-Customized Software as a Service: we build around your workflow, then maintain and improve it with you.
+# People who understand the work and build the software.
+We bring operating, software and information-system experience to the same table. We start by listening to
+the people who do the work.
 
 ## The team.
 
@@ -109,14 +110,14 @@ Running development teams.
 
 ## What we believe.
 
-### Software shaped to your workflows.
-Your work spans email, calendars, documents, drives and people’s knowledge. We build around a specific workflow and the tools you use.
+### Listen before building.
+The people doing the job know where it gets stuck. We start with their tools, decisions and experience.
 
-### You decide what runs where.
-We agree where your application runs, what it can access and which AI models it may use. Changes follow the same review.
+### Make the work understandable.
+Your team should be able to follow what the software does, check its results and know when a person needs to decide.
 
-### Care continues after launch.
-Useful software needs maintenance and feedback. We agree how it will be supported and improved as the work changes.
+### Stay with what we build.
+Daily use teaches us what needs attention. Maintenance and agreed improvements keep that learning connected to the software.
 
 ## What we’re working toward.
 These are outcomes we’re working to prove, not results we claim today.
@@ -124,8 +125,8 @@ These are outcomes we’re working to prove, not results we claim today.
 ### Give people their time back
 Cut repetitive work, so attention goes to people, ideas and decisions.
 
-### Make AI understandable
-Systems you can see into, explain and check. No black boxes.
+### Make the work understandable
+Help people follow the steps, check results and see where a decision came from.
 
 ### Connect what you know
 Turn scattered information into something your team can search and share.
@@ -133,8 +134,8 @@ Turn scattered information into something your team can search and share.
 ### Keep what people know
 Capture how work is done before it leaves with someone who retires.
 
-### AI for everyone
-Let anyone design a workflow, not only developers and data scientists.
+### Useful software for the team
+Make the workflow usable by the people doing the job every day.
 
 ### Work better together
 Let teams build, share and improve their workflows together.
@@ -142,13 +143,13 @@ Let teams build, share and improve their workflows together.
 ### Earn trust
 Privacy, security and human oversight first. Technology should earn trust, not demand it.
 
-## Wherever paperwork piles up.
-A useful first workflow might be administrative intake, document preparation or recurring checks. We agree
-the information, permissions and human review it needs before building it.
-The build and ongoing care are scoped for your business. Regulated work needs its own professional review.
+## Start with a job you know well.
+Talk us through the request, report or recurring check your team handles every week. Show us where people
+have to chase information or work around a tool.
+Our role continues after launch: understand what happens in use, care for the software and agree what to improve next.
 
-## Built around your work. Cared for as it changes.
-A clear build scope. An agreed plan for ongoing care. Book an audit
+## Tell us about the job your team wants to work better.
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
 Start with one workflow.
 
 ---
@@ -157,22 +158,22 @@ Source: https://pretendhome.github.io/apps/
 
 Download
 
-# Download the apps.
-Existing desktop apps for Mac, Windows and Linux. A download is separate from a custom workflow build and an ongoing care agreement.
+# Explore the desktop tools.
+Download an existing app to explore it. For software shaped around your business, we scope a custom workflow, its connections and ongoing care separately.
 
 ## Palette
-Free desktop app. Separate from custom care.
+Explore the desktop foundation with sample documents.
 Mac Windows Linux
 
 ## Education
-Existing education desktop workspace
+Explore the existing education desktop workspace.
 Mac Windows Linux
 
 ## Logistics
-Existing logistics desktop workspace
+Explore the existing logistics desktop workspace.
 Mac Windows Linux Sample data
 
-## After it downloads.
+## Install the app you chose.
 - Mac Open the.dmg and drag the app into Applications. Palette is signed and notarized.
 If macOS still says the app can't be verified, right-click it and choose Open.
 - Windows Run the -Setup.exe installer. It is not yet code-signed, so SmartScreen shows
@@ -185,8 +186,8 @@ AppImage may quit at once with a "SUID sandbox" error; start it with --no-sandbo
 For developers
 
 ## Install the command line.
-A terminal build for questions against a repository or folder. It ships separately from the apps above and
-does not include a custom workflow or care agreement. Developer docs
+The command-line tool works with a repository or folder. Use its documentation to explore the developer setup;
+custom business workflows and care are commissioned separately. Developer docs
 macOS / Linux curl -fsSL https://missioncanvas.ai/install-cli.sh | sh
 Windows irm https://missioncanvas.ai/install-cli.ps1 | iex
 
@@ -194,20 +195,20 @@ Windows irm https://missioncanvas.ai/install-cli.ps1 | iex
 
 Source: https://pretendhome.github.io/audit/
 
-No contract · Nothing to prepare
+Start with one workflow
 
-# Find your first custom workflow.
-One call about how your work really runs. You don't need to prepare anything or send any files. Bring the
-job you want to work better, and we will discuss the build and ongoing care.
-- A map of how the work runs. Where the job moves between people, paper and systems.
-- Where the hours go. The steps that eat the most time, and which ones software can take off your plate.
-- A clear next step. A focused build scope and a plan for ongoing care, quoted for your workflow.
+# Show us one job that should work better.
+A request, report or handoff your team handles every week. Tell us where it gets held up. We’ll discuss
+what to build and what the ongoing care would involve.
+- The job to improve. Where it starts, where it gets stuck and what finished should look like.
+- A useful first workflow. The people, tools and decisions to bring together, without rebuilding everything.
+- A plan after launch. What we build, how we check it and who keeps it useful.
 Step 1 of 2
 
 ## Tell us where to start.
 Your name Work email
-Company Industry Choose one Construction & Real Estate Education Logistics Voice & Front Desk Events & Venues Healthcare Office & Administration Something else What eats the most time in your week? Continue
-Your email is written and ready to send. Pick a time
+Company Industry Choose one Construction & Real Estate Education Logistics Voice & Front Desk Events & Venues Healthcare Office & Administration Something else Which recurring job needs a better way through? Prepare email
+Your email draft is ready. Review and send it to start the conversation. Calendar preview
 This opens an email in your own mail program, already written, for you to send. Nothing is stored on this
 site. How we handle your data.
 
@@ -215,11 +216,11 @@ site. How we handle your data.
 
 Source: https://pretendhome.github.io/canvases/
 
-Canvases
+Industries
 
-# Pick your industry.
-Start from the capabilities shown for your industry. We shape the software around your workflow, then agree
-how to maintain and improve it.
+# Find your workflow.
+Choose a familiar setting, then follow the job: what arrives, who checks it and where it waits. We adapt
+the workflow and agree how to maintain it.
 - CV-05 In progress
 
 ## Construction & Real Estate
@@ -227,34 +228,34 @@ Run the job, not the paperwork. Job sites · Delivery tickets · Fleet and fuel
 - CV-01
 
 ## Education
-A living picture of every student, on your own machines. Student lenses · Observations · Parent summaries
+From a classroom note to a reviewed next step. Student lenses · Observations · Parent summaries
 - CV-02
 
 ## Logistics
-Know which order is late before the customer calls. Order tracking · Overnight risk check · Questions from the record
+Know which order needs attention next. Order tracking · Overnight risk check · Questions from the record
 - CV-03
 
 ## Voice & Front Desk
-A front desk built around your business. AI phone agents · WhatsApp · Booking
+Give callers a clear next step. AI phone agents · WhatsApp · Booking
 - CV-04
 
 ## Events & Venues
-One system from the ticket sale to the gate. Ticketing · Access control · POS · Visitor CRM
+Give venue teams one record from sale to gate. Ticketing · Access control · POS · Visitor CRM
 - CV-06 In progress
 
 ## Healthcare
-Patient flow, built around your clinic. Patient flow · Scheduling · Clinical operations
+A clear next step at the clinic desk. Patient flow · Scheduling · Clinic administration
 - CV-07 In progress
 
 ## Office & Administration
-Back-office work, built for you. Invoices · Queries · Recurring work
+Prepare the invoice for its next reviewer. Invoices · Queries · Recurring work
 - CV-08
 
 ## Your field
-If the work runs on documents, records and rules, we can build for it. Built around your work · Ongoing care
+Show us one recurring job and where it waits on a person, document or another system. Scope the workflow · Agree ongoing care
 
-## Do what you do best. We'll handle the software.
-A clear build scope. An agreed plan for ongoing care. Book an audit
+## Let’s make one workflow work better.
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
 Start with one workflow.
 
 ---
@@ -263,14 +264,14 @@ Source: https://pretendhome.github.io/canvases/construction
 
 Construction and Real Estate
 
-# Construction job costing and fleet software Run the job, not the paperwork.
-Job site, office and fleet in one system, with AI doing the back-office work. Customized for your crew,
-on your own computers, with ongoing care.
-Book an audit Start with one workflow. Meet Livella
+# Construction job costing and fleet software Keep the site and office on the same job.
+Keep job records, delivery tickets and costs together so the site and office work from the same information.
+We adapt Livella to your forms and maintain the agreed workflow.
+Let’s talk Start with one workflow. Meet Livella
 
-## What it handles today.
-These parts work now. We agree the custom work, connections and ongoing care your business needs
-before we build.
+## From site records to office decisions.
+Start with the parts that work today. We agree how your jobs, cost codes and forms fit, then maintain
+the workflow as those needs change.
 - 01
 
 ### Every job site in one record
@@ -282,7 +283,7 @@ Inbound and outbound delivery tickets are digitised, read automatically and tied
 - 03
 
 ### Safety and quality without paper
-Protective equipment is assigned and declarations stay compliant. Concrete pours and material quality are logged to code.
+Protective equipment assignments and declarations in one record. Concrete pours and material quality logged for review.
 - 04
 
 ### Fleet and fuel
@@ -302,48 +303,48 @@ Answers questions from the firm’s own data. Field notes can be dictated and tr
 Meet Livella
 
 ## Livella
-Job site, office and fleet in one system, with AI doing the back-office work.
-Livella is the construction app we start from: a web app for the office and a field app for the site, with
-unlimited field users.
-Book an audit Start with one workflow.
+Job records, delivery tickets and costs, shared by the site and office.
+Livella gives field teams and office staff a shared starting point. We agree the workflow, access and
+ongoing care for your implementation.
+Let’s talk Start with one workflow.
 Runs every day at an Italian construction firm that pays for it and whose own work it was built around.
 
-## A scoped build. Ongoing care.
-A scoped custom build, followed by agreed maintenance and improvements.
+## Built with your crew. Kept useful as jobs change.
+Start with one site-to-office workflow, then agree the work to keep it useful.
 
-### Audit
-We walk through how a job moves from the site to the office: notes, delivery tickets, fuel, costs.
+### Understand
+We follow a site record into the office: who checks it, who retypes it and what holds up the job.
 
 ### Redesign
-We cut the steps where someone retypes the same thing into another system.
+We agree how notes, delivery tickets and costs should reach the person who needs them.
 
 ### Assemble
-We customize Livella around your jobs, your cost codes and your forms.
+We adapt Livella to your jobs, cost codes and forms, and check it with the people who use them.
 
 ### Operate
-Your crew uses it on live jobs. We maintain it and agree improvements with you.
+We maintain the agreed workflow as forms, jobs and office requirements change.
 
 ## Your job files stay on your computer.
 - Files are read and organized on a computer you already own. No data migration. No new cloud account.
 - If you use an outside AI model, only what that task needs is sent, and it's logged.
 - You can run local models instead, and send nothing out. How we handle your data
 
-## Software for your jobs. Care for the long run.
-A clear build scope. An agreed plan for ongoing care. Book an audit
+## Where does a site record get held up?
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
 Start with one workflow.
 
 ---
 
 Source: https://pretendhome.github.io/canvases/education
 
-Canvases CV-01 Education
+Industries CV-01 Education
 
-# Private AI for schools A living picture of every student, on your own machines.
-Custom school software, with ongoing care. Record observations in under a minute; student lenses track strategies, accommodations and CEFR milestones. Student data stays at school.
-Book an audit Start with one workflow.
+# Private AI for schools From a classroom note to a reviewed next step.
+Teachers record observations and review parent drafts from the same student record. We adapt coursework and report formats, with care as those change.
+Let’s talk Start with one workflow.
 
 ## What it handles today.
-These parts work now. Custom work and ongoing care are scoped around your business.
+These parts work now. We adapt the forms, roles and review steps around a specific job, then agree their ongoing care.
 - 01
 
 ### Student and classroom lenses
@@ -365,7 +366,7 @@ Activities adapted from the school’s own coursework and textbooks, in three ti
 A recording of the shipped build, unedited.
 Education · recording ↑ Recorded 21 September 2026 on version 0.2.106, unedited: roster import, a report card into the lenses, an observation, a summary and a three-tier activity. The class is a sample.
 Tested against live data · Runs on your own computers · Scoped build and ongoing care
-Everything it already does: 8 modules, 42 features
+The underlying capabilities: 8 modules, 42 features
 - M-01 Students A lens per student, built from what the school already writes down.
 - M-02 Observe A short note, attached to the right child, in under a minute.
 - M-03 Assess Language work reviewed, not graded by a machine.
@@ -386,34 +387,34 @@ Everything it already does: 8 modules, 42 features
 - CV-06 Healthcare
 - CV-07 Office & Administration
 
-## Software for your work. Care for the long run.
-A clear build scope. An agreed plan for ongoing care. Book an audit
+## Where does the handoff get stuck?
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
 Start with one workflow.
 
 ---
 
 Source: https://pretendhome.github.io/canvases/events-venues
 
-Canvases CV-04 Events & Venues
+Industries CV-04 Events & Venues
 
-# Ticketing and access control software for venues One system from the ticket sale to the gate.
-Ticketing, check-in, box office and visitor records, customized and cared for.
-Book an audit Start with one workflow.
+# Ticketing and access control software for venues Give venue teams one record from sale to gate.
+Online sales, box office and entry share the same tickets. Care follows changes to your forms, gate rules and reports.
+Let’s talk Start with one workflow.
 
 ## What it handles today.
-These parts work now. Custom work and ongoing care are scoped around your business.
+These parts work now. We adapt the forms, roles and review steps around a specific job, then agree their ongoing care.
 - 01
 
 ### Tickets
-Issued once, by type, and checked at every gate.
+A sale issues the right ticket once, ready for staff to check at the gate.
 - 02
 
 ### The gate
-A clear yes or no at every scan, with the reason.
+Gate staff see the decision and reason for each scan.
 - 03
 
 ### The box office
-Online and walk-up sales in one catalogue, and a cash drawer that adds up.
+Online and walk-up sales share a catalogue; shift staff reconcile the cash.
 
 ## See it on a real day.
 Interface schematics with illustrative data. Product screenshots will replace them.
@@ -448,7 +449,7 @@ Events & Venues · End-to-end pipeline
 - CSV export
 - Audit log Interface schematic · illustrative data ↑ Configuration, sale, fulfilment, access and reporting share one data model. Every state change is an event.
 Tested against live data · Runs on your own computers · Scoped build and ongoing care
-Everything it already does: 15 modules, 80 features
+The underlying capabilities: 15 modules, 80 features
 - M-01 Platform and governance Multi-tenant foundations, licensing and access control.
 - M-02 Events The event as a first-class object, from draft to archive.
 - M-03 Venues and locations Sell on a place, not only on a date.
@@ -476,22 +477,22 @@ Everything it already does: 15 modules, 80 features
 - CV-06 Healthcare
 - CV-07 Office & Administration
 
-## Software for your work. Care for the long run.
-A clear build scope. An agreed plan for ongoing care. Book an audit
+## Where does the handoff get stuck?
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
 Start with one workflow.
 
 ---
 
 Source: https://pretendhome.github.io/canvases/healthcare
 
-Canvases CV-06 Healthcare In progress
+Industries CV-06 Healthcare In progress
 
-# Patient check-in and scheduling software Patient flow, built around your clinic.
-Check-in, scheduling and queues on your computers, customized and cared for.
-Book an audit Start with one workflow.
+# Patient check-in and scheduling software A clear next step at the clinic desk.
+For reception and scheduling staff. Shape check-in and queue handoffs, then agree care as forms and responsibilities change.
+Let’s talk Start with one workflow.
 
 ## What it is being built around.
-This canvas is in progress, so these are what it is being built around, not finished features. There are no screenshots yet.
+These workflows are being scoped and built, not finished features. Bring the forms, handoffs and review steps your team needs. There are no screenshots yet.
 - 01
 
 ### Patient flow
@@ -502,8 +503,8 @@ Who is here, who is next, and where each patient is.
 Appointments, changes and cancellations in one book.
 - 03
 
-### Clinical operations
-The admin around care, with sensitive data kept where it belongs.
+### Clinic administration
+The administrative records around care; clinical decisions stay with the responsible professionals.
 Runs on your own computers · Scoped build and ongoing care
 
 ## Your files stay on your computer.
@@ -517,30 +518,30 @@ Runs on your own computers · Scoped build and ongoing care
 - CV-04 Events & Venues
 - CV-07 Office & Administration
 
-## Software for your work. Care for the long run.
-A clear build scope. An agreed plan for ongoing care. Book an audit
+## Where does the handoff get stuck?
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
 Start with one workflow.
 
 ---
 
 Source: https://pretendhome.github.io/canvases/logistics
 
-Canvases CV-02 Logistics
+Industries CV-02 Logistics
 
-# Order tracking software for small logistics companies Know which order is late before the customer calls.
-Orders, overnight checks and customer updates on your computers, customized and cared for.
-Book an audit Start with one workflow.
+# Order tracking software for small logistics companies Know which order needs attention next.
+For operations teams chasing status and customer updates. We adapt the imports and maintain agreed connections.
+Let’s talk Start with one workflow.
 
 ## What it handles today.
-These parts work now. Custom work and ongoing care are scoped around your business.
+These parts work now. We adapt the forms, roles and review steps around a specific job, then agree their ongoing care.
 - 01
 
 ### The order file
-One record per order, from quote to closed, across 14 stages. Your spreadsheet is the import.
+Bring the spreadsheet into one order record, from quote to closed across 14 stages, so operations can check the same status.
 - 02
 
 ### The morning list
-Worked out overnight: what stalled, what is at risk, and where the bottleneck is.
+Before the team starts calling vendors: an overnight view of stalled work, risk and the bottleneck.
 - 03
 
 ### Customer updates
@@ -550,7 +551,7 @@ Drafted from the record. A person approves each one before it goes.
 A recording of the shipped build, unedited.
 Logistics · recording ↑ Recorded 21 September 2026 on version 0.1.9, unedited: the morning screen, orders, the dashboard, and questions asked in English and Spanish. The orders are a sample file.
 Tested against live data · Runs on your own computers · Scoped build and ongoing care
-Everything it already does: 8 modules, 35 features
+The underlying capabilities: 8 modules, 35 features
 - M-01 Today The control tower, computed overnight.
 - M-02 Orders One record per order, from quote to closed.
 - M-03 Customers Local-only, by rule.
@@ -571,22 +572,22 @@ Everything it already does: 8 modules, 35 features
 - CV-06 Healthcare
 - CV-07 Office & Administration
 
-## Software for your work. Care for the long run.
-A clear build scope. An agreed plan for ongoing care. Book an audit
+## Where does the handoff get stuck?
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
 Start with one workflow.
 
 ---
 
 Source: https://pretendhome.github.io/canvases/office
 
-Canvases CV-07 Office & Administration In progress
+Industries CV-07 Office & Administration In progress
 
-# Invoice processing automation for small businesses Back-office work, built for you.
-Back-office work on your computers, customized and cared for.
-Book an audit Start with one workflow.
+# Invoice processing automation for small businesses Prepare the invoice for its next reviewer.
+For the people chasing invoices and repeat requests. Agree the checks, reviewer handoffs and care as your forms change.
+Let’s talk Start with one workflow.
 
 ## What it is being built around.
-This canvas is in progress, so these are what it is being built around, not finished features. There are no screenshots yet.
+These workflows are being scoped and built, not finished features. Bring the forms, handoffs and review steps your team needs. There are no screenshots yet.
 - 01
 
 ### Invoices
@@ -612,22 +613,22 @@ Runs on your own computers · Scoped build and ongoing care
 - CV-04 Events & Venues
 - CV-06 Healthcare
 
-## Software for your work. Care for the long run.
-A clear build scope. An agreed plan for ongoing care. Book an audit
+## Where does the handoff get stuck?
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
 Start with one workflow.
 
 ---
 
 Source: https://pretendhome.github.io/canvases/voice-front-desk
 
-Canvases CV-03 Voice & Front Desk
+Industries CV-03 Voice & Front Desk
 
-# AI receptionist for small businesses A front desk built around your business.
-Phone, WhatsApp and email agents: bookings, rescheduling, human handover and ongoing care.
-Book an audit Start with one workflow.
+# AI receptionist for small businesses Give callers a clear next step.
+Phone, WhatsApp and email bookings, with handover to staff. Care follows changes to your rules and services.
+Let’s talk Start with one workflow.
 
 ## What it handles today.
-These parts work now. Custom work and ongoing care are scoped around your business.
+These parts work now. We adapt the forms, roles and review steps around a specific job, then agree their ongoing care.
 - 01
 
 ### The appointment book
@@ -635,17 +636,17 @@ Books, reschedules and cancels on your real calendar, and confirms what it did.
 - 02
 
 ### Calls a person should take
-A person is always one transfer away, with the conversation so far.
+Pass the caller and conversation to a person when the request needs staff attention.
 - 03
 
 ### The call record
-Summary, audio and transcript kept for every conversation.
+Staff can review the summary, audio and transcript when a caller follows up.
 
 ## See it on a real day.
 Screens from the current Italian-language build.
 Voice & Front Desk · The front desk at a glance ↑ Calls handled, resolved autonomously, transferred to a person, and what still needs review.
 Tested against live data · Runs on your own computers · Scoped build and ongoing care
-Everything it already does: 9 modules, 38 features
+The underlying capabilities: 9 modules, 38 features
 - M-01 Channels One agent, reachable the way people already reach you.
 - M-02 Agent behaviour Control without prompt engineering.
 - M-03 Human handover A person is always one transfer away.
@@ -667,8 +668,8 @@ Everything it already does: 9 modules, 38 features
 - CV-06 Healthcare
 - CV-07 Office & Administration
 
-## Software for your work. Care for the long run.
-A clear build scope. An agreed plan for ongoing care. Book an audit
+## Where does the handoff get stuck?
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
 Start with one workflow.
 
 ---
@@ -677,15 +678,15 @@ Source: https://pretendhome.github.io/docs
 
 Developer docs
 
-# Docs
-The command line is a developer tool under construction, separate from a custom build and care agreement.
-Full documentation is not published yet; the installer names these three starting commands.
-- mc setup configure models
-- mc run "query" ask something
-- mc health system status
-- Install the command line The two install commands, for macOS, Linux and Windows.
-- Desktop apps Existing downloads, separate from a custom build and care plan.
-- How it works From a scoped workflow to ongoing care, in four steps.
+# Who runs it, and how?
+Your deployment needs operating notes: setup, access, routine checks and who to call. We agree who keeps them
+current. The public developer tool below is still under construction; full documentation is not published.
+- mc setup configure model access
+- mc run "query" run a query
+- mc health check system health
+- Install the developer tool Installer commands for macOS, Linux and Windows.
+- Explore the desktop apps Existing downloads and their installation instructions.
+- From build to ongoing care How we learn the workflow, build it and keep it useful.
 
 ---
 
@@ -693,33 +694,33 @@ Source: https://pretendhome.github.io/faq
 
 Questions
 
-# Asked before every audit.
-If yours is not here, ask it in the audit, or write to us from the audit page.
+# Questions before we start.
+What the service involves, what your team brings and what happens after launch. Bring any other questions to our first conversation.
 
 ## The basics
 What is Mission Canvas?
-Customized Software as a Service: custom software built around your workflow, with ongoing maintenance, support and improvement as your business changes. We start with the work your team needs to do. Who is it for?
-Businesses whose recurring work runs across documents, records, messages and systems. The industry examples on this site illustrate workflows we can discuss and scope around your team. How is it different from ChatGPT or other AI chat tools?
-Chat tools help with questions and drafts. Mission Canvas builds software around your workflow, information and business rules, then agrees how it will be maintained and improved. AI is one possible tool within that solution. What happens in the audit?
-We walk through a recurring task with your team: the tools, information, handoffs and decisions. Together, we identify a useful first scope and what a successful result would look like. How long does it take?
-We agree delivery timing after reviewing the scope, integrations and access needed. Ongoing maintenance and improvement are defined in the care agreement. What is a canvas?
-An industry workflow outline that helps frame a custom project. The examples show possible scopes, while your people, rules and systems shape what we build on our reusable foundation.
+Customized Software as a Service: we build software for a recurring job in your business, then maintain it and make agreed improvements as the work changes. Who is it for?
+Teams repeatedly chasing information, copying between tools or checking the same records. Client intake, document preparation and follow-up are useful jobs to discuss first. How is it different from a one-off software project?
+We build on reusable foundations and stay responsible for ongoing care. Maintenance and agreed improvements continue after launch, with a team that knows the workflow. What happens in the audit?
+Talk us through one recurring job: how it starts, the tools and people involved, and where it gets stuck. We identify a useful first outcome together. How long does it take?
+The first walkthrough shows what needs connecting and building. We agree a delivery plan before work starts; maintenance and agreed improvements continue after the first release. What is a canvas?
+An industry starting point for a custom workflow. We use reusable building blocks and adapt the steps, rules and connections to your business.
 
 ## Cost and ownership
 What does it cost?
-A scoped setup and build, followed by recurring care, with final figures and terms agreed by quote. Hosting, third-party services and usage costs are separate unless the quote includes them. Who owns what you build?
-Ownership, licensing, access and handover rights are defined in your agreement before you commit. What if we stop working together?
-Your agreement sets out the handover, data export and ongoing operating responsibilities, including any outside services the software needs.
+An initial setup and build, followed by recurring care. Your quote explains the work included and any separate hosting, third-party or usage costs. Who owns what you build?
+We make ownership, licensing and access clear before the build, including how the reusable foundation and your custom work are treated. What if we stop working together?
+We agree how data can be exported, what is handed over and who will operate the software and its connected services.
 
 ## Your data and your systems
 Does our data leave our computers?
-The project defines where information is processed, who can access it and which connected services receive it. Local processing and external connections are scoped for your workflow before use. Do we need new hardware?
-We assess your existing equipment, hosting needs and connected systems during scoping, then identify what the proposed solution requires. Can we keep the tools we use today?
-We start with the tools and records you already use. Integrations depend on available interfaces, permissions and vendor limits, and are agreed in the project scope. What is Palette?
-Our desktop foundation and development application. Palette has its own capabilities and setup requirements; a Mission Canvas service engagement separately defines your custom workflow, delivery and ongoing care.
+We agree where the software runs, who can access the information and which connected services receive it before connecting your business data. Do we need new hardware?
+We look at the equipment and systems you already use, then explain what the workflow needs before you decide to build. Can we keep the tools we use today?
+We start there. We check how your tools can connect, what access they allow and where a person still needs to take the next step. What is Palette?
+A separate desktop application for working with your files. Downloading Palette does not include a custom workflow build or the ongoing service described here.
 
-## Do what you do best. We'll handle the software.
-A clear build scope. An agreed plan for ongoing care. Book an audit
+## Let’s make one workflow work better.
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
 Start with one workflow.
 
 ---
@@ -728,49 +729,49 @@ Source: https://pretendhome.github.io/how-it-works
 
 How it works
 
-# Built around your work. Cared for as it changes.
-We connect the information your workflow needs, build around your process and agree how to keep the software useful.
-Book an audit Start with one workflow.
+# Start with one job. Make it work better.
+Show us a recurring job, the tools involved and where the handoffs get difficult. We build around that work, review it with your team and keep improving it.
+Let’s talk Start with one workflow.
 
-## The four steps
+## From your information to useful work
 01 Read 02 Sort 03 Connect 04 Work
 
-### Start with what you have.
-Files, exports and records, read on your own machines. Nothing to move, nothing to retype. What you get
-A private index of what your company knows
+### Start with the information you use.
+We identify the files, records and system connections this job needs. You choose what the software can access. What you get
+The sources your workflow needs
 
-### Work out what each file is about.
-It finds the people, customers, orders, documents, processes and equipment behind the files. What you get
-The things your business is made of
+### Pick out what the job needs.
+We define the details the workflow depends on, including what to do when information is missing, outdated or conflicting. What you get
+The details needed for the next step
 
-### See how it all fits together.
-It links those things into one picture of how your company works, so the AI gets the connections, not just loose text. What you get
-One connected map of your company
+### Bring the right records together.
+We connect the relevant records and tools around this workflow, so people can follow the work without piecing it together by hand. What you get
+Information connected around one job
 
-### Put that knowledge to work.
-The application uses this context for your workflow. Models, connected services and access are agreed for the implementation. What you get
-Context for agents and for your industry’s application
+### Review it on real examples.
+Your team checks the software against everyday work and difficult cases. Then care keeps the connections working and improvements moving. What you get
+Reviewed software for your team’s work
 Working with us
 
-## A focused build. A lasting care relationship.
-We start from a canvas: a reusable foundation for your industry. We shape it around your workflow,
-then agree how to maintain and improve it.
+## One workflow, from first scope to daily use.
+We start with your workflow and reuse common capabilities so the build does not begin from scratch.
+Your business rules, connections and review steps shape the software. Care keeps it useful as those needs change.
 
 ### Audit
-We sit with your team and follow the work: the tools, information, handoffs and decisions. Together, we choose a useful first scope.
-You get Workflow map · Agreed first scope
+Show us one recurring job: where it starts, who handles it and what gets in the way. Together, we choose the first useful scope.
+You get One workflow · A clear outcome
 
 ### Redesign
-We shape a clearer workflow, with the business rules, review steps and responsibilities your team needs.
-You get Your workflow, defined together
+We agree what the software should do, which tools it connects and which decisions stay with your team.
+You get The steps, connections and review points
 
 ### Assemble
-We build your custom software on a reusable foundation, connect the agreed tools, and review it with your team.
-You get Your software, built around your work
+We build on a reusable foundation, then shape the software around your business. Your team reviews it using real examples and exceptions.
+You get Custom software · Reviewed with your team
 
 ### Operate
-We maintain and support the software within your care agreement, then improve it with you as your business changes.
-You get Ongoing care · Agreed improvements
+We maintain connections, fix problems and agree improvements as your business changes, with care scoped to the software you use.
+You get Maintained connections · Fixes · Improvements
 Then the AI goes to work
 
 ## Ask it about your work. It answers from your records.
@@ -789,8 +790,8 @@ Works with what you already have
 - Files and exports you already keep
 Imports shown are the Logistics canvas today. Others are agreed in the audit.
 
-## Your business. Your software. Kept working.
-A clear build scope. An agreed plan for ongoing care. Book an audit
+## Tell us the job you want to improve.
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
 Start with one workflow.
 
 ---
@@ -799,10 +800,10 @@ Source: https://pretendhome.github.io/palette
 
 Mission Canvas Palette
 
-# The free local AI app for your documents: Palette
-It asks first. Then it shows its work.
-A free app for your computer. Give it one folder. It lists what is there without opening a file, reads only what
-you allow, and builds a document from the facts you accept. Every line leads back to the sentence it came from.
+# The free desktop application: Palette
+Explore the foundation. Try one folder.
+Explore a folder, review the sources and see how document changes are recorded. Palette is a free desktop
+tool; a custom business workflow and ongoing care are commissioned separately.
 Mac Windows Linux
 Palette runs on a computer.
 Send yourself this page
@@ -818,61 +819,60 @@ a clicked one each become a new version; then it reads the document aloud in a v
 Recorded 21 September 2026 on a build of 0.3.8 with the two changes that shipped in 0.3.9: the note bar sits at
 the bottom, and spoken requests apply without a confirm card.
 Download the recording, 5 MB
-The rules it keeps · each one can be checked in the app
-Most AI apps tell you what they will do for you. This one is easier to describe by what it will not do without you.
+What the walkthrough shows
+See how selected information becomes a document, how its sources remain visible and how changes are recorded.
 - 01
 
-### It never goes looking.
-It works on the folders you hand it, one at a time. It does not search the rest of the computer on its own.
+### Chosen folders.
+The sample works with the folder you grant. It gives you a focused way to explore documents and their supporting sources.
 - 02
 
-### It reads nothing until you say so.
-Listing a folder opens no file. Reading starts when you press Grant, and every file it read is listed afterwards.
+### Permission before reading.
+The preview lists a folder before its contents are read. The walkthrough shows the grant that allows reading to begin.
 - 03
 
-### Nothing in the document is made up.
-Today the document is the facts you accepted, in a fixed layout. If a fact is not in your notes, it is not in the document. Written summaries come next, held to the same rule: every sentence leads back to a source.
+### Source-based documents.
+The sample fills a fixed document layout from accepted facts. Use its source view to check the information behind a claim.
 - 04
 
-### Nothing it keeps is hidden.
-On Home, what you asked for is kept and listed on screen in the same turn, and every version of the document is kept. In a matter, your words wait on a card until you keep them.
+### Visible changes.
+The walkthrough shows the information being kept and the document versions created as values change, with review behavior shown on screen.
 - 05
 
-### It does not need a model to work.
-The sample runs with no AI model installed and no key. The app says so on screen.
+### A sample without a model.
+The sample document workflow runs without an AI model installed or a model key. That behavior is identified in the app.
 - 06
 
-### It keeps a list of what it connects to.
-The app keeps a list of the connections it has made. On a fresh install, after the whole sample, that list reads “none yet”.
+### Recorded connections.
+The app has a connection record you can inspect. The recorded sample ends with no external connections listed.
 The first five minutes · screens from version 0.3.7, not drawings
 
-## What you will see, in the order you will see it.
-These are the app's own screens, taken from version 0.3.7 running the sample notes. Since then the note bar has
-moved to the bottom, and requests on Home no longer wait on a card. The steps are the same, and they run on your
-own folder.
-- 01 It opens empty, with one button Nothing to set up and no account. “Try it with sample notes” places four invented notes in the app’s own folder, so you can see the whole thing work before it touches anything of yours.
-- 02 It shows you a folder before it reads it Names and counts only. No file is opened to make this list. It says what it would read, what it would skip and why, and waits for you to grant the folder.
-- 03 You say what you want. It asks before keeping anything Type it or hold the mic. It finds the facts in the notes you granted and holds them on a card. On Home in 0.3.9 it keeps them in the same turn and lists what it kept.
-- 04 The document is the facts you accepted Today it is a template, filled in, so there is no sentence in it that nobody wrote. The panel on the right says which model wrote the draft: none.
-- 05 Every line leads back to its sentence Each claim sits beside the words it came from and the file they are in. Nineteen claims, nineteen sources.
-- 06 Click a value to change it Or say the change out loud. It shows the change on a card, you confirm, and the document becomes version 2. Version 1 is kept.
-It opens empty, with one button Nothing to set up and no account. “Try it with sample notes” places four invented notes in the app’s own folder, so you can see the whole thing work before it touches anything of yours. It shows you a folder before it reads it Names and counts only. No file is opened to make this list. It says what it would read, what it would skip and why, and waits for you to grant the folder. You say what you want. It asks before keeping anything Type it or hold the mic. It finds the facts in the notes you granted and holds them on a card. On Home in 0.3.9 it keeps them in the same turn and lists what it kept. The document is the facts you accepted Today it is a template, filled in, so there is no sentence in it that nobody wrote. The panel on the right says which model wrote the draft: none. Every line leads back to its sentence Each claim sits beside the words it came from and the file they are in. Nineteen claims, nineteen sources. Click a value to change it Or say the change out loud. It shows the change on a card, you confirm, and the document becomes version 2. Version 1 is kept.
-What it is for, and what it is not
+## Follow the recorded document walkthrough.
+These screens show version 0.3.7 running the sample notes. They document that walkthrough; later builds may
+look or behave differently. Use the current app's screens and guidance to check the work you want to try.
+- 01 Start with invented sample notes The walkthrough starts with four invented notes in the app’s own folder. They let you explore a small document workflow before choosing any of your own material.
+- 02 Preview a folder before reading The preview shows names and counts, with the files it would read or skip. Reading the contents follows the folder grant.
+- 03 Review the extracted facts The pictured build holds extracted facts on a card. Later Home behavior keeps requested facts in the same turn and lists them on screen.
+- 04 Build from the accepted facts The pictured document uses a fixed template filled with accepted facts. Its panel records that no model wrote this draft.
+- 05 Follow a claim back to its source The walkthrough shows claims beside the source words and files they came from, so you can check the supporting information.
+- 06 Change a value and keep the history The pictured edit creates another document version while retaining the earlier one. The walkthrough shows the change and its review step.
+Start with invented sample notes The walkthrough starts with four invented notes in the app’s own folder. They let you explore a small document workflow before choosing any of your own material. Preview a folder before reading The preview shows names and counts, with the files it would read or skip. Reading the contents follows the folder grant. Review the extracted facts The pictured build holds extracted facts on a card. Later Home behavior keeps requested facts in the same turn and lists them on screen. Build from the accepted facts The pictured document uses a fixed template filled with accepted facts. Its panel records that no model wrote this draft. Follow a claim back to its source The walkthrough shows claims beside the source words and files they came from, so you can check the supporting information. Change a value and keep the history The pictured edit creates another document version while retaining the earlier one. The walkthrough shows the change and its review step.
+Explore the app or discuss a custom workflow
 
-## Good for
-- A review, brief or summary sheet assembled from scattered notes
-- Finding out where a number in a document came from
-- Seeing what is in a folder before anything is allowed to read it
-- Work where a wrong sentence is expensive
+## Try Palette for
+- Exploring a document workflow with sample notes
+- Checking the source behind a document claim
+- Previewing a folder before granting access
+- Seeing how changes and versions are recorded
 
-## Not for
-- Searching the web
-- Your inbox or your calendar
-- Booking, buying or doing errands
-- Free writing: emails, essays, posts
-Today It reads plain text:.txt,.md,.csv,.json
-and.ics. PDFs and Office files are listed and skipped, and it tells you so. It is an early build, and it
-is honest about where it stops.
+## Talk to us about
+- A custom workflow for your business
+- Connections to your existing systems
+- Ongoing maintenance and support
+- Improvements as your workflow changes
+The pictured build It reads plain text:.txt,.md,.csv,.json
+and.ics. PDFs and Office files are listed and skipped. Check the current build before relying on a
+particular file format or workflow.
 Install · version 0.4.1 · 15 October 2026
 - Mac
 Open MissionCanvas.dmg and drag the app into Applications. It is signed and notarised. If macOS still says it cannot be verified, right-click the app and choose Open. Download for Mac, 683 MB
@@ -891,15 +891,15 @@ Mac and Linux: shasum -a 256 <file>. Windows: certutil -hashfile <file> SHA256. 
 are the digests GitHub publishes for release desktop-v0.4.1; this page reads them when it is built.
 Price
 
-## Free. No account, no card, no trial clock.
-Who makes it
+## A free desktop download.
+For your business
 
-## Palette is the app. Mission Canvas is the company.
-Mission Canvas builds around a business workflow, then maintains and improves the application through an
-agreed care plan. That service is separate from the free Palette download, and starts with a conversation.
-Book an audit
+## Try the app. Commission the workflow.
+Mission Canvas builds software for one important job in your business, using reusable foundations and your
+own workflow. Care maintains its connections, fixes problems and makes the improvements we agree together.
+Let’s talk
 
-## Try it on the sample notes. Then on one folder of your own. Download Palette
+## Start with the sample notes. Download Palette
 
 ---
 
@@ -908,13 +908,13 @@ Source: https://pretendhome.github.io/press
 Press and media
 
 # Writing about Mission Canvas?
-Here are the facts, the logo and the person to talk to.
+The company in a paragraph, the logo to download and a direct contact for questions.
 Contact the team
 
 ## About Mission Canvas
-Mission Canvas provides Customized Software as a Service for small and mid-sized businesses. We scope a
-specific workflow, build around the tools and information it needs, then provide ongoing maintenance and
-agreed improvements. The build, deployment and care responsibilities are defined for each engagement.
+Mission Canvas builds software around recurring work in small and mid-sized businesses. It uses reusable
+building blocks, adapts the workflow to the business, and provides ongoing maintenance and agreed
+improvements. The company calls this Customized Software as a Service, or CSaaS.
 Website
 missioncanvas.ai
 
@@ -930,51 +930,50 @@ Source: https://pretendhome.github.io/pricing
 
 Pricing
 
-# A scoped build. Ongoing care.
-Custom software built around your workflow, maintained and improved as your business changes. Final figures and terms are agreed by quote.
-Book an audit Start with one workflow.
+# A clear build. A clear care plan.
+Pay for a defined build and the care that keeps it useful. We quote both around one important workflow in your business.
+Let’s talk Start with one workflow.
 - 1
 
-## The workflow
-Scope agreed together
-We map the work, the tools and the handoffs. Together, we define the first build and how you will review it.
+## Define the job
+Scope first
+Choose one important workflow. We agree what to build, what it connects and how your team will review the result.
 - 2
 
 ## Setup and build
-Quoted for your scope
-Custom software on a reusable foundation, with the agreed business rules, connections and review steps.
+Quoted for your workflow
+Custom software shaped around your business rules, built on a reusable foundation and reviewed using real examples.
 - 3
 
 ## Ongoing care
 Recurring, agreed by quote
-Maintenance, support and improvements within a clear agreement. Larger changes are scoped and quoted before work begins.
-- Build scope agreed first
-- Recurring care, clearly defined
-- Outside costs listed separately
-- Changes quoted before work begins
+Maintain connections, fix problems and make agreed improvements. The care plan explains what is included and how larger changes are priced.
+- A defined first build
+- Care with a clear boundary
+- Outside services costed separately
+- Larger changes quoted first
 
-## Choose how your software will be built and cared for.
+## Choose who will build it and keep it useful.
 
 ### Build in-house
-Your team takes responsibility for the build, connected systems, ongoing maintenance and changes as the business grows.
+Your team builds the software and takes responsibility for its connections, maintenance and future changes.
 
 ### Choose a product
-Use an existing product where its features, configuration and support terms fit the workflow your team needs.
+Use an existing product when its features and configuration fit the work your team needs to do.
 
 ### Build with us
-We build around your workflow and agree its ongoing care. The scope, price and responsibilities are clear before you commit.
-This is our proposed service model. Your quote defines the build and recurring care, with hosting, third-party
-subscriptions and usage costs listed separately unless included. Delivery timing, support arrangements and
-ownership terms are agreed for your scope.
+One team to shape the workflow, build the software and keep improving it, with a defined scope for the build and care.
+The proposed model pairs a focused build with recurring care. Hosting, model usage and third-party subscriptions
+are separate unless included in your quote. You see what is covered before we begin.
 
 ## Questions about cost.
 What does it cost?
-A scoped setup and build, followed by recurring care, with final figures and terms agreed by quote. Hosting, third-party services and usage costs are separate unless the quote includes them. Who owns what you build?
-Ownership, licensing, access and handover rights are defined in your agreement before you commit. What if we stop working together?
-Your agreement sets out the handover, data export and ongoing operating responsibilities, including any outside services the software needs.
+An initial setup and build, followed by recurring care. Your quote explains the work included and any separate hosting, third-party or usage costs. Who owns what you build?
+We make ownership, licensing and access clear before the build, including how the reusable foundation and your custom work are treated. What if we stop working together?
+We agree how data can be exported, what is handed over and who will operate the software and its connected services.
 
-## Get a price for your business.
-A clear build scope. An agreed plan for ongoing care. Book an audit
+## Scope the work. Understand the cost.
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
 Start with one workflow.
 
 ---
@@ -984,11 +983,11 @@ Source: https://pretendhome.github.io/privacy
 Last updated October 23, 2026 · Draft
 
 # Your data, in plain words.
-Your custom workflow needs clear rules for information and access. This page explains enquiries through this
-website; deployment and data handling for your application are agreed separately.
+Here is what happens when you contact us through this website. Before connecting a custom workflow, we also
+agree how it will use your business information.
 
 ## What this website collects
-- No form submission to this site. The audit forms prepare a message in your email app for you
+- No form submission to this site. The enquiry forms prepare a message in your email app for you
 to review and send. We receive it only when you send it.
 - No cookies or site analytics. This website sets no cookies and runs no analytics today.
 Hosting and email providers may keep technical logs under their own policies.
@@ -999,15 +998,15 @@ a conversation; choosing a preview slot does not confirm a meeting.
 Only to discuss your workflow, arrange a conversation and follow up about it. We don't sell it, rent it or use it for
 advertising.
 
-## Your email stays with your email provider
-Email integration is scoped with the provider you use, such as Google Workspace, Microsoft 365, or an IMAP and
-SMTP service. We agree the custom application's permitted access and the responsibilities for maintaining
-that connection before work starts.
+## Connecting your email
+If a workflow uses email, we start with your provider, such as Google Workspace, Microsoft 365, or an IMAP
+and SMTP service. We agree what the application can access and who will maintain the connection before
+using it.
 
 ## How our software handles your business files
-- Deployment and access to files are agreed for your workflow.
-- Any outside AI provider and the information it may receive are agreed before use.
-- Maintenance access, records and changes are defined in your care agreement.
+- We agree where the software runs and which files it can access.
+- We identify any outside AI provider and what information it may receive before use.
+- We make clear who can access information during maintenance and what records are kept.
 
 ---
 
@@ -1015,58 +1014,58 @@ Source: https://pretendhome.github.io/security
 
 Your data
 
-# Your workflow. Your data. Clear controls.
-We agree where the application runs, what it can access and what needs human review. Maintenance and changes follow the controls scoped for your implementation.
+# Know what it can see and do.
+A useful workflow needs the right information and clear limits. Together, we decide what the software can access, where it runs and which actions need your team's review.
 Your data
 
-## Your information. Clear control.
-We agree where your information is processed, what the software may use and which actions need your instruction.
-Ongoing care follows those boundaries.
+## The right information. A clear boundary.
+Start with the information one workflow needs. Make its sources, access and actions clear, then keep those
+choices visible as the software changes.
 
 ### Read
-It reads what you already have.
-Selected files, exports and records, with access agreed for your workflow.
+Choose the sources.
+Use the selected files, records and exports this workflow needs, with access agreed before use.
 
 ### Sort
-It finds what your business is made of.
-Customers, orders, documents, people, equipment and processes, in whatever format they were left.
+Keep the relevant details in view.
+Define the information needed for the job and how to handle missing, conflicting or outdated records.
 
 ### Connect
-It links them into one picture.
-Relevant files, jobs and records, connected around the work your team needs to do.
+Link records for this job.
+Agree which systems exchange information, what each connection is for and which accounts it uses.
 
 ### Work
-The AI works from that picture.
-The implementation defines which tools and models are used, with the information and permissions the task needs.
+Keep important decisions with people.
+Define what the software prepares or changes, which actions need review and what is recorded afterward.
 
-### Deployment agreed with you
-We agree what runs on your computers and which connected services the workflow needs.
+### Know where it runs
+Choose the processing and hosting arrangement for the workflow, including any outside services it needs.
 
-### Your information, your choices
-Define what information the software may use and which outside services may receive it.
+### Control what it uses
+Agree who can access the information and how permissions change when a person or role changes.
 
-### Consequential actions in view
-Agree what needs a person to review or instruct, and how results are recorded.
+### Review important actions
+Make sending, updating and other consequential actions clear, with the review and records your team needs.
 
-### Care with a clear scope
-Maintenance, support access and changes are defined for the implementation, with responsibilities made clear.
-What ongoing care should mean
-Understand which information the software uses, where it is processed and who can access it. These choices belong in the project scope. Our approach · Information and access
-Ongoing care should explain maintenance, support and agreed improvements. Access to maintain software is
-separate from permission to reuse your private records for other customers or model training.
-Our approach · Maintenance and improvements
-Our foundation supports source references, version history and recorded actions. Each implementation is checked
-against the workflow and controls agreed with your team.
+### Maintain the boundaries
+Care includes agreed support access and review of changes that affect information, permissions or connected services.
+Keep these choices clear as the software changes
+Your team should know which records support the work, who can access them and where they are processed. We make those choices part of the workflow. Information and access
+Keeping the software useful means maintaining connections and fixing problems. We agree support access and
+review changes that affect how your team's information is handled.
+Maintenance and changes
+Our foundation includes source references, version history and recorded actions. We check the workflow against
+your examples, including missing information, revoked access and uncertain results.
 
-## Questions about data.
+## Your information and connected systems.
 Does our data leave our computers?
-The project defines where information is processed, who can access it and which connected services receive it. Local processing and external connections are scoped for your workflow before use. Do we need new hardware?
-We assess your existing equipment, hosting needs and connected systems during scoping, then identify what the proposed solution requires. Can we keep the tools we use today?
-We start with the tools and records you already use. Integrations depend on available interfaces, permissions and vendor limits, and are agreed in the project scope.
-For how this website and a workflow enquiry handle your details, read the privacy page.
+We agree where the software runs, who can access the information and which connected services receive it before connecting your business data. Do we need new hardware?
+We look at the equipment and systems you already use, then explain what the workflow needs before you decide to build. Can we keep the tools we use today?
+We start there. We check how your tools can connect, what access they allow and where a person still needs to take the next step.
+For information about details shared through this website, read the privacy page.
 
-## Do what you do best. We'll handle the software.
-A clear build scope. An agreed plan for ongoing care. Book an audit
+## Let’s make one workflow work better.
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
 Start with one workflow.
 
 ---
@@ -1075,60 +1074,60 @@ Source: https://pretendhome.github.io/what-is-mission-canvas
 
 What is Mission Canvas
 
-# Software built around how your business works.
-Customized Software as a Service: we build software around your workflow on a reusable foundation, then
-maintain, support and improve it with you as your business changes.
+# Custom software. A team responsible for it.
+Mission Canvas builds software for a recurring business workflow and stays responsible for its care.
+That is Customized Software as a Service, or CSaaS.
 
-## Built. Maintained. Improved.
+## How the service fits together.
 - 01
 
-### Your workflow
-We sit with your team and map the work, the information and the decisions that matter.
+### One recurring job
+Show us how it starts, what people need to decide and what a finished result looks like.
 - 02
 
-### Custom software
-We build on a reusable foundation, shaping the application around your business rules and agreed connections.
+### Software that fits
+We reuse common building blocks and tailor the steps, rules and connections to your business.
 - 03
 
-### Ongoing care
-We maintain, support and improve the software with your team as your business changes, within an agreed scope.
+### A team to care for it
+Maintenance, fixes and agreed improvements continue after launch, with someone responsible for keeping the workflow useful.
 
-## What the service brings together.
+## What changes for your team.
 
-### Built for your work
-The application brings your information, business rules and review steps into one focused workflow.
+### Less chasing
+Bring the steps and records for one job together, so people can see what is ready and what needs attention.
 
-### Clear responsibilities
-The agreement defines your build, recurring care, access and ownership terms, with final figures set by quote.
+### Your rules in the work
+Build in the checks, decisions and approvals your team needs to reach a useful result.
 
-### Cared for over time
-Maintenance, support and agreed improvements have a place in the relationship as your needs change.
+### Room to change
+As the process evolves, we review feedback with your team and agree the next improvement.
 
 ## Who it is for.
-Businesses whose work runs across documents, records and systems. These examples show possible workflows to discuss and scope.
+For teams chasing the same information across email, documents and systems. Find a familiar job in these industry starting points.
 ‹
-- CV-05 In progress Construction & Real Estate Job site, office and fleet, customized and cared for.
-- CV-01 Education Teaching workflows, customized for your school and cared for.
-- CV-02 Logistics Order tracking and overnight checks, customized and cared for.
-- CV-03 Voice & Front Desk A front desk tailored to your business, with ongoing care.
-- CV-04 Events & Venues Ticketing and access, customized for your venue and cared for.
-- CV-06 In progress Healthcare Custom healthcare workflows, with agreed controls and ongoing care.
-- CV-07 In progress Office & Administration Back-office software, customized around your work and cared for.
-- CV-08 Everything else Bring a recurring workflow and we can discuss a useful first scope. ›
+- CV-05 In progress Construction & Real Estate Bring site records, delivery tickets and office decisions together.
+- CV-01 Education Help teachers review student notes, lessons and parent drafts.
+- CV-02 Logistics Give operations one view of stalled orders and the next customer update.
+- CV-03 Voice & Front Desk Handle routine bookings and pass the right calls to staff.
+- CV-04 Events & Venues Keep the box office and gate working from the same ticket records.
+- CV-06 In progress Healthcare Plan clearer check-in and scheduling handoffs for clinic staff.
+- CV-07 In progress Office & Administration Prepare invoices and repeat requests for the next reviewer.
+- CV-08 Everything else Show us the recurring job your team wants to work better. ›
 
 ## Read next.
 
 ### How it works
-From understanding the workflow to ongoing care.
+The first walkthrough, the build and the work after launch.
 
 ### Pricing
-A scoped build and recurring care.
+What the build and ongoing service pay for.
 
 ### Questions
-Scope, costs, responsibilities and connected systems.
+Who it fits, how to start and what your team needs.
 
-## Do what you do best. We'll handle the software.
-A clear build scope. An agreed plan for ongoing care. Book an audit
+## Let’s make one workflow work better.
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
 Start with one workflow.
 
 ---
@@ -1137,55 +1136,55 @@ Source: https://pretendhome.github.io/why-mission-canvas
 
 Why Mission Canvas
 
-# Your workflow deserves software built around it.
-Customized Software as a Service brings a focused custom build together with ongoing care. We start with your
-work, build on a reusable foundation, and improve the software with you as your business changes.
+# The work changes. Someone should care for the software.
+A working application still needs attention. Connections change, problems appear and your team finds better
+ways to work. Our service keeps responsibility for that care alongside the build.
 
-## Scattered information
-Documents, messages and records hold different parts of the same piece of work.
+## The workaround becomes routine
+Someone keeps copying information between tools because the process has no better way through.
 
-## Awkward handoffs
-People move information between spreadsheets, email and systems to keep a process moving.
+## A connected tool changes
+An update, a new field or a changed permission can affect the job your team relies on.
 
-## Changing requirements
-Your business evolves, and the software supporting it needs someone responsible for its care.
+## The process moves on
+New people, rules and customers change what the software needs to do.
 
 ## Find the right fit for the work.
 Question Existing software Mission Canvas
-What shapes the workflow The product’s features and configuration Your team’s workflow, information and business rules
-How you pay The vendor’s published or negotiated terms Scoped build plus recurring care, agreed by quote
-What changes Updates and options offered by the vendor Improvements agreed around your business needs
-Who it is for Teams whose needs fit the product Businesses that need software shaped around their work
+What shapes the workflow The features and options available in the product The recurring job your team needs to complete
+How you pay The product’s licence and support terms An initial build, followed by ongoing care
+What changes Updates and configuration the product offers Improvements chosen around your workflow
+When it fits Its existing features cover the job well Your team needs the steps and connections to work differently
 
-## How Mission Canvas makes money.
-A scoped setup and build, followed by recurring care. Final figures, responsibilities and outside costs are
-agreed by quote. Read the proposed model on the pricing page.
+## What ongoing care pays for.
+The build gets the workflow working. Ongoing care covers the maintenance, support and agreed improvements
+that keep it useful. See how we price that work on the pricing page.
 
-## Built with clear responsibilities.
+## Care for the whole workflow.
 
-### Fit the environment
-Assess your tools, equipment and access needs, then agree the hosting and connections the workflow requires.
+### Keep connections working
+Maintain the links between your workflow and the tools it uses, including the access those connections need.
 
-### Keep actions clear
-Define what the software can prepare or change, which decisions need review and what records your team needs.
+### Keep results checkable
+Use examples from the job to review a change before your team relies on it.
 
-### Plan for continuity
-Agree maintenance, support, ownership and handover terms so responsibilities stay clear throughout the relationship. Read how we handle your data
+### Keep the knowledge
+Record setup and operating steps so maintenance and handover can follow the work, rather than depend on memory. Read how we handle your data
 
-## The service model.
-Who it serves: owners and operations leads who need software shaped around recurring business
-work. How it works: a scoped custom build, followed by recurring maintenance, support and agreed improvements.
-Custom fit
-Start with a recurring workflow and agree the outcome your team needs.
-Reusable foundation
-Build common capabilities on shared infrastructure and shape the workflow around your business.
-Clear responsibility
-Define who reviews the work, approves changes and handles ongoing care.
-Continued improvement
-Review changing needs together and agree which improvements belong in the next scope.
-Your workflow · Custom software · Ongoing maintenance and improvement
-Proposed offer. Final scope and terms are agreed by quote.
+## Start small. Keep learning.
+Who it serves: teams with a recurring job that takes too much chasing, copying or checking.
+How it works: build a useful first workflow, learn from its use and improve it together.
+A focused start
+Choose one recurring job and the result your team needs from it.
+Reusable building blocks
+Use common capabilities as a foundation, then fit the workflow to your business.
+Someone responsible
+Keep maintenance and support with a team that understands how the work runs.
+A way to improve
+Turn feedback from daily use into the next agreed change.
+A useful first workflow · Someone to maintain it · A way to improve it
+The build and ongoing service are priced for the work involved.
 
-## Do what you do best. We'll handle the software.
-A clear build scope. An agreed plan for ongoing care. Book an audit
+## Let’s make one workflow work better.
+Bring one recurring job. We’ll discuss what to build and how to keep it useful. Let’s talk
 Start with one workflow.
