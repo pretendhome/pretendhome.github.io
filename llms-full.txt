@@ -1,1192 +1,897 @@
 # Mission Canvas
 
-> Software built around how your business works, running on your own computers. We audit the workflow, build the application and hand it over. No per-seat fees.
+> Customized Software as a Service. Mission Canvas builds software around your business workflows, then maintains and improves it as your work changes.
 
-Mission Canvas builds private AI software for small and mid-sized businesses. Each engagement starts with a workflow audit, then the application is built from a working starting point for the industry (a "canvas") and runs on the business's own computers. Licensed per company, with no per-seat fees. Book an audit: https://missioncanvas.ai/audit/
+Mission Canvas offers Customized Software as a Service: software built around a business workflow, with scoped maintenance and agreed improvements. A reusable foundation supports source-linked work, version history and controlled actions. Each engagement defines its workflow, costs, deployment and care responsibilities. Start a workflow conversation: https://pretendhome.github.io/audit/
 
----
-
-Source: https://missioncanvas.ai/
-
-# Software built around your business, on your own computers.
-Companies have two expensive options for AI. We offer a disruptive, affordable third.
-Book an audit
-No contract. Nothing to prepare.
-Who this is for
-
-## Small and mid-sized businesses.
-Owners and operations leads who are tired of typing the same thing into three systems. Pick your industry.
-‹
-- CV-05 In progress Construction & Real Estate Job site, office and fleet in one system.
-- CV-06 In progress Healthcare Patient flow and queues, with sensitive data kept where it belongs.
-- CV-07 In progress Office & Administration Invoices, queries and recurring paperwork, read, checked and filed.
-- CV-08 Everything else If the work runs on documents, records and rules, we can build for it. ›
-Each industry page lists what it handles today. New features are agreed in the audit and built for you, so the
-list is a floor, not a ceiling.
-Real screens, shipped canvases Logistics Today Version 0.1.9 · sample orders Front desk At a glance Current Italian-language build Education Capture an observation Version 0.2.106
-Logistics · Today The morning summary: KPIs with the time they were computed, stale orders, bottlenecks and commitments. Recorded 21 September 2026 on sample orders.
-Front desk · At a glance Calls handled, resolved on their own, transferred to a person, and what still needs review.
-Education · Capture an observation Dictate or type. The fields are suggested, then set by the teacher, and saved on this machine.
-For your business
-
-## Software built around how you already work.
-We audit how the work moves, build from a working start for your industry, and hand it over to run on your computers. Book an audit
-Free for you
-
-## Palette, a free local AI app for your documents.
-Give it one folder. It reads only what you allow, on your computer, and links every line to its source. Get Palette free
-Sound familiar?
-Software shouldn't need a workaround for the workaround.
-Every company has them.
-The spreadsheet that fixes the CRM.
-The manual check that keeps the process from going wrong.
-The person everyone asks because the system doesn't tell them what to do.
-It's easy to call this "just how we work." It isn't. It's what happens when the software stops matching the business.
-You know where the hours go. We build the software around how you actually work, so your team stops making up for it.
-How it works
-
-## From the way you work to software you can run, in four to six weeks.
-01 Audit 02 Redesign 03 Assemble 04 Operate
-
-### Audit
-We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes. What you get
-Process map · Where the hours go How long it all takes
-Four to six weeks from the audit to handover, depending on what the audit finds.
-
-### Redesign
-We cut the steps that only exist to move information from one system to another. What you get
-The new way of working, on paper How long it all takes
-Four to six weeks from the audit to handover, depending on what the audit finds.
-
-### Assemble
-We start from the working application for your industry, change it to fit, and build the parts only you need. What you get
-Your application, set up How long it all takes
-Four to six weeks from the audit to handover, depending on what the audit finds.
-
-### Operate
-The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team. What you get
-Running in your business How long it all takes
-Four to six weeks from the audit to handover, depending on what the audit finds.
-Book an audit No contract. Nothing to prepare.
-
-## Questions.
-What is Mission Canvas?
-Software built around how your business already works, running on your own computers. We audit how the work moves, build the application from a working starting point for your industry, and hand it over to you. Who is it for?
-Small and mid-sized businesses whose work runs on documents, records and rules. That includes construction, education, logistics, front desk and voice, events and venues, with healthcare and office work in progress. How is it different from ChatGPT or other AI chat tools?
-Chat tools answer questions in someone else's cloud. Mission Canvas builds an application around your workflow and runs it on your computers. The AI works inside it, with your rules and records, and an outside model is used only for the work you allow. What happens in the audit?
-We sit with your team and map how the work really moves: the tools, the files, the handoffs. We measure where the time goes. You get a process map and a list of where the hours go. No contract, nothing to prepare. How long does it take?
-Four to six weeks from the audit to handover, depending on what the audit finds.
-Show all 13 questions
-Start with an audit
-
-## Stop working around your software. Build it around your business. Book an audit
-No contract. Nothing to prepare.
-Your company already knows how to work. Your software should too.
 
 ---
 
-Source: https://missioncanvas.ai/about
+Source: https://pretendhome.github.io/
 
-About Mission Canvas
+Customized software as a service
 
-# AI should back up your expertise, not replace it.
-We help businesses see, own and improve the work that matters most, with AI they can answer for.
+# Your business.
+Your software.
+Kept working.
+Software shaped around the way your team actually works. We build it, connect it and care for it as your business changes.
+Find your first workflow How it works
+Start with one job you want to work better.
+Your working day A workflow, made yours
+Less chasing.
+More work moving.
+The right information Selected files, notes and business tools Gathered
+A useful next step Prepared around your process For review
+A record you can follow Sources, changes and what happened In view
+And a team that stays with it. Maintain. Review. Improve.
+Illustrative workflow, showing what a custom implementation could bring together.
+01 Built around your workflow
+02 Connected to the tools you use
+03 Maintained as your needs change
+The work between the apps
 
-## The team.
+## That process everyone works around? Start there.
+The spreadsheet beside the CRM. The email someone copies into a form. The person who always knows what happens next.
+That is where we start. We understand the job, build software around it and take responsibility for its ongoing care.
+Purpose-built for your business, on a common foundation we can maintain and extend.
+What could we build for you?
 
-### Jason Covington
-Fractional CFO, CPO and COO practice.
+## One workflow.
+A better way through.
+Start small enough to see the difference. These examples show the kinds of work we can scope together.
+01 Client onboarding From a new enquiry to a clear, ready-to-review brief. 02 Quotes & proposals Turn approved information into a proposal your team can use. 03 Scheduling & follow-up Keep the next step from getting lost between the inbox and calendar.
+Client onboarding ILLUSTRATIVE
+- 1
+Receive the request
+Bring selected forms, emails and files into one workflow.
+- 2
+Prepare the work
+Assemble a brief and show what information is still missing.
+- 3
+Review and respond
+Let the responsible person check the draft and request the next action.
+↳ A prepared response, with its sources and history.
+The full workflow, connected tools and permissions are agreed for each implementation.
+Quotes & proposals ILLUSTRATIVE
+- 1
+Gather the inputs
+Use the rate sheets, notes and project documents you choose.
+- 2
+Build the proposal
+Apply the agreed structure and keep internal information separate.
+- 3
+Check and send
+Review the version, make changes and record the final communication.
+↳ A proposal built around your rules and reviewed by your team.
+The full workflow, connected tools and permissions are agreed for each implementation.
+Scheduling & follow-up ILLUSTRATIVE
+- 1
+Understand the request
+Bring the incoming message together with permitted calendar information.
+- 2
+Prepare the next step
+Draft a response or a scheduling change for the right person.
+- 3
+Keep the record
+Record what was requested and surface an uncertain result for review.
+↳ A clear next step, with a record of what happened.
+The full workflow, connected tools and permissions are agreed for each implementation.
+A service that follows through
 
-### Mical Neill
-Twelve years in voice and knowledge systems.
+## We build it.
+Then we stay with it.
+A clear first scope. A working implementation. An agreed plan for keeping it useful.
+01 /
 
-### Daniele Mulas
-IT, and making things useful to real people.
+### Understand
+Walk us through the work. We identify the inputs, decisions, people and outcome.
+02 /
 
-### Pierfrancesco Borghero
-Running development teams.
+### Build
+We shape one workflow and check it against examples that matter to your business.
+03 /
 
-## What we believe.
+### Run
+We agree the deployment, access, maintenance and support responsibilities.
+04 /
 
-### Own your workflows. Don’t rent your intelligence.
-What your company knows sits in email, calendars, documents, drives and people’s heads. We connect it on hardware you control.
+### Improve
+We review feedback and make agreed changes as the work evolves.
+From first conversation to ongoing care
+The value is in the care
 
-### You decide what runs where.
-Requests run on your machines. You decide what leaves, which AI models are used, and why.
+## Getting it built is the beginning.
+Your forms change. Your team finds a better process. A connected service updates its API. Your software needs someone to stay responsible. How the service is scoped
+01
 
-### Work should be visible.
-Spreadsheets changed finance. Computer-aided design changed engineering. We want you to see how work flows, and improve it.
+### Keep the useful work moving
+Maintenance, fixes and checks belong in the care plan, with responsibilities agreed before the work starts.
+02
 
-## What we’re working toward.
-These are outcomes we’re working to prove, not results we claim today.
+### Improve from what happens
+Your team’s feedback informs the next agreed change. We check the change against the workflow before release.
+03
 
-### Give people their time back
-Cut repetitive work, so attention goes to people, ideas and decisions.
+### Keep the relationship clear
+You know what is included, what costs extra and who to contact. Bigger changes receive their own scope.
+Built in the language of your business
 
-### Make AI understandable
-Systems you can see into, explain and check. No black boxes.
+## Different teams.
+Their own way of working. Explore the starting points
 
-### Connect what you know
-Turn scattered information into something your team can search and share.
+### Construction
+Project records, proposals and the work between the site and office.
 
-### Keep what people know
-Capture how work is done before it leaves with someone who retires.
+### Office & operations
+Client intake, documents, recurring checks and follow-up.
 
-### AI for everyone
-Let anyone design a workflow, not only developers and data scientists.
+### Healthcare administration
+Administrative intake, scheduling and information that needs careful handling.
+Illustrations show possible settings, not customers or completed deployments. Each engagement has its own scope.
+A foundation you can work with
 
-### Work better together
-Let teams build, share and improve their workflows together.
+## Useful software.
+Clear control.
+Our foundation brings together source-linked work, version history and controlled actions. The implementation is shaped around your needs.
 
-### Earn trust
-Privacy, security and human oversight first. Technology should earn trust, not demand it.
+### See what the work rests on
+Source references and a readable history help your team review information, changes and results.
 
-## Wherever paperwork piles up.
-Healthcare is where this matters most. Patient information can’t go into a public AI tool. With Mission
-Canvas, sensitive work stays on a local model, and every answer records the path it took.
-The same approach works in education, logistics, legal, financial services, government and manufacturing.
+### Decide what it can do
+Agree which information the software may use and what actions require a person’s instruction or review.
 
-## Your company already knows how to work. Your software should too.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+### Keep room to change
+We define data access, export and transition arrangements with you, alongside the ongoing care plan.
+Your information, permissions and choices
+A few good questions
+
+## Before we start.
+More answers
+What does CSaaS mean?
+Customized Software as a Service. We build software around a specific business workflow, then provide ongoing maintenance and agreed improvements. The service continues after the first release. How is this different from a custom development project?
+The ongoing relationship is part of the offer. We agree what to build, how to check it and what care it needs. Maintenance and improvements have a defined scope rather than an open-ended promise. Do we have to replace our existing tools?
+We start with the workflow and the systems you use. Some projects connect existing tools; others replace a small, awkward step. We scope the right boundary together. What will it cost?
+We quote the initial work and the recurring care separately, against an agreed scope. Hosting, outside services and substantial new work are identified in the proposal. There is no published flat price yet.
+Start with the real work
+
+## What’s the job you wish worked better?
+Tell us where the work gets stuck. We’ll explore whether a focused custom workflow is the right next step.
+Let’s find your starting point
+A conversation about your workflow. No files needed to begin.
 
 ---
 
-Source: https://missioncanvas.ai/apps/
+Source: https://pretendhome.github.io/about
 
-Download
+Built around the people doing the work
 
-# Download the apps.
-Desktop apps for Mac, Windows and Linux. They run on your own computer.
+# Useful software needs someone responsible for its life.
+Mission Canvas brings custom software development and ongoing care together around the workflows a business needs to carry out every day.
+01
+
+## Start by understanding the business.
+The starting point is the work itself: who needs an answer, which information matters, and what happens when something goes wrong.
+We use those details to define a focused software project with a recognizable outcome and a practical way to review it.
+02
+
+## Build on a foundation that can be reused.
+Common needs such as access, source references, document history, and connected services can share infrastructure while the workflow receives custom attention.
+That approach gives the team a consistent starting point and leaves room for the details that make your business work differently.
+03
+
+## Make responsibility visible.
+An engagement names the people responsible for business decisions, delivery, acceptance, and ongoing care, with a clear route for raising problems.
+Your agreement should make it easy to understand what is included, who can approve changes, and how responsibilities end or transfer.
+Your next step
+
+## Tell us about the work.
+Bring one workflow your team wants to improve, along with the people, tools, and decisions that make it matter.
+Let’s talk about your work
+
+---
+
+Source: https://pretendhome.github.io/apps/
+
+The desktop applications
+
+# A download is a starting point.
+Explore the existing applications on your own computer. A CSaaS engagement adds a workflow-specific build and an agreed care relationship.
 
 ## Palette
-Free. Try it on your own files.
+The desktop application, separate from a custom managed service.
 Mac Windows Linux
+Learn about this starting point →
 
 ## Education
-Education workspace
+An education desktop workspace. Confirm suitability for your intended use.
 Mac Windows Linux
+Learn about this starting point →
 
 ## Logistics
-Operations control tower
-Mac Windows Linux Sample data
-
-## After it downloads.
-- Mac Open the.dmg and drag the app into Applications. Palette is signed and notarized.
-If macOS still says the app can't be verified, right-click it and choose Open.
-- Windows Run the -Setup.exe installer. It is not yet code-signed, so SmartScreen shows
-"Windows protected your PC": click More info, then Run anyway.
-- Linux Palette is a.deb: open it with your software installer, or run
-sudo apt install ~/Downloads/MissionCanvas.deb. The other apps are.AppImage files,
-which download without permission to run, so double-clicking does nothing. In a terminal, chmod +x
-the file, then run it. On Ubuntu 22.04 or newer, first sudo apt install libfuse2. On Ubuntu 24.04 an
-AppImage may quit at once with a "SUID sandbox" error; start it with --no-sandbox.
-For developers
-
-## Install the command line.
-A terminal build for asking questions against a repository or a folder. It ships on its own release train and is
-not the same build as the apps above. Developer docs
-macOS / Linux curl -fsSL https://missioncanvas.ai/install-cli.sh | sh
-Windows irm https://missioncanvas.ai/install-cli.ps1 | iex
-
----
-
-Source: https://missioncanvas.ai/audit/
-
-No contract · Nothing to prepare
-
-# Book an AI workflow audit for your business.
-One call about how your work really runs. You don't need to prepare anything or send any files. Bring the
-job you'd most like off your plate.
-- A map of how the work runs. Where the job moves between people, paper and systems.
-- Where the hours go. The steps that eat the most time, and which ones software can take off your plate.
-- A clear next step. What we would build first, and a quote for it if you want one.
-Step 1 of 2
-
-## Tell us where to start.
-Your name Work email
-Company Industry Choose one Construction & Real Estate Education Logistics Voice & Front Desk Events & Venues Healthcare Office & Administration Something else What eats the most time in your week? Continue
-Your email is written and ready to send. Pick a time
-This opens an email in your own mail program, already written, for you to send. Nothing is stored on this
-site. How we handle your data.
-
----
-
-Source: https://missioncanvas.ai/canvases/
-
-Canvases
-
-# Pick your industry.
-Each one starts from a working application for that industry: its documents, its words and its rules, already
-built. We change it to fit you.
-- CV-05 In progress
-
-## Construction & Real Estate
-Run the job, not the paperwork. Job sites · Delivery tickets · Fleet and fuel
-- CV-01
-
-## Education
-A living picture of every student, on your own machines. Student lenses · Observations · Parent summaries
-- CV-02
-
-## Logistics
-Know which order is late before the customer calls. Order tracking · Overnight risk check · Questions from the record
-- CV-03
-
-## Voice & Front Desk
-Every call answered. Every booking on the calendar. AI phone agents · WhatsApp · Booking
-- CV-04
-
-## Events & Venues
-One system from the ticket sale to the gate. Ticketing · Access control · POS · Visitor CRM
-- CV-06 In progress
-
-## Healthcare
-Patient flow without the paperwork. Patient flow · Scheduling · Clinical operations
-- CV-07 In progress
-
-## Office & Administration
-Invoices read, checked and filed. Invoices · Queries · Recurring work
-- CV-08
-
-## Your field
-If the work runs on documents, records and rules, we can build for it. Scoped in the audit · Built for you
-
-## Do what you do best. We'll handle the software.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
-
----
-
-Source: https://missioncanvas.ai/canvases/construction
-
-Construction and Real Estate
-
-# Construction job costing and fleet software Run the job, not the paperwork.
-Job site, office and fleet in one system, with AI doing the back-office work. Built around how your crew already
-works, running on your own computers.
-Book an audit No contract. Nothing to prepare. Meet Livella
-
-## What it handles today.
-These parts work now. Anything else your business needs is agreed in the audit and built for you. This list is
-the floor, not the ceiling.
-- 01
-
-### Every job site in one record
-Status, crews, documents and progress in one place. Each job’s costs run from estimate to actuals and stay current.
-- 02
-
-### Delivery tickets read by AI
-Inbound and outbound delivery tickets are digitised, read automatically and tied to the right job.
-- 03
-
-### Safety and quality without paper
-Protective equipment is assigned and declarations stay compliant. Concrete pours and material quality are logged to code.
-- 04
-
-### Fleet and fuel
-Equipment records, due dates and job-site assignments. Fuel tracked by machine and by job. Scheduled maintenance and driver contracts linked.
-- 05
-
-### Crew and hiring
-Employee records and roles without spreadsheets. AI screens résumés from application to shortlist.
-- 06
-
-### Office paperwork
-Mileage reimbursements calculated and printed to PDF. Payments to vendors and employees ordered, tracked and approved. Invoices read automatically.
-- 07
-
-### An assistant that knows the business
-Answers questions from the firm’s own data. Field notes can be dictated and transcribed automatically.
-Meet Livella
-
-## Livella
-Job site, office and fleet in one system, with AI doing the back-office work.
-Livella is the construction app we start from: a web app for the office and a field app for the site, with
-unlimited field users.
-Book an audit No contract. Nothing to prepare.
-Runs every day at an Italian construction firm that pays for it and whose own work it was built around.
-
-## Four to six weeks, start to handover.
-What working with us looks like, so you know how much disruption to expect.
-
-### Audit
-We walk through how a job moves from the site to the office: notes, delivery tickets, fuel, costs.
-
-### Redesign
-We cut the steps where someone retypes the same thing into another system.
-
-### Assemble
-We set up Livella around your jobs, your cost codes and your forms.
-
-### Operate
-Your crew uses it on live jobs. We adjust it with you as it runs.
-
-## Your job files stay on your computer.
-- Files are read and organized on a computer you already own. No data migration. No new cloud account.
-- If you use an outside AI model, only what that task needs is sent, and it's logged.
-- You can run local models instead, and send nothing out. How we handle your data
-
-## Show us the job that eats your week.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
-
----
-
-Source: https://missioncanvas.ai/canvases/education
-
-Canvases CV-01 Education
-
-# Private AI for schools A living picture of every student, on your own machines.
-Say or type what you noticed in under a minute. The right student’s lens updates: strategies that work, accommodations, CEFR milestones. Student data never leaves the school.
-Book an audit No contract. Nothing to prepare.
-
-## What it handles today.
-These parts work now. Anything else your business needs is agreed in the audit and built for you. This list is the floor, not the ceiling.
-- 01
-
-### Student and classroom lenses
-A learning profile for each student and each class that keeps growing across grades and teachers.
-- 02
-
-### Progress notes and IEPs
-Bring in a note that covers several students. Each student gets only their own part, with a confidence badge.
-- 03
-
-### Summaries for parents
-Drafted only from confirmed lens entries. Nothing goes home until every sentence traces back to one.
-- 04
-
-### Exercises from your coursework
-Activities adapted from the school’s own coursework and textbooks, in three tiers.
-
-## See it on a real day.
-A recording of the shipped build, unedited.
-Education · recording ↑ Recorded 21 September 2026 on version 0.2.106, unedited: roster import, a report card into the lenses, an observation, a summary and a three-tier activity. The class is a sample.
-Tested against live data · Runs on your own computers · Handed over in four to six weeks
-Everything it already does: 8 modules, 42 features
-- M-01 Students A lens per student, built from what the school already writes down.
-- M-02 Observe A short note, attached to the right child, in under a minute.
-- M-03 Assess Language work reviewed, not graded by a machine.
-- M-04 Prepare and Plan Lessons from the coursework the teacher already has.
-- M-05 Summaries What goes home is checked before it goes.
-- M-06 Ask Questions answered on the machine, and it says so.
-- M-07 Governance and privacy The verdict is computed from the log, not asserted.
-- M-08 Coordinator views The school, seen across classrooms.
-
-## Your files stay on your computer.
-- Files are read and organised on a computer you already own. No data migration. No new cloud account.
-- If you use an outside AI model, only what that task needs is sent, and it is logged.
-- You can run local models instead, and send nothing out. How we handle your data Other industries
-- CV-05 Construction & Real Estate
-- CV-02 Logistics
-- CV-03 Voice & Front Desk
-- CV-04 Events & Venues
-- CV-06 Healthcare
-- CV-07 Office & Administration
-
-## Show us the job that eats your week.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
-
----
-
-Source: https://missioncanvas.ai/canvases/events-venues
-
-Canvases CV-04 Events & Venues
-
-# Ticketing and access control software for venues One system from the ticket sale to the gate.
-Ticketing, check-in, the box office and your visitor list, for events and permanent venues.
-Book an audit No contract. Nothing to prepare.
-
-## What it handles today.
-These parts work now. Anything else your business needs is agreed in the audit and built for you. This list is the floor, not the ceiling.
-- 01
-
-### Tickets
-Issued once, by type, and checked at every gate.
-- 02
-
-### The gate
-A clear yes or no at every scan, with the reason.
-- 03
-
-### The box office
-Online and walk-up sales in one catalogue, and a cash drawer that adds up.
-
-## See it on a real day.
-Interface schematics with illustrative data. Product screenshots will replace them.
-Events & Venues · End-to-end pipeline
-- 01 Configure
-- Tenant
-- Event or venue
-- Checkout
-- Offers
-- Forms
-- Ticket types
-- 02 Sell
-- Storefront · Back office · POS
-- Server-side quote
-- Order · pending
-- Payment
-- Order · processed
-- 03 Fulfil
-- Tickets + QR
-- Email + PDF
-- Contacts · attendees
-- Notifications
-- Statistics
-- 04 Access
-- Checkpoint scan
-- Rule validation
-- Approved / denied + reason
-- Live occupancy
-- 05 Report
-- Gross · tax · fee · net
-- Reconciliation
-- CSV export
-- Audit log Interface schematic · illustrative data ↑ Configuration, sale, fulfilment, access and reporting share one data model. Every state change is an event.
-Tested against live data · Runs on your own computers · Handed over in four to six weeks
-Everything it already does: 15 modules, 80 features
-- M-01 Platform and governance Multi-tenant foundations, licensing and access control.
-- M-02 Events The event as a first-class object, from draft to archive.
-- M-03 Venues and locations Sell on a place, not only on a date.
-- M-04 Catalogue Products, add-ons, stock and tax.
-- M-05 Checkout A configurable point of sale, online or in store.
-- M-06 Form engine Structured data collection, versioned and reusable.
-- M-07 Orders Three channels, one authoritative quote.
-- M-08 Payments Stripe as the source of truth, fees included.
-- M-09 Ticketing Typed tickets, issued once.
-- M-10 Check-in A complete decision at every gate.
-- M-11 POS The box office, with a cash drawer that adds up.
-- M-12 Contacts and CRM A CRM fed by the sale itself.
-- M-13 Profiling Know your visitors without writing code.
-- M-14 Notifications and automations An event bus you can build on.
-- M-15 Tenant administration Everything an operator needs to run their own house.
-
-## Your files stay on your computer.
-- Files are read and organised on a computer you already own. No data migration. No new cloud account.
-- If you use an outside AI model, only what that task needs is sent, and it is logged.
-- You can run local models instead, and send nothing out. How we handle your data Other industries
-- CV-05 Construction & Real Estate
-- CV-01 Education
-- CV-02 Logistics
-- CV-03 Voice & Front Desk
-- CV-06 Healthcare
-- CV-07 Office & Administration
-
-## Show us the job that eats your week.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
-
----
-
-Source: https://missioncanvas.ai/canvases/healthcare
-
-Canvases CV-06 Healthcare In progress
-
-# Patient check-in and scheduling software Patient flow without the paperwork.
-Check-in, scheduling and queues, with patient data kept on your own computers.
-Book an audit No contract. Nothing to prepare.
-
-## What it is being built around.
-This canvas is in progress, so these are what it is being built around, not finished features. There are no screenshots yet.
-- 01
-
-### Patient flow
-Who is here, who is next, and where each patient is.
-- 02
-
-### Scheduling
-Appointments, changes and cancellations in one book.
-- 03
-
-### Clinical operations
-The admin around care, with sensitive data kept where it belongs.
-Runs on your own computers · Handed over in four to six weeks
-
-## Your files stay on your computer.
-- Files are read and organised on a computer you already own. No data migration. No new cloud account.
-- If you use an outside AI model, only what that task needs is sent, and it is logged.
-- You can run local models instead, and send nothing out. How we handle your data Other industries
-- CV-05 Construction & Real Estate
-- CV-01 Education
-- CV-02 Logistics
-- CV-03 Voice & Front Desk
-- CV-04 Events & Venues
-- CV-07 Office & Administration
-
-## Show us the job that eats your week.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
-
----
-
-Source: https://missioncanvas.ai/canvases/logistics
-
-Canvases CV-02 Logistics
-
-# Order tracking software for small logistics companies Know which order is late before the customer calls.
-Orders, stages and customer updates in one place, checked overnight on your own computers.
-Book an audit No contract. Nothing to prepare.
-
-## What it handles today.
-These parts work now. Anything else your business needs is agreed in the audit and built for you. This list is the floor, not the ceiling.
-- 01
-
-### The order file
-One record per order, from quote to closed, across 14 stages. Your spreadsheet is the import.
-- 02
-
-### The morning list
-Worked out overnight: what stalled, what is at risk, and where the bottleneck is.
-- 03
-
-### Customer updates
-Drafted from the record. A person approves each one before it goes.
-
-## See it on a real day.
-A recording of the shipped build, unedited.
-Logistics · recording ↑ Recorded 21 September 2026 on version 0.1.9, unedited: the morning screen, orders, the dashboard, and questions asked in English and Spanish. The orders are a sample file.
-Tested against live data · Runs on your own computers · Handed over in four to six weeks
-Everything it already does: 8 modules, 35 features
-- M-01 Today The control tower, computed overnight.
-- M-02 Orders One record per order, from quote to closed.
-- M-03 Customers Local-only, by rule.
-- M-04 Dashboard A weekly scorecard the operator can reshape.
-- M-05 Imports Preview writes nothing.
-- M-06 Ask Classified before answered.
-- M-07 Governance and settings Who answered, and from where.
-- M-08 Deliverables Drafted from the record, approved by a person.
-
-## Your files stay on your computer.
-- Files are read and organised on a computer you already own. No data migration. No new cloud account.
-- If you use an outside AI model, only what that task needs is sent, and it is logged.
-- You can run local models instead, and send nothing out. How we handle your data Other industries
-- CV-05 Construction & Real Estate
-- CV-01 Education
-- CV-03 Voice & Front Desk
-- CV-04 Events & Venues
-- CV-06 Healthcare
-- CV-07 Office & Administration
-
-## Show us the job that eats your week.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
-
----
-
-Source: https://missioncanvas.ai/canvases/office
-
-Canvases CV-07 Office & Administration In progress
-
-# Invoice processing automation for small businesses Invoices read, checked and filed.
-The repetitive back-office work, done on your own computers.
-Book an audit No contract. Nothing to prepare.
-
-## What it is being built around.
-This canvas is in progress, so these are what it is being built around, not finished features. There are no screenshots yet.
-- 01
-
-### Invoices
-Extracted from what arrives, checked, and filed in the right place.
-- 02
-
-### Queries
-Questions about an invoice or a payment answered from the record.
-- 03
-
-### Recurring work
-The monthly and weekly jobs that follow the same steps every time.
-Runs on your own computers · Handed over in four to six weeks
-
-## Your files stay on your computer.
-- Files are read and organised on a computer you already own. No data migration. No new cloud account.
-- If you use an outside AI model, only what that task needs is sent, and it is logged.
-- You can run local models instead, and send nothing out. How we handle your data Other industries
-- CV-05 Construction & Real Estate
-- CV-01 Education
-- CV-02 Logistics
-- CV-03 Voice & Front Desk
-- CV-04 Events & Venues
-- CV-06 Healthcare
-
-## Show us the job that eats your week.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
-
----
-
-Source: https://missioncanvas.ai/canvases/voice-front-desk
-
-Canvases CV-03 Voice & Front Desk
-
-# AI receptionist for small businesses Every call answered. Every booking on the calendar.
-An agent answers the phone, WhatsApp and email, books and reschedules, and hands over to a person.
-Book an audit No contract. Nothing to prepare.
-
-## What it handles today.
-These parts work now. Anything else your business needs is agreed in the audit and built for you. This list is the floor, not the ceiling.
-- 01
-
-### The appointment book
-Books, reschedules and cancels on your real calendar, and confirms what it did.
-- 02
-
-### Calls a person should take
-A person is always one transfer away, with the conversation so far.
-- 03
-
-### The call record
-Summary, audio and transcript kept for every conversation.
-
-## See it on a real day.
-Screens from the current Italian-language build.
-Voice & Front Desk · The front desk at a glance ↑ Calls handled, resolved autonomously, transferred to a person, and what still needs review.
-Tested against live data · Runs on your own computers · Handed over in four to six weeks
-Everything it already does: 9 modules, 38 features
-- M-01 Channels One agent, reachable the way people already reach you.
-- M-02 Agent behaviour Control without prompt engineering.
-- M-03 Human handover A person is always one transfer away.
-- M-04 Booking tools Real actions on a real calendar.
-- M-05 Knowledge What the business is, written once.
-- M-06 Conversations Nothing the agent says is lost.
-- M-07 Caller context The agent knows who is calling before it speaks.
-- M-08 Platform and security Built to be operated for many customers.
-- M-09 Metering and observability Know what runs, what fails and what it costs.
-
-## Your files stay on your computer.
-- Files are read and organised on a computer you already own. No data migration. No new cloud account.
-- If you use an outside AI model, only what that task needs is sent, and it is logged.
-- You can run local models instead, and send nothing out. How we handle your data Other industries
-- CV-05 Construction & Real Estate
-- CV-01 Education
-- CV-02 Logistics
-- CV-04 Events & Venues
-- CV-06 Healthcare
-- CV-07 Office & Administration
-
-## Show us the job that eats your week.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
-
----
-
-Source: https://missioncanvas.ai/docs
-
-Developer docs
-
-# Docs
-The command line is a developer tool under construction, and written documentation for it is not published yet.
-The installer names three commands to start with.
-- mc setup configure models
-- mc run "query" ask something
-- mc health system status
-- Install the command line The two install commands, for macOS, Linux and Windows.
-- Desktop apps Downloads, and what to do after each one downloads.
-- How it works A walkthrough in four steps.
-
----
-
-Source: https://missioncanvas.ai/faq
-
-Questions
-
-# Asked before every audit.
-If yours is not here, ask it in the audit, or write to us from the audit page.
-
-## The basics
-What is Mission Canvas?
-Software built around how your business already works, running on your own computers. We audit how the work moves, build the application from a working starting point for your industry, and hand it over to you. Who is it for?
-Small and mid-sized businesses whose work runs on documents, records and rules. That includes construction, education, logistics, front desk and voice, events and venues, with healthcare and office work in progress. How is it different from ChatGPT or other AI chat tools?
-Chat tools answer questions in someone else's cloud. Mission Canvas builds an application around your workflow and runs it on your computers. The AI works inside it, with your rules and records, and an outside model is used only for the work you allow. What happens in the audit?
-We sit with your team and map how the work really moves: the tools, the files, the handoffs. We measure where the time goes. You get a process map and a list of where the hours go. No contract, nothing to prepare. How long does it take?
-Four to six weeks from the audit to handover, depending on what the audit finds. What is a canvas?
-A working application for one industry: its workflows, its words and its rules, already built. We start from yours and change it to fit, so you do not pay for what already exists.
-
-## Cost and ownership
-What does it cost?
-One license per company, plus services quoted before you commit. Never per seat, no per-token charges, and no subscription for the application we hand over. Who owns what you build?
-You do. The application is handed over to run on your hardware. What if we stop working together?
-The application keeps running on your machines.
-
-## Your data and your systems
-Does our data leave our computers?
-Your files are read on a computer you already own. Sensitive work stays on local models. Anything sent to an outside model is screened for personal information first, and every decision is logged. You decide what, if anything, goes out. Do we need new hardware?
-No. A workstation or a server you already own is enough. No data migration, no new cloud account. Can we keep the tools we use today?
-Yes. It starts from the files, exports and records you already have. The logistics canvas, for example, imports CSV, Excel, Monday.com and HubSpot. What is Palette?
-Our free desktop app for Mac, Windows and Linux. It runs local AI on your own files, one folder at a time, and every claim in what it writes links back to its source.
-
-## Do what you do best. We'll handle the software.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
-
----
-
-Source: https://missioncanvas.ai/how-it-works
-
-How it works
-
-# From scattered files to one picture of your business.
-Four steps turn what your company already has into something AI can work with. All of it on your own computers.
-Book an audit No contract. Nothing to prepare.
-
-## The four steps
-01 Read 02 Sort 03 Connect 04 Work
-
-### Start with what you have.
-Files, exports and records, read on your own machines. Nothing to move, nothing to retype. What you get
-A private index of what your company knows
-
-### Work out what each file is about.
-It finds the people, customers, orders, documents, processes and equipment behind the files. What you get
-The things your business is made of
-
-### See how it all fits together.
-It links those things into one picture of how your company works, so the AI gets the connections, not just loose text. What you get
-One connected map of your company
-
-### Put that knowledge to work.
-AI workers, called agents, use the map inside your walls. If an outside model is needed, only what the task needs is sent. What you get
-Context for agents and for your industry’s application
-Working with us
-
-## Four to six weeks, start to handover.
-We start from a canvas: a working application for your industry, with its workflows, words and
-rules already built. Then we change it to fit you.
-
-### Audit
-We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes.
-You get Process map · Where the hours go
-
-### Redesign
-We cut the steps that only exist to move information from one system to another.
-You get The new way of working, on paper
-
-### Assemble
-We start from the working application for your industry, change it to fit, and build the parts only you need.
-You get Your application, set up
-
-### Operate
-The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team.
-You get Running in your business
-Then the AI goes to work
-
-## Ask it about your work. It answers from your records.
-One real exchange in the shipped Logistics canvas, on sample orders. The AI works inside the application, with your
-rules and your data, and shows where every answer came from.
-01 Ask in plain words "Where is REF-7100?" The answer gives the stage, owner, carrier and tracking number, with the records it came from listed underneath. 02 It keeps the thread "Tell me about them," then "show their late orders." Customer data is marked local-only on every answer. 03 It says no when it should A question it cannot classify gets "unknown", stays on the machine, and is blocked from going to an outside model.
-Logistics · Ask
-Logistics · Ask
-Logistics · Ask
-Version 0.1.9, recorded 21 September 2026 on sample orders.
-Works with what you already have
-- CSV files
-- Excel (XLSX)
-- Monday.com
-- HubSpot
-- Files and exports you already keep
-Imports shown are the Logistics canvas today. Others are agreed in the audit.
-
-## Your company already has the knowledge. Let's put it to work.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
-
----
-
-Source: https://missioncanvas.ai/palette
-
-Mission Canvas Palette
-
-# The free local AI app for your documents: Palette
-It asks first. Then it shows its work.
-A free app for your computer. Give it one folder. It lists what is there without opening a file, reads only what
-you allow, and builds a document from the facts you accept. Every line leads back to the sentence it came from.
+An operations workspace. Begin with sample data and review the workflow.
 Mac Windows Linux
-Palette runs on a computer.
-Send yourself this page
-and open it there.
-Free. No account. Version 0.4.1, released 15 October 2026. Mac is signed and notarised. Windows is not yet
-signed, so SmartScreen will warn you once: what to click, and how to check the file.
-The design we are building toward. The app as it ships today is below, screen by screen.
-See it work · 105 seconds, unedited
+Learn about this starting point →
 
-## Ask, change, read it back.
-One take on the sample notes: a spoken request finds nineteen facts and the document appears; a spoken change and
-a clicked one each become a new version; then it reads the document aloud in a voice that runs on the machine.
-Recorded 21 September 2026 on a build of 0.3.8 with the two changes that shipped in 0.3.9: the note bar sits at
-the bottom, and spoken requests apply without a confirm card.
-Download the recording, 5 MB
-The rules it keeps · each one can be checked in the app
-Most AI apps tell you what they will do for you. This one is easier to describe by what it will not do without you.
-- 01
-
-### It never goes looking.
-It works on the folders you hand it, one at a time. It does not search the rest of the computer on its own.
-- 02
-
-### It reads nothing until you say so.
-Listing a folder opens no file. Reading starts when you press Grant, and every file it read is listed afterwards.
-- 03
-
-### Nothing in the document is made up.
-Today the document is the facts you accepted, in a fixed layout. If a fact is not in your notes, it is not in the document. Written summaries come next, held to the same rule: every sentence leads back to a source.
-- 04
-
-### Nothing it keeps is hidden.
-On Home, what you asked for is kept and listed on screen in the same turn, and every version of the document is kept. In a matter, your words wait on a card until you keep them.
-- 05
-
-### It does not need a model to work.
-The sample runs with no AI model installed and no key. The app says so on screen.
-- 06
-
-### It keeps a list of what it connects to.
-The app keeps a list of the connections it has made. On a fresh install, after the whole sample, that list reads “none yet”.
-The first five minutes · screens from version 0.3.7, not drawings
-
-## What you will see, in the order you will see it.
-These are the app's own screens, taken from version 0.3.7 running the sample notes. Since then the note bar has
-moved to the bottom, and requests on Home no longer wait on a card. The steps are the same, and they run on your
-own folder.
-- 01 It opens empty, with one button Nothing to set up and no account. “Try it with sample notes” places four invented notes in the app’s own folder, so you can see the whole thing work before it touches anything of yours.
-- 02 It shows you a folder before it reads it Names and counts only. No file is opened to make this list. It says what it would read, what it would skip and why, and waits for you to grant the folder.
-- 03 You say what you want. It asks before keeping anything Type it or hold the mic. It finds the facts in the notes you granted and holds them on a card. On Home in 0.3.9 it keeps them in the same turn and lists what it kept.
-- 04 The document is the facts you accepted Today it is a template, filled in, so there is no sentence in it that nobody wrote. The panel on the right says which model wrote the draft: none.
-- 05 Every line leads back to its sentence Each claim sits beside the words it came from and the file they are in. Nineteen claims, nineteen sources.
-- 06 Click a value to change it Or say the change out loud. It shows the change on a card, you confirm, and the document becomes version 2. Version 1 is kept.
-It opens empty, with one button Nothing to set up and no account. “Try it with sample notes” places four invented notes in the app’s own folder, so you can see the whole thing work before it touches anything of yours. It shows you a folder before it reads it Names and counts only. No file is opened to make this list. It says what it would read, what it would skip and why, and waits for you to grant the folder. You say what you want. It asks before keeping anything Type it or hold the mic. It finds the facts in the notes you granted and holds them on a card. On Home in 0.3.9 it keeps them in the same turn and lists what it kept. The document is the facts you accepted Today it is a template, filled in, so there is no sentence in it that nobody wrote. The panel on the right says which model wrote the draft: none. Every line leads back to its sentence Each claim sits beside the words it came from and the file they are in. Nineteen claims, nineteen sources. Click a value to change it Or say the change out loud. It shows the change on a card, you confirm, and the document becomes version 2. Version 1 is kept.
-What it is for, and what it is not
-
-## Good for
-- A review, brief or summary sheet assembled from scattered notes
-- Finding out where a number in a document came from
-- Seeing what is in a folder before anything is allowed to read it
-- Work where a wrong sentence is expensive
-
-## Not for
-- Searching the web
-- Your inbox or your calendar
-- Booking, buying or doing errands
-- Free writing: emails, essays, posts
-Today It reads plain text:.txt,.md,.csv,.json
-and.ics. PDFs and Office files are listed and skipped, and it tells you so. It is an early build, and it
-is honest about where it stops.
-Install · version 0.4.1 · 15 October 2026
-- Mac
-Open MissionCanvas.dmg and drag the app into Applications. It is signed and notarised. If macOS still says it cannot be verified, right-click the app and choose Open. Download for Mac, 683 MB
-- Windows
-Run MissionCanvas-Setup.exe. The installer is not yet code-signed, so SmartScreen shows “Windows protected your PC”. Click More info, then Run anyway. If you would rather check the file first, its SHA-256 is below. Download for Windows, 637 MB
-- Linux
-Open MissionCanvas.deb with your software installer, or run sudo apt install ~/Downloads/MissionCanvas.deb. Download for Linux, 701 MB
-The files are still named MissionCanvas. They are Palette. SHA-256: check the file you downloaded
-MissionCanvas.dmg
-c40da39e084ee9e389fcc463ede4b50fd0017c21a3c96bf9b5a537f255737559
-MissionCanvas-Setup.exe
-e10eca901181b2165f20c6f348206115edecafa41fd0748166d837683270e7b7
-MissionCanvas.deb
-1b60efe155406e6a0b1d74dd3f03d332eae923d555db25b09d99fc2246024417
-Mac and Linux: shasum -a 256 <file>. Windows: certutil -hashfile <file> SHA256. These
-are the digests GitHub publishes for release desktop-v0.4.1; this page reads them when it is built.
-Price
-
-## Free. No account, no card, no trial clock.
-Who makes it
-
-## Palette is the app. Mission Canvas is the company.
-Mission Canvas builds a business its own application, shaped to the way it works, and hands it over to keep. That
-is a different thing from Palette, and it starts with a conversation.
-Book an audit
-
-## Try it on the sample notes. Then on one folder of your own. Download Palette
+## Choose the right route.
+Use a download to explore the application. Use a workflow conversation to discuss an implementation, its controls and the ongoing care it needs.
+A downloaded application does not include a custom build or an ongoing support agreement. Review the requirements before using business information.
+Discuss your workflow ↗
 
 ---
 
-Source: https://missioncanvas.ai/press
+Source: https://pretendhome.github.io/audit/
 
-Press and media
+Let’s find your starting point
 
-# Writing about Mission Canvas?
-Here are the facts, the logo and the person to talk to.
-Contact the team
-
-## About Mission Canvas
-Mission Canvas builds software around how small and mid-sized businesses already work, and runs it on their own
-computers. Each business starts with an audit. Its first canvas is for construction and real estate, with
-Livella for daily reports, documents and job costs. Customers license the software once per company, with no
-per-seat fees.
-Website
-missioncanvas.ai
-
-## Logo
-Use the logo on a light background, with clear space around it. Download the logo (PNG)
-
-## Press releases
-Our first release is on its way. Ask the team for the latest news in the meantime.
+# Bring the work.
+We’ll talk software.
+Tell us about one job that takes too much chasing, copying or checking. We’ll explore what a useful first workflow could look like.
+- Start with the outcome your team needs.
+- Understand what connects, what changes and what stays with a person.
+- Discuss a clear build scope and an ongoing care plan.
+Prefer to email directly?
+jason.covington@missioncanvas.ai
+Your name
+Work email
+Company
+What’s the job you want to work better?
+Which tools are involved? (optional) Prepare my email
+This opens a draft in your email app. Nothing is submitted or stored by this website. Review the message and send it when you’re ready. Please leave out confidential or personal business records.
+Open the email draft again ↗
 
 ---
 
-Source: https://missioncanvas.ai/pricing
+Source: https://pretendhome.github.io/canvases/
 
-Pricing
+A starting point for the conversation
 
-# One license per company. Never per seat.
-You pay for the software once it fits your business, and for the work to fit it, quoted before you commit.
-Book an audit No contract. Nothing to prepare.
-- 1
+# Different businesses need different details.
+Explore illustrative workflows by industry, then use them to describe the information, people, and decisions your own software needs to support.
+01
 
-## The audit
-Free
-We map how the work runs and where the hours go. You get a process map and a quote for the build.
-- 2
+## Start from a familiar situation.
+A construction handover, school administration request, delivery exception, and venue booking each involve different responsibilities, information, and points for human judgment.
+The examples here help frame a useful conversation; a project's capabilities and delivery scope must be agreed for the actual business.
 
-## One license per company
-Quoted after the audit
-For your whole company. Add people without adding fees. Never per seat.
-- 3
+### Operational coordination
+Construction, logistics, and office workflows can begin with repeated handoffs, incomplete records, and the work needed to keep people informed.
 
-## Services, quoted
-Quoted before you commit
-Fitting the application to you, new modules and support, quoted as work, not as another subscription.
-- No per-seat fees
-- No per-token charges from Mission Canvas
-- No subscription for the application we hand over
-- No new cloud account or data migration
+### People and requests
+Education, front desk, and venue workflows can begin with incoming questions, required information, and decisions that need a responsible owner.
 
-## You have two expensive options for AI. Here's a third.
+### Sensitive administration
+Healthcare administration requires careful scoping of information, access, professional responsibilities, and applicable review before deciding whether a workflow is suitable.
+02
 
-### Build it yourself
-Hire AI engineers and a governance team. Then spend months turning experiments into something your people can use.
+## Reuse the foundation, define the business rules.
+Common capabilities can share infrastructure, while your people, documents, permissions, decisions, and operating exceptions shape the custom software built around it.
+Each engagement should name the first useful outcome and the evidence your team needs before putting that workflow into everyday use.
+03
 
-### Rent it
-More subscriptions, per seat and per use. Your sensitive work still follows someone else's rules about where it goes.
+## Plan for changing requirements.
+An ongoing care agreement gives maintenance, support, and agreed improvements a defined place as your business processes and connected systems change.
+These industry pages describe possible scopes for discussion, not finished applications, existing client deployments, or guarantees about a particular business result.
+Explore a starting point
+Construction workflows Education workflows Logistics workflows Front desk workflows Events and venue workflows Healthcare administration workflows Office workflows
+Your next step
 
-### Own it
-We build it around how you work, run it on your hardware, and hand it over. A scope and a price, agreed up front.
-Your hardware. Your application. Your call on when an outside AI model is used. If you choose one, its provider
-bills you directly. Actual savings depend on the tools, staff time and outside AI services you choose to
-replace.
-
-## Questions about cost.
-What does it cost?
-One license per company, plus services quoted before you commit. Never per seat, no per-token charges, and no subscription for the application we hand over. Who owns what you build?
-You do. The application is handed over to run on your hardware. What if we stop working together?
-The application keeps running on your machines.
-
-## Get a price for your business.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+## Bring the details that make your work different.
+Choose a familiar example and tell us which people, systems, rules, and exceptions the workflow needs to handle for your business.
+Let’s talk about your work
 
 ---
 
-Source: https://missioncanvas.ai/privacy
+Source: https://pretendhome.github.io/canvases/construction
 
-Last updated October 14, 2026 · Draft
+Illustrative workflow · Construction
 
-# Your data, in plain words.
-Keeping your information on your own computers is the whole idea behind Mission Canvas. Here is exactly what
-this website and our software do with it.
+# Keep project handoffs connected to the right information.
+A custom construction workflow could connect selected project records, open questions, and handover tasks, with ongoing care defined for the solution. Illustrative setting. Workflow details and implementation are scoped with each business.
+01
 
-## What this website collects
-- Nothing stored on the site. The audit forms open an email in your own mail program. We only
-receive what you choose to send.
-- No cookies and no tracking. This site sets no cookies and runs no analytics today. If we add
-visitor counts, they will be cookie-free, hosted by us, and listed on this page first.
-- Booking a time. When you pick an audit time, the booking tool
-keeps your name, email and the time you chose so it can send the invite.
+## A possible scope: preparing a project handover.
+A workspace could bring approved project documents, outstanding items, and responsible owners together so the team can prepare a consistent handover package.
+The scope would define document sources, required information, revision rules, and who can decide that an item is ready to close.
 
-## Why we collect it
-Only to set up and run your audit, and to follow up about it. We don't sell it, rent it or use it for
-advertising.
+### Project records
+Identify the drawings, forms, correspondence, and other approved sources needed for the handover, with clear treatment of missing or superseded material.
 
-## Your email stays with your email provider
-Mission Canvas does not bring your company's email into an inbox of ours. When your application automates
-email work, it is set up inside the provider you already use: Google Workspace, Microsoft 365, or any IMAP and
-SMTP service. Your correspondence stays inside your own security boundaries.
+### Open items
+Give outstanding questions an owner and status, with the supporting information needed for the responsible person to decide the next step.
 
-## How our software handles your business files
-- Your files are read and organized on your own computer.
-- If you use a cloud AI model, only the minimum context for that task is sent to it.
-- You can run local models instead, so nothing is sent at all.
+### Review and issue
+Define who reviews the package, which version is issued, and what record the team needs of the final communication or handoff.
+02
 
----
+## Build around the team's real responsibilities.
+Different projects have different approval structures and document systems, so permissions and integrations need assessment before the workflow can be committed.
+The software would support the agreed administrative process, with technical judgments and contractual decisions remaining with the people responsible for them.
+03
 
-Source: https://missioncanvas.ai/security
+## Keep the workflow useful as projects change.
+Ongoing care could cover maintenance, support, and agreed adjustments to forms, document requirements, and connected systems as the operating process evolves.
+This is an illustrative scope for discussion, not a completed construction product or evidence of an existing customer deployment or outcome.
+Your next step
 
-Your data
-
-# Your files stay on your computers.
-What is read locally, what may leave, and how every decision is recorded. Said plainly, with nothing claimed that is not true today.
-Your data
-
-## Your files stay on your computers.
-The application runs on hardware you control. It checks every request before the AI works on it. Sensitive work
-stays on your machine, and every decision is logged.
-
-### Read
-It reads what you already have.
-Files, exports and records, on your own machines. No migration.
-
-### Sort
-It finds what your business is made of.
-Customers, orders, documents, people, equipment and processes, in whatever format they were left.
-
-### Connect
-It links them into one picture.
-Your files, jobs and costs, connected in one place that stays on your machine.
-
-### Work
-The AI works from that picture.
-Not from a pile of text. Outside models are called only when needed, with the least information possible.
-
-### Runs on your hardware
-A workstation or server you already own. No data migration. No new cloud account.
-
-### Local models first
-The AI runs on your own machine. You choose which work, if any, goes to an outside model.
-
-### Checked before it leaves
-Anything sent outside is screened for personal information first. Every decision is logged.
-
-### Locked by default
-A firewall inside the app controls what can leave. If it cannot be enforced, the app does not start.
-Why this matters now
-In February 2026 a federal court held that a defendant's exchanges with a public AI platform were neither privileged nor work product. United States v. Heppner, S.D.N.Y., February 2026
-A proposed update to the HIPAA Security Rule would require documented evidence behind decisions touching
-protected health information. It is not final. Mission Canvas already records the path of every request,
-with nothing to set up.
-HIPAA Security Rule NPRM, published January 2025; final action not yet taken
-The design is ours and patented: a request is classified before any model runs, and nothing later can reopen that
-decision. We didn't patent the classifier. We patented the rule that makes classifying first mean something.
-
-## Questions about data.
-Does our data leave our computers?
-Your files are read on a computer you already own. Sensitive work stays on local models. Anything sent to an outside model is screened for personal information first, and every decision is logged. You decide what, if anything, goes out. Do we need new hardware?
-No. A workstation or a server you already own is enough. No data migration, no new cloud account. Can we keep the tools we use today?
-Yes. It starts from the files, exports and records you already have. The logistics canvas, for example, imports CSV, Excel, Monday.com and HubSpot.
-For how this website and the audit handle your details, read the privacy page.
-
-## Do what you do best. We'll handle the software.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+## Walk us through one project handoff.
+Show where the documents come from, who needs to review them, and what your team must know before the handoff is complete.
+Let’s talk about your work
 
 ---
 
-Source: https://missioncanvas.ai/what-is-mission-canvas
+Source: https://pretendhome.github.io/canvases/education
 
-What is Mission Canvas
+Illustrative workflow · Education
 
-# Software built around how your business works.
-Mission Canvas audits how your work moves, builds the application from a working starting point for your
-industry, runs it on your own computers, and hands it over.
+# Give recurring administration a clearer path.
+A custom education workflow could bring requests, required information, and reviewed communications together, with access and ongoing care shaped around your setting.
+01
 
-## Three parts.
-- 01
+## A possible scope: coordinating an administrative request.
+A workspace could help staff collect the information needed for a recurring request, identify missing documents, and prepare a response for review.
+The scope would define which records are appropriate, who may see them, and which decisions need an authorized member of staff.
 
-### An audit
-We sit with your team and map how the work really moves, and measure where the time goes.
-- 02
+### Request intake
+Agree the information needed at the start, with practical guidance for incomplete submissions and a named person responsible for follow-up.
 
-### A canvas
-A working application for your industry: its workflows, words and rules, already built. We change it to fit you.
-- 03
+### Staff preparation
+Bring permitted information together to help staff prepare the next step, with source references and clear handling of conflicting records.
 
-### A handover
-It runs on your own computers, under your control. Four to six weeks from audit to handover.
+### Reviewed communication
+Define who checks a message, who is authorized to send it, and what the school or organization needs to retain afterward.
+02
 
-## What it is not.
+## Respect the setting and its responsibilities.
+Student information, family communications, and safeguarding concerns require explicit access rules and specialist review of the proposed handling before use begins.
+The software would support the agreed administrative task, while professional, safeguarding, and educational decisions remain with the people responsible for them.
+03
 
-### Not a chatbot
-The AI works inside an application built around your workflow, with your rules and records.
+## Adapt the workflow through an agreed care process.
+Ongoing care could address maintenance, support, and agreed changes to forms, responsibilities, or connected systems as the organization's administrative needs evolve.
+This example describes a possible engagement scope and does not represent a finished education application or an existing customer case study.
+Your next step
 
-### Not rented by the seat
-One license per company, plus quoted services. No per-seat or per-token fees.
-
-### Not a report that sits in a drawer
-The audit ends in software your team uses, not a slide deck.
-
-## Who it is for.
-Small and mid-sized businesses whose work runs on documents, records and rules.
-‹
-- CV-05 In progress Construction & Real Estate Job site, office and fleet in one system.
-- CV-01 Education A living picture of every student, built from what teachers notice.
-- CV-02 Logistics Every order, its stage, and who is waiting on it, checked overnight.
-- CV-03 Voice & Front Desk Agents that answer, book and follow up on the channels people use.
-- CV-04 Events & Venues From online checkout to the gate, on one commercial engine.
-- CV-06 In progress Healthcare Live flows and queues, with sensitive data kept where it belongs.
-- CV-07 In progress Office & Administration The repetitive back-office work, extracted, checked and filed.
-- CV-08 Everything else If the work runs on documents, records and rules, we can build for it. ›
-
-## Read next.
-
-### How it works
-The four steps, and what happens to your files.
-
-### Pricing
-How Mission Canvas charges.
-
-### Questions
-What owners ask before an audit.
-
-## Do what you do best. We'll handle the software.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+## Start with one recurring administrative task.
+Tell us who handles it, what information they need, and which decisions or communications must stay with an authorized person.
+Let’s talk about your work
 
 ---
 
-Source: https://missioncanvas.ai/why-mission-canvas
+Source: https://pretendhome.github.io/canvases/events-venues
 
-Why Mission Canvas
+Illustrative workflow · Events and venues
 
-# Your business already knows what it needs to know.
-It's just scattered across drives, inboxes, spreadsheets, systems and people. We put it in order, on your own
-computers, and build the software that works with it.
+# Bring an inquiry closer to a complete booking brief.
+A custom venue workflow could connect incoming inquiries, event requirements, selected availability information, and reviewed proposals, with ongoing care agreed for the solution.
+01
 
-## Scattered files
-Years of documents, exports and scans that nobody can search as one.
+## A possible scope: preparing an event proposal.
+A workspace could gather the client's requirements, show missing details, and prepare a proposal from the venue's approved packages and operating information.
+The scope would define availability sources, pricing rules, review responsibilities, and the conditions that make an inquiry ready for a formal booking decision.
 
-## Systems that don’t talk
-Accounting, job software, spreadsheets and email each hold a piece. None holds the whole.
+### A useful inquiry brief
+Collect the event details the team needs to assess a request, with a clear owner for missing information and follow-up questions.
 
-## Copying by hand
-People carry information between tools by hand. That is where time and accuracy go.
+### Approved proposal material
+Use the agreed packages, terms, and information sources to prepare a draft that the responsible person can check and revise before sending.
 
-## How we differ from enterprise AI search.
-Question Enterprise AI search Mission Canvas
-Where your data lives In the vendor’s cloud, or a cloud the vendor runs for you On your own computers
-How you pay Custom enterprise contracts One license per company, plus quoted services. No per-seat fees
-What you get Search and an assistant across the tools you already use Software built around your workflow, then handed over
-Who it is for Large organizations Small and mid-sized businesses, starting with construction
+### An operational handoff
+Define the information needed by the people delivering the event, including the status and owner of any requirements still awaiting a decision.
+02
 
-## How Mission Canvas makes money.
-A license per company, plus services quoted before you commit. Never per seat. The whole model, with what each
-part covers, is on the pricing page.
+## Keep commitments with the right person.
+Availability, pricing, contractual terms, and customer promises need explicit rules and authority, especially when the workflow connects to a booking or payment system.
+Any proposed integration requires assessment of the existing tools, account permissions, and uncertainty around records that may change outside the custom application.
+03
 
-## Built to stay yours.
+## Support the workflow through changing seasons.
+Ongoing care could include maintenance, support, and agreed changes to packages, documents, responsibilities, or connected systems as the venue's operating needs evolve.
+This example is a possible scope for a custom engagement, not an existing venue product, customer story, or promise of increased bookings.
+Your next step
 
-### Runs on hardware you own
-A workstation or a server you already have. No data migration, no new cloud account.
+## Start with one inquiry and its handoffs.
+Show how it becomes a proposal and booking brief, including the information, people, and decisions needed along the way.
+Let’s talk about your work
 
-### Use any model
-Cloud AI models, local models or both. Your files and their structure stay yours either way.
+---
 
-### Yours to keep
-We hand the software over. If we part ways, it keeps running on your machines. Read how we handle your data
+Source: https://pretendhome.github.io/canvases/healthcare
 
-## For investors.
-Who buys: owners and operations leads at small and mid-sized businesses, starting with
-construction. How it makes money: a license per company, plus quoted services. Never per seat.
-Deployed
-An international school network runs the system on its real school data.
-25 canvases
-Working starting points across nine industries, seven of them on the home page.
-Patent pending
-Four provisional applications with the US Patent and Trademark Office, in three independent families.
-Eighteen months
-Two founders built and shipped the system before selling anything.
-Tested against live data · Runs on your own computers · Handed over in four to six weeks
-Figures as of October 2026.
+Illustrative workflow · Healthcare administration
 
-## Do what you do best. We'll handle the software.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+# Scope administrative support with clear professional boundaries.
+A possible healthcare administration engagement would begin with the information, access, professional responsibilities, and review required before considering a custom software solution. Illustrative setting. Workflow details and implementation are scoped with each business.
+01
+
+## A possible scope: organizing an administrative request.
+A workspace could help authorized staff gather an agreed set of administrative documents, identify missing information, and prepare a request for the responsible reviewer.
+The first scope would define the task carefully, including the information it requires and the clinical or professional decisions that remain outside it.
+
+### A bounded task
+Identify the administrative outcome, the authorized staff involved, and the circumstances in which the workflow must pause for professional review or clarification.
+
+### Defined information handling
+Assess the data, access, retention, processing locations, and service providers involved before determining whether the proposed implementation is appropriate for the setting.
+
+### A responsible reviewer
+Agree who checks the work, which records are needed, and how staff escalate missing information or a result that cannot be trusted.
+02
+
+## Assess suitability before making an operating commitment.
+Applicable privacy, security, contractual, and regulatory requirements need qualified review and explicit acceptance for the proposed implementation before sensitive information is used.
+This site makes no healthcare compliance, certification, diagnostic, or clinical decision claim; the illustrative task concerns administrative coordination under appropriate human responsibility.
+03
+
+## Define the ongoing responsibilities precisely.
+Any care agreement would need to explain maintenance, support, access changes, outside dependencies, and the handling of incidents within the accepted scope.
+This is a possible workflow to assess for suitability, not a finished healthcare product, existing patient deployment, or evidence of clinical outcomes.
+Your next step
+
+## Begin with the administrative task and its boundaries.
+Describe the workflow and required controls using non-sensitive examples, so the first discussion can focus on suitability and responsible scoping.
+Let’s talk about your work
+
+---
+
+Source: https://pretendhome.github.io/canvases/logistics
+
+Illustrative workflow · Logistics
+
+# Make delivery exceptions easier to coordinate.
+A custom logistics workflow could connect selected shipment information, exception ownership, and customer updates, with ongoing care agreed around the operation.
+01
+
+## A possible scope: handling a delivery exception.
+A workspace could gather the available shipment record, show the information still missing, and give the exception a responsible owner for follow-up.
+The scope would define which systems supply status, how current that information must be, and what happens when sources disagree or stop updating.
+
+### A shared view
+Bring the agreed shipment information and supporting messages into one view, with clear source references and visible gaps in the record.
+
+### An owned next step
+Assign responsibility for investigating the exception and define which decisions the software can support within the agreed operating process and permissions.
+
+### A reviewed update
+Prepare a customer or partner update using approved information, with the review and sending authority your business requires for that communication.
+02
+
+## Make the integration limits visible.
+Carrier interfaces, tracking availability, account permissions, and update delays need assessment before committing to the behavior of any proposed connection or notification.
+Operational decisions and customer commitments stay with the responsible team, with uncertainty shown clearly when the software cannot establish a reliable status.
+03
+
+## Care for the connections the operation depends on.
+Ongoing care could include maintenance, support, and agreed adjustments when external systems, message formats, or the team's exception handling process change.
+This is an illustrative workflow for scoping, not an existing logistics product, live tracking guarantee, or claim of measured delivery improvement.
+Your next step
+
+## Describe one exception your team handles repeatedly.
+Bring the messages, systems, and decisions involved so we can discuss a useful first scope and the care it would need.
+Let’s talk about your work
+
+---
+
+Source: https://pretendhome.github.io/canvases/office
+
+Illustrative workflow · Office operations
+
+# Give recurring office work a clear home.
+A custom office workflow could connect requests, selected documents, responsible owners, and reviewed responses, with ongoing care defined around the team's needs. Illustrative setting. Workflow details and implementation are scoped with each business.
+01
+
+## A possible scope: coordinating an internal request.
+A workspace could gather a request and its supporting documents, show what is missing, and help the responsible person prepare the next step.
+The scope would define the information sources, business rules, review requirements, and records needed to understand how the request was handled and completed.
+
+### A complete starting point
+Agree the details needed for a useful request and make it clear who follows up when important information is missing.
+
+### An owned decision
+Bring the relevant information to the person responsible for the decision, with a clear boundary around what the software may prepare or change.
+
+### A recorded outcome
+Define the response, update, or handoff that completes the task, along with the activity record your team needs to find afterward.
+02
+
+## Work with the tools your team already depends on.
+Email, calendars, document stores, and other business systems can be assessed for integration, with access and external account responsibilities agreed during scoping.
+The first version should have a focused purpose, so the team can review it against representative work before adding more tasks or systems.
+03
+
+## Keep the software aligned with the office.
+Ongoing care could cover maintenance, support, and agreed improvements as staff responsibilities, forms, business rules, and connected services change over time.
+This is an illustrative custom engagement scope, not an existing office application, customer case study, or promise of a particular productivity gain.
+Your next step
+
+## Choose one request your team handles every week.
+Tell us how it arrives, what information it needs, and which handoffs or decisions make it harder than it should be.
+Let’s talk about your work
+
+---
+
+Source: https://pretendhome.github.io/canvases/voice-front-desk
+
+Illustrative workflow · Front desk
+
+# Connect an incoming question with a responsible next step.
+A custom front desk workflow could help staff capture requests, find approved information, and coordinate follow-up, with voice considered where it proves useful.
+01
+
+## A possible scope: preparing a request for follow-up.
+A workspace could help the front desk collect the details needed for a request and prepare a clear handoff to the responsible team.
+The scope would define the questions, approved answers, routing rules, and situations that need a person to take over or make a decision.
+
+### Capture the essentials
+Agree which details are needed to understand the request, what consent is required, and how staff correct an incomplete or mistaken record.
+
+### Use approved information
+Identify the answers and source material that staff may rely on, with a clear route when the information does not cover the question.
+
+### Make the handoff clear
+Give the request an owner, show the agreed next step, and define how the team records that follow-up has actually happened.
+02
+
+## Treat voice as an implementation choice.
+Any proposed voice interface needs testing with the actual equipment, environment, language needs, and interruptions that the front desk will encounter during use.
+A voice feature should have clear limits and a practical handoff to people; this example makes no promise of unattended call handling.
+03
+
+## Keep information and routing current.
+Ongoing care could cover maintenance, support, and agreed updates as opening hours, staff responsibilities, service information, or connected systems change over time.
+This page presents an illustrative scope for discussion, not a completed reception product, proven voice service, or existing customer deployment claim.
+Your next step
+
+## Walk us through a familiar incoming request.
+Tell us what the person asks, what your staff needs to know, and who should take responsibility for the next step.
+Let’s talk about your work
+
+---
+
+Source: https://pretendhome.github.io/docs
+
+Understand your software and its care
+
+# Documentation should help your team get work done.
+A service engagement needs clear workflow guidance, operating responsibilities, and a record of agreed changes, alongside any underlying application documentation.
+01
+
+## For a Mission Canvas service engagement.
+Your project documentation should describe the agreed workflow, supported tasks, connected systems, permissions, and the situations that need a person's attention.
+It should also explain how your team reports a problem, requests a change, and finds the current delivery and care scope.
+
+### Using the workflow
+Practical guidance should follow the tasks people need to carry out, including the exceptions and limitations they may encounter.
+
+### Running the software
+Operating guidance should identify account responsibilities, relevant dependencies, agreed maintenance arrangements, and the route for support when something needs attention.
+
+### Reviewing changes
+A change record should explain what changed, why it changed, and what your team needs to review or do next.
+02
+
+## For the Palette desktop application.
+Palette has its own application guidance, installation requirements, and operating limits that should be checked for the environment you plan to use.
+Those materials describe the desktop foundation; the managed service agreement separately defines your business workflow, delivery responsibilities, and ongoing care.
+03
+
+## Keep the current agreement easy to find.
+Public guidance introduces the approach, while project documents should record the precise behavior, access arrangements, and responsibilities agreed for your solution.
+When a change affects those arrangements, the documentation and acceptance criteria should be updated alongside the software your team will use.
+Explore further
+Explore Palette Desktop downloads Your data & control Common service questions
+Your next step
+
+## Start with your team's questions.
+Tell us which tasks, operating responsibilities, and support questions the people using your software need documentation to answer clearly.
+Let’s talk about your work
+
+---
+
+Source: https://pretendhome.github.io/faq
+
+Understanding the service
+
+# A clearer picture of custom software with ongoing care.
+These answers describe our proposed CSaaS approach; your written proposal sets the scope, responsibilities, price, and operating terms for an engagement.
+01
+
+## What does CSaaS mean here?
+Customized Software as a Service brings software built around your workflow together with an agreement for its maintenance, support, and improvement.
+The solution combines reusable infrastructure with custom development, while the engagement defines the ongoing responsibilities your particular workflow needs clearly.
+02
+
+## What kinds of work are a useful starting point?
+Start with recurring work that crosses documents, messages, spreadsheets, or systems, especially when people spend time coordinating the same information repeatedly.
+A focused first scope makes the software easier to review and helps establish the evidence needed for any later expansion.
+03
+
+## What gets agreed before work begins?
+The proposal should cover the workflow, delivery scope, acceptance criteria, commercial terms, data handling, support arrangements, and ownership or access rights.
+It should also explain third-party costs, changes outside scope, and how the software and relevant information can be handed over.
+A little more detail
+
+## Questions worth asking.
+Does every project use AI?
+AI is an implementation choice where it helps the workflow; ordinary software, clear rules, and human review may be more appropriate. Can you work with our existing systems?
+We assess the systems, available interfaces, account permissions, and vendor constraints during scoping before committing to a particular integration or behavior. Can the software take actions by itself?
+Any delegated action needs an agreed scope, authority, and review policy; we make no general promise of unattended or autonomous operation. How long will a project take?
+Delivery timing depends on scope, integrations, access, review availability, and unresolved requirements, and belongs in the proposal for your project. Who owns the software and information?
+Ownership, licensing, data access, export, and handover rights must be explained in the written agreement before you commit to an engagement. What if our workflow changes?
+We review the request together and determine whether it fits recurring care or needs a separately agreed build scope and quote.
+Your next step
+
+## Start with the situation you have.
+You can bring an awkward spreadsheet, a repeated handoff, or a recurring task and describe what should happen instead.
+Let’s talk about your work
+
+---
+
+Source: https://pretendhome.github.io/how-it-works
+
+From workflow to working software
+
+# Start with the work your team needs to do.
+We shape a focused software project around your workflow, then agree how its maintenance and improvement will be handled.
+Understand
+
+## Follow one real piece of work.
+We start with a recurring task, the people involved, the information they need, and the outcome they consider complete.
+Together, we identify the awkward handoffs, repeated entry, missing information, and decisions that still need a responsible person's judgment.
+
+### A clear outcome
+Describe what should happen when the workflow succeeds, including the records and communications your team needs at the end.
+
+### An agreed boundary
+Choose the people, systems, information, and actions included in the first scope, with exceptions that everyone can understand.
+
+### A named owner
+Identify who can answer business questions, judge the result, and authorize any changes that affect customers or other teams.
+Build
+
+## Make the result concrete enough to judge.
+We build around the agreed workflow, using a reusable foundation for common needs and custom development for your particular requirements.
+Your team reviews the software against representative work, including exceptions, before we agree what belongs in everyday use together.
+Care
+
+## Plan for the life after launch.
+The care agreement defines responsibility for maintenance, support, dependencies, and improvements, with a clear route for reporting problems and requesting changes.
+As your workflow changes, we review priorities together and agree which adjustments fit the existing scope or need a separate quote.
+Your next step
+
+## Bring one recurring workflow.
+Show us where the work starts, where it gets stuck, and what your team needs to happen next.
+Let’s talk about your work
+
+---
+
+Source: https://pretendhome.github.io/palette
+
+The desktop foundation
+
+# A desktop application behind the workflow work.
+Palette is a desktop foundation and development application associated with Mission Canvas, with its own capabilities, installation requirements, and operating boundaries.
+01
+
+## A foundation for building and reviewing work.
+Its development brings together mechanisms for source-linked documents, versioned changes, scoped access, connected services, and records of actions and outcomes.
+A mechanism's presence does not establish a complete business workflow; its behavior needs review in the particular application and environment being used.
+02
+
+## A managed service adds business responsibility.
+A Mission Canvas service engagement defines a business workflow, builds the required solution, and agrees the responsibilities for its ongoing care.
+Using the desktop application and commissioning that service are separate choices, with different setup requirements, scope, and expectations for ongoing support.
+03
+
+## Review the application in your own environment.
+Check the current installation guidance and requirements before trying the application, then evaluate the particular tasks you need it to support.
+For business use, discuss access, connected accounts, operating limits, and care arrangements before depending on the application for an important workflow.
+Explore further
+Desktop downloads Discuss a custom workflow
+Your next step
+
+## Choose the path that fits your work.
+Explore the desktop application, or discuss a scoped service engagement for software built around a particular workflow in your business.
+Let’s talk about your work
+
+---
+
+Source: https://pretendhome.github.io/press
+
+For writers and partners
+
+# Custom software with an ongoing service relationship.
+Mission Canvas is developing a Customized Software as a Service offering for businesses that need software shaped around their own workflows.
+01
+
+## The proposed offering.
+The approach combines a scoped custom software build with recurring care, using reusable infrastructure for capabilities that different workflows may share.
+An engagement would define the business outcome, delivery scope, acceptance criteria, integrations, and ongoing responsibilities in a proposal for that business.
+02
+
+## How to describe Mission Canvas.
+Mission Canvas focuses on the relationship between a business workflow, the software that supports it, and the people responsible for its care.
+Customized Software as a Service, or CSaaS, is the name used here for bringing custom development and ongoing care into one engagement.
+03
+
+## Product and service boundaries.
+Palette is an associated desktop foundation and development application; its application capabilities and installation guidance are distinct from the proposed managed service.
+The industry workflows on this site illustrate possible scopes for discussion and do not represent customer testimonials or completed industry products.
+A little more detail
+
+## Questions worth asking.
+Are commercial terms published?
+The proposed service is scoped by quote, with final pricing, delivery terms, support arrangements, and outside costs agreed for each engagement. Are the industry examples customer case studies?
+The examples illustrate workflows that could be scoped and built; they do not establish customer deployments, measured outcomes, or finished products. How should product claims be checked?
+Ask for evidence tied to the particular application, workflow, and environment being discussed before describing a capability as available or proven.
+Your next step
+
+## Request a focused company conversation.
+Describe the topic you are covering and the product or service facts you need to confirm for your audience.
+Let’s talk about your work
+
+---
+
+Source: https://pretendhome.github.io/pricing
+
+A proposal shaped around your scope
+
+# Agree the work. Understand the ongoing cost.
+Our proposed service combines a scoped setup and build with recurring care, with final terms and figures set by quote.
+01
+
+## A defined setup and build.
+The initial proposal describes the workflow, interfaces, integrations, acceptance criteria, and delivery responsibilities included in the agreed build scope.
+The quote should make assumptions and exclusions visible, so you can judge the cost against the work you actually need.
+
+### Workflow and requirements
+The proposal identifies the people involved, the information required, and the decisions that the software needs to support.
+
+### Build and review
+The scope explains what will be delivered, how your team will review it, and which acceptance conditions need to be met.
+
+### A practical handover
+The agreement sets out the documentation, access, and operating responsibilities needed for your team to use the software confidently.
+02
+
+## Recurring care with a clear boundary.
+An ongoing agreement can cover maintenance, support, and an agreed allowance or process for improvements as your business needs change.
+The proposal defines the care period, included work, response arrangements, review process, and how additional requests will be priced and approved.
+03
+
+## Keep outside costs visible.
+Hosting, third-party subscriptions, model usage, and other external services are separate costs unless your written quote explicitly includes them.
+This proposed offer has no published standard rate or established service-level commitment; the final commercial model depends on your agreed scope.
+A little more detail
+
+## Questions worth asking.
+Is there a standard monthly price?
+Final figures and the billing model are subject to quote, based on the workflow, integrations, operating needs, and agreed care scope. How are larger changes handled?
+We assess the request against the existing agreement and provide a separate scope and quote when the work falls outside it. What should an agreement explain?
+It should explain payment, ownership, access, support, outside costs, cancellation, and the practical steps for handing the software over.
+Your next step
+
+## Get a proposal for your workflow.
+Tell us what your team needs to accomplish, which systems are involved, and how the work is handled today.
+Let’s talk about your work
+
+---
+
+Source: https://pretendhome.github.io/privacy
+
+Website privacy · Updated 23 October 2026
+
+# Your information, in plain words.
+This website helps you understand the service and start a conversation. Project data arrangements are agreed separately for each implementation.
+
+## What this website does.
+The enquiry form prepares a draft in your own email application. It does not submit the form to a server or store your entries on this website.
+We receive the information only if you choose to send the message. Your email provider handles the message according to its own arrangements.
+This version of the site runs no analytics scripts and sets no application tracking cookies. GitHub Pages hosts these pages and records visitor IP addresses for security purposes. See GitHub’s hosting information ↗.
+
+## Starting a conversation.
+We use the information you send to respond to your enquiry and discuss the workflow. Please avoid sending confidential business records or sensitive personal information in an initial message.
+No appointment calendar is embedded in this site. We arrange a suitable next step directly after an enquiry.
+
+## Your project’s information.
+A project scope should identify the data involved, where it is processed, who may access it and which external services are connected.
+Hosting, support access, retention, export and transition arrangements are agreed for the implementation. Local deployment does not remove the need to understand external connections.
+We do not treat permission to maintain software as permission to reuse a customer’s private records for other customers or model training.
+
+## Questions and requests.
+For a question about information you have sent us, contact jason.covington@missioncanvas.ai. Describe the request without including unnecessary sensitive details.
+
+---
+
+Source: https://pretendhome.github.io/security
+
+Make the boundaries clear
+
+# Decide who can see information and act on it.
+Security requirements belong in the project scope, alongside the workflow, integrations, responsibilities, and evidence needed before everyday use begins.
+01
+
+## Start with the information your workflow needs.
+We identify the information involved, where it will be processed, who needs access, and which connected services will receive it.
+Access rules, retention, exports, and account responsibilities should be documented in the agreement and checked against your actual operating requirements.
+02
+
+## Keep consequential actions under clear authority.
+The project should define which actions people can request, which require review, and what information is recorded when they happen.
+Our reusable foundation includes source-linked work, version history, scoped access, and recorded actions; each implementation still needs its own validation.
+
+### Access
+Agree which people and connected accounts can reach the information needed for the workflow, and how that access is removed.
+
+### Action
+Define the authority needed for sending messages, changing records, or affecting another system, including what happens when an outcome is uncertain.
+
+### Evidence
+Choose the activity records, source references, and change history your team needs to review work and investigate a problem.
+03
+
+## Match claims to the implementation.
+Hosting, local processing, provider access, backup arrangements, and recovery procedures depend on the solution and must be specified for the engagement.
+We do not make a blanket compliance or certification claim; regulated requirements need specialist review and explicit acceptance before use.
+Your next step
+
+## Bring your requirements into the first conversation.
+Share the access, hosting, review, and recordkeeping conditions your business needs so they can shape the scope from the start.
+Let’s talk about your work
+
+---
+
+Source: https://pretendhome.github.io/what-is-mission-canvas
+
+Customized Software as a Service
+
+# Your workflow, made into software and cared for over time.
+Mission Canvas is developing a service that combines software built for a particular business with ongoing maintenance, support, and improvement.
+01
+
+## A service shaped around a business outcome.
+The project starts with something your team needs to accomplish, then defines the information, decisions, and handoffs required to get there.
+The resulting software can bring those steps together in a focused workspace, with connections to existing systems where the scope allows.
+02
+
+## Custom work on a reusable foundation.
+Shared infrastructure provides a starting point for common capabilities, while the interfaces, business rules, and workflow are shaped for your situation.
+The foundation includes mechanisms for source-linked work, versions, scoped access, and recorded actions, with suitability verified for each proposed implementation.
+03
+
+## An agreement for what happens next.
+The service model includes a scoped build and an ongoing care agreement, with responsibilities and commercial terms defined in your proposal.
+You should be able to understand the software's purpose, judge the delivered result, and know how to request help or changes.
+Your next step
+
+## Find a useful first scope.
+Describe the recurring work your team wants to improve and the outcome that would make a meaningful difference to them.
+Let’s talk about your work
+
+---
+
+Source: https://pretendhome.github.io/why-mission-canvas
+
+Fit, responsibility, and continuity
+
+# Give important workflows a software owner.
+Our proposed CSaaS approach connects a focused custom build with the care needed as systems, people, and business requirements change.
+01
+
+## Fit the software to the work.
+We begin with the way your team handles a task, including the exceptions and judgments that a generic process can miss.
+The first scope should solve a recognizable problem and give the people doing the work a clear way to judge progress.
+02
+
+## Keep the work understandable.
+Sources, changes, access, and external actions need clear treatment so your team can understand the software's behavior and question its results.
+We bring reusable mechanisms for those concerns and agree the review steps and evidence your particular workflow needs before use.
+03
+
+## Account for the work after delivery.
+An ongoing agreement provides a place for maintenance, support, and agreed improvements, with boundaries that make the commitment understandable to both sides.
+The proposal should explain ownership, outside services, change requests, and handover so the relationship remains practical as your business evolves.
+Your next step
+
+## See whether the approach fits.
+Bring a recurring task and we can discuss the software, responsibilities, and ongoing care that a focused solution would require.
+Let’s talk about your work
