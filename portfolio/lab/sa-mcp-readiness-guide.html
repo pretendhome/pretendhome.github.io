@@ -7,7 +7,7 @@
   <title>SA Readiness Guide — MCP Integrations</title>
   <meta name="description" content="MCP integrations for enterprise AI: what it is, what breaks, how to demo it, how to handle the security conversation. One-page SA readiness artifact." />
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500&display=swap');
+    @font-face{font-family:'Inter';src:url('/portfolio/assets/geist-latin-wght-normal.woff2') format('woff2');font-weight:100 900;font-display:swap}
 
     :root {
       --bg: #0f1117;
@@ -95,7 +95,7 @@
     pre { font-family: var(--mono); font-size: 0.8rem; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 1rem; overflow-x: auto; margin: 0.75rem 0; color: var(--text-soft); line-height: 1.5; }
   </style>
 </head>
-<body>
+<body><aside style="padding:18px;background:#eee4cf;color:#29251f;font:16px/1.5 system-ui">Training reference: the platform and integration scenarios here are illustrative, not Mission Canvas product features. <a href="/portfolio/lab/">Back to the lab</a> · <a href="/portfolio/">Work samples</a></aside>
 
   <h1>MCP Integrations &mdash; SA Readiness Guide</h1>
   <p class="subtitle">What MCP is, what breaks, how to demo it, how to handle the security conversation</p>
@@ -149,7 +149,7 @@
     <div class="layer">
       <div class="layer-num">Right</div>
       <div class="layer-name">the platform API</div>
-      <div class="layer-desc">The knowledge graph. 100+ connectors, permission-aware, full audit trail. Every result respects the user's access.</div>
+      <div class="layer-desc">The knowledge graph. connectors available in the selected platform, permission-aware, full audit trail. Every result respects the user's access.</div>
     </div>
   </div>
 
@@ -218,7 +218,7 @@
     </div>
     <div class="fix">
       <strong>Root cause</strong>: MCP host implementations differ. Transport framing, capability negotiation, and notification handling vary across hosts. The spec is still evolving (current version: <code>2024-11-05</code>).<br/><br/>
-      <strong>Fix</strong>: Always test against the customer's preferred host before the demo. the platform's managed remote MCP server handles cross-host compatibility. Local servers may need per-host adjustments.
+      <strong>Fix</strong>: Always test against the customer's preferred host before the demo. verify cross-host compatibility for the selected server. Local servers may need per-host adjustments.
     </div>
   </div>
 

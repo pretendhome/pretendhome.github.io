@@ -6,7 +6,7 @@
   
   <title>MCP Integrations Lab — Technical Enablement</title>
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500&display=swap');
+    @font-face{font-family:'Inter';src:url('/portfolio/assets/geist-latin-wght-normal.woff2') format('woff2');font-weight:100 900;font-display:swap}
 
     :root {
       --bg: #0f1117;
@@ -241,7 +241,7 @@
     li { color: var(--text-soft); padding: 0.2rem 0; }
   </style>
 </head>
-<body>
+<body><nav aria-label="Portfolio navigation" style="position:relative;z-index:100;padding:12px;display:flex;gap:24px"><a style="color:inherit" href="/portfolio/">← Work samples</a><a style="color:inherit" href="/audit">Discuss a workflow</a></nav>
 
   <div class="progress" id="progress"></div>
   <div class="slide-counter" id="counter"></div>
@@ -251,9 +251,9 @@
   <!-- ═══════════════════════════════════════════════════════════════ -->
   <div class="slide active" id="slide-1">
     <div>
-      <span class="badge badge-accent">Technical Enablement Manager — Assignment</span>
+      <span class="badge badge-accent">Mission Canvas · Training walkthrough</span>
       <h1 style="margin-top: 1rem;">MCP Integrations for Solution Architects</h1>
-      <p class="subtitle">A hands-on lab designed around the 5 things that actually go wrong</p>
+      <p class="subtitle">A hands-on lab designed around the 5 integration failures worth practicing</p>
 
       <div style="margin-top: 2rem;">
         <h3>The thesis</h3>
@@ -265,7 +265,7 @@
 
       <div style="margin-top: 2rem;">
         <h3>What I built</h3>
-        <p>A 90-minute lab where SAs experience the 5 most common MCP failure modes with their own hands — so the first time they see each one is in a safe room, not in front of a customer.</p>
+        <p>A 90-minute lab where SAs experience the 5 common MCP failure modes with their own hands — so the first time they see each one is in a safe room, not in front of a customer.</p>
       </div>
     </div>
   </div>
@@ -295,7 +295,7 @@
 
       <div class="failure">
         <div class="failure-num">Failure Mode 4</div>
-        <strong>It works in Claude but not in Cursor.</strong> Spec drift between hosts. Transport framing varies. Customer uses a host you haven't tested.
+        <strong>It works in one assistant but not another.</strong> Spec drift between hosts. Transport framing varies. Customer uses a host you haven't tested.
       </div>
 
       <div class="failure">
@@ -334,8 +334,8 @@
         </div>
         <div class="flow-arrow">→</div>
         <div class="flow-step">
-          <div class="flow-step-name">Sell It</div>
-          <div class="flow-step-time">10 min</div>
+          <div class="flow-step-name">Sell + Debrief</div>
+          <div class="flow-step-time">17 min</div>
         </div>
       </div>
 
@@ -360,7 +360,7 @@
       </div>
 
       <div class="card">
-        <div class="card-header">Sell It (10 min)</div>
+        <div class="card-header">Sell It + Debrief (17 min)</div>
         <p>One scenario done well: technical buyer evaluating MCP vs custom RAG. Peer feedback on 4 criteria. Close: "Name the 5 failure modes."</p>
       </div>
     </div>
@@ -371,8 +371,8 @@
   <!-- ═══════════════════════════════════════════════════════════════ -->
   <div class="slide" id="slide-4">
     <div>
-      <h2>Live Demo</h2>
-      <p>Working MCP server wrapping a search API. 80 lines, Node.js, zero dependencies.</p>
+      <h2>Local demo walkthrough</h2>
+      <p>Local exercise: a search integration with permission-aware results. This page is the walkthrough; it does not run a hosted server.</p>
 
       <div class="card">
         <div class="card-header">Architecture</div>
@@ -388,7 +388,7 @@
       </table>
 
       <p style="margin-top: 1.5rem; font-style: italic; color: var(--text-faint);">
-        → Switch to MCP Inspector for live demo
+        Run the exercise in a separately configured local test environment.
       </p>
     </div>
   </div>
@@ -406,8 +406,8 @@
           <tr><td><strong>1. Tool Description</strong></td><td>LLM ignores the tool — vague description</td><td><span class="badge badge-green">Yes</span></td></tr>
           <tr><td><strong>2. Response Size</strong></td><td>Context overflow — no pageSize limit</td><td><span class="badge badge-green">Yes</span></td></tr>
           <tr><td><strong>3. Authentication</strong></td><td>Admin token in production — permission leak</td><td><span class="badge badge-green">Yes</span></td></tr>
-          <tr><td><strong>4. Host Compatibility</strong></td><td>Works in Claude, breaks in Cursor</td><td><span class="badge badge-green">Yes</span></td></tr>
-          <tr><td><strong>5. Permissions</strong></td><td>Source-system ACL mismatch</td><td><span class="badge badge-red">Escalate</span></td></tr>
+          <tr><td><strong>4. Host Compatibility</strong></td><td>Different behavior across assistants</td><td><span class="badge badge-green">Yes</span></td></tr>
+          <tr><td><strong>5. API Drift</strong></td><td>Changed response format</td><td><span class="badge badge-red">Escalate</span></td></tr>
         </table>
       </div>
 
@@ -415,7 +415,7 @@
         <p style="color: var(--text); font-size: 1.1rem; margin: 0;">
           If SAs can self-resolve layers 1–4, engineering only sees layer 5.
           The exact reduction depends on internal support data — but the structural logic is clear:
-          <strong>most MCP support tickets are field-resolvable with the right diagnostic training.</strong>
+          <strong>the exercise helps distinguish issues the field can resolve from those requiring engineering.</strong>
         </p>
       </div>
     </div>
@@ -508,7 +508,7 @@
   <!-- ═══════════════════════════════════════════════════════════════ -->
   <div class="slide" id="slide-8">
     <div>
-      <h2>Four KPIs This Program Moves</h2>
+      <h2>Four Outcomes to Measure</h2>
 
       <div class="kpi-grid">
         <div class="kpi">
@@ -555,7 +555,7 @@
       <p style="margin-bottom: 1.5rem;">When technical enablement is built as infrastructure, not content:</p>
 
       <div class="question-card">
-        <p>New team members ramp faster — the readiness guide tells them exactly what to know, what to demo, and what to watch for.</p>
+        <p>The goal is to help new team members ramp faster — the readiness guide tells them exactly what to know, what to demo, and what to watch for.</p>
       </div>
 
       <div class="question-card">

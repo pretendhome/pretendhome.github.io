@@ -377,15 +377,15 @@
     }
   </style>
 </head>
-<body>
+<body><nav aria-label="Portfolio navigation" style="max-width:1200px;margin:auto;padding:20px;display:flex;gap:24px"><a href="/portfolio/" style="color:inherit">← Work samples</a><a href="/audit" style="color:inherit">Discuss a workflow</a></nav>
 <div class="app">
   <header>
     <div>
       <h1>Voice Evaluation Workbench</h1>
-      <p>Compare, score, and choose the right AI agent voice for each customer journey stage.</p>
+      <p>Compare preset recordings and record your judgment for each customer journey stage.</p>
       <p style="color:var(--text-faint);font-size:12px;margin-top:2px">Built by Mission Canvas — Voice Agent Evaluation Framework</p>
     </div>
-    <span class="badge offline" id="tts-status">TTS offline</span>
+    <span class="badge offline" id="tts-status">Preset recordings</span>
   </header>
 
   <div class="setup">
@@ -398,7 +398,7 @@
       </select>
     </div>
     <div class="field">
-      <label>Persona Target</label>
+      <label>Evaluation target (manual)</label>
       <select id="persona">
         <option value="warm-guide">Warm Guide</option>
         <option value="technical-expert">Technical Expert</option>
@@ -416,7 +416,7 @@
       </select>
     </div>
     <div class="field btn-row">
-      <button class="primary" id="generate-btn" onclick="generateComparison()">Generate Comparison</button>
+      <button class="primary" id="generate-btn" onclick="generateComparison()">Load preset comparison</button>
       <button onclick="resetAll()">Reset</button>
     </div>
     <div class="field" style="grid-column: 1 / -1;">
@@ -514,6 +514,11 @@ const state = {
 const HUB_URL = 'http://localhost:7890';
 
 async function checkTTS() {
+  // Public work sample uses hosted presets unless local generation is explicitly requested.
+  if (new URLSearchParams(location.search).get("localTTS") !== "1") {
+    document.getElementById("phrase").readOnly = true;
+    return;
+  }
   try {
     const r = await fetch(`${HUB_URL}/health`);
     if (r.ok) {
@@ -524,7 +529,8 @@ async function checkTTS() {
   } catch {
     state.ttsAvailable = false;
     document.getElementById('tts-status').className = 'badge offline';
-    document.getElementById('tts-status').textContent = 'Using cached audio';
+    document.getElementById('tts-status').textContent = 'Preset recordings';
+    document.getElementById('phrase').readOnly = true;
   }
 }
 
@@ -603,6 +609,7 @@ async function loadAudio(voice, stage, lang, phrase, isCustom, card) {
       throw new Error('Custom phrases require TTS server');
     }
 
+    if (!blob) throw new Error('No audio available');
     const ttfa = Math.round(performance.now() - t0);
     state.voices[voice.id].ttfa = ttfa;
     state.voices[voice.id].audio = blob ? URL.createObjectURL(blob) : null;
@@ -610,7 +617,7 @@ async function loadAudio(voice, stage, lang, phrase, isCustom, card) {
     if (ttfa < 400) { ttfaBadge.className = 'ttfa-badge fast'; }
     else if (ttfa < 700) { ttfaBadge.className = 'ttfa-badge ok'; }
     else { ttfaBadge.className = 'ttfa-badge slow'; }
-    ttfaBadge.textContent = `${ttfa}ms TTFA`;
+    ttfaBadge.textContent = `${ttfa}ms audio load`;
 
     playBtn.disabled = false;
     playBtn.classList.remove('loading');
@@ -763,15 +770,16 @@ function updateRecommendation() {
     return { id, name: voice.name, total, scores: v.scores, ship: v.ship, ttfa: v.ttfa, notes: v.notes };
   }).sort((a, b) => b.total - a.total);
 
-  const winner = results[0];
+  const approved = results.filter(r => r.ship === 'ship');
+  const winner = approved[0] || results[0];
   const lang = document.getElementById('language').value;
   const stage = document.getElementById('stage').value;
   const persona = document.getElementById('persona').selectedOptions[0].text;
   const langLabel = { eng: 'English', fra: 'French', por: 'Portuguese', spa: 'Spanish' }[lang];
 
-  document.getElementById('rec-winner').textContent = `${winner.name} (${winner.total.toFixed(2)}/5.00)`;
+  document.getElementById('rec-winner').textContent = `${approved.length ? 'Ready for review' : 'Highest score — not cleared'}: ${winner.name} (${winner.total.toFixed(2)}/5.00)`;
   document.getElementById('rec-rationale').textContent =
-    `${winner.name} is the strongest choice for ${langLabel} ${stage.charAt(0).toUpperCase() + stage.slice(1)} with a ${persona} persona. ${WATCHOUTS[lang]}`;
+    `Your manual scores for ${langLabel} ${stage}, evaluated against ${persona}. ${approved.length ? 'The selection is among voices you marked Ship; this does not approve publication.' : 'No scored voice has been marked Ship. Resolve the remaining concerns before selecting one.'} ${WATCHOUTS[lang]}`;
 
   // Mark winner card
   document.querySelectorAll('.voice-card').forEach(c => c.classList.remove('winner'));
@@ -807,7 +815,7 @@ function buildScorecard() {
   md += `**Language:** ${lang}\n`;
   md += `**Phrase:** ${phrase}\n\n`;
   md += `## Scores\n\n`;
-  md += `| Voice | Total | ${RUBRIC.map(r => r.label).join(' | ')} | TTFA | Ship? |\n`;
+  md += `| Voice | Total | ${RUBRIC.map(r => r.label).join(' | ')} | Audio load | Ship? |\n`;
   md += `|-------|-------|${RUBRIC.map(() => '------').join('|')}|------|-------|\n`;
 
   const results = Object.entries(state.voices).map(([id, v]) => {
@@ -820,8 +828,9 @@ function buildScorecard() {
     md += `| ${r.name} | **${r.total.toFixed(2)}** | ${RUBRIC.map(dim => r.scores[dim.id] || '-').join(' | ')} | ${r.ttfa || '-'}ms | ${r.ship || '-'} |\n`;
   }
 
-  const winner = results[0];
-  md += `\n## Recommendation\n\n${winner.name} is the strongest choice for ${lang} ${stage} with a ${persona} persona.\n\n`;
+  const eligible = results.filter(r => r.ship === 'ship' && RUBRIC.every(dim => r.scores[dim.id]));
+  const winner = eligible[0];
+  md += `\n## Recommendation\n\n${winner ? winner.name + " has the highest complete score among voices marked Ship." : "No voice has a complete score and a Ship decision."} Manual evaluation for ${lang}, ${stage}, ${persona}. Publication is not authorized by this scorecard.\n\n`;
   md += `## Locale Watchout\n\n${WATCHOUTS[document.getElementById('language').value]}\n\n`;
   md += `## Evaluator Notes\n\n`;
   for (const r of results) {
@@ -852,6 +861,7 @@ function copyScorecard() {
 // ── Reset ──────────────────────────────────────────────────────────────────
 
 function resetAll() {
+  if (currentAudio) { currentAudio.pause(); currentAudio = null; }
   state.voices = {};
   document.getElementById('voices').innerHTML = '';
   document.getElementById('recommendation').classList.remove('visible');
@@ -860,8 +870,9 @@ function resetAll() {
 
 // ── Init ───────────────────────────────────────────────────────────────────
 
-document.getElementById('stage').addEventListener('change', updatePhrase);
-document.getElementById('language').addEventListener('change', updatePhrase);
+document.getElementById('stage').addEventListener('change', resetAll);
+document.getElementById('language').addEventListener('change', resetAll);
+document.getElementById('persona').addEventListener('change', resetAll);
 updatePhrase();
 checkTTS();
 </script>

@@ -1,37 +1,36 @@
 # Mission Canvas
 
-> Custom software built around your business, with ongoing maintenance and agreed improvements. Start with one workflow and a clear scope of care.
+> Software built around how your business works, running on your own computers. We audit the workflow, build the application and hand it over. No per-seat fees.
 
-Mission Canvas offers Customized Software as a Service: custom software built around a business workflow, with scoped maintenance and agreed improvements. Each engagement defines the build, costs, deployment and ongoing care. Book a workflow audit: https://pretendhome.github.io/audit/
-
+Mission Canvas builds private AI software for small and mid-sized businesses. Each engagement starts with a workflow audit, then the application is built from a working starting point for the industry (a "canvas") and runs on the business's own computers. Licensed per company, with no per-seat fees. Book an audit: https://missioncanvas.ai/audit/
 
 ## Main pages
 
-- [Mission Canvas: Customized Software as a Service](https://pretendhome.github.io/): Custom software built around your business, with ongoing maintenance and agreed improvements. Start with one workflow and a clear scope of care.
-- [Book an audit](https://pretendhome.github.io/audit/): Tell us about one recurring job. We will discuss a focused custom workflow, the first build and its ongoing care.
-- [Custom software and ongoing care by industry](https://pretendhome.github.io/canvases/): Explore software for site and office records, clinic administration, invoices and other recurring work, with customization and ongoing care agreed.
-- [Custom software and ongoing care: questions answered](https://pretendhome.github.io/faq): What Mission Canvas does, who it fits, how the first workflow walkthrough works, and what to know about cost, data and ongoing care.
-- [How it works](https://pretendhome.github.io/how-it-works): Choose one important workflow. Build custom software around it, review real examples and keep it useful with ongoing care.
-- [Palette: explore the desktop foundation](https://pretendhome.github.io/palette): Explore source-linked document work with Palette, a free desktop app. Custom workflow development and ongoing care are a separate Mission Canvas service.
-- [Pricing: a focused build and ongoing care](https://pretendhome.github.io/pricing): A defined custom software build, recurring care and clear outside costs. We quote around the workflow your business needs.
-- [Your data: know what the software can see and do](https://pretendhome.github.io/security): Choose the information your workflow uses, where it is processed and which actions need review. Keep those boundaries clear through ongoing care.
+- [Mission Canvas: private AI software for small businesses](https://missioncanvas.ai/): Software built around how your business works, running on your own computers. We audit the workflow, build the application and hand it over. No per-seat fees.
+- [Request a workflow audit](https://missioncanvas.ai/audit/): Tell us about one recurring workflow. Prepare an email request and arrange a time with our team.
+- [Private AI software by industry](https://missioncanvas.ai/canvases/): Private AI software for construction, schools, logistics, front desks, events and venues, clinics and back offices. Find a canvas that gets you close; we make it fit.
+- [Private AI software for small businesses: questions answered](https://missioncanvas.ai/faq): Answers to what owners ask about private AI software before an audit: what it is, what it costs, who owns it, and where the data goes.
+- [How it works](https://missioncanvas.ai/how-it-works): What happens to your files, step by step, and what working with Mission Canvas looks like, from the audit to handover in four to six weeks.
+- [Palette: a free local AI app for your documents](https://missioncanvas.ai/palette): A free local AI app for Mac, Windows and Linux. Give it one folder. It reads only what you allow, on your computer, and links every line to its source.
+- [Pricing: one license per company, no per-seat fees](https://missioncanvas.ai/pricing): One license per company, plus services quoted before you commit. Never per seat, no per-token charges.
+- [Private, on-premise AI: your files stay on your computers](https://missioncanvas.ai/security): Your files are read on your own computers. Agree what is read, what may leave and how the team checks the result.
 
 ## Industries
 
-- [Construction job costing and fleet software](https://pretendhome.github.io/canvases/construction): Construction job costing and fleet software for site and office teams: job records, delivery tickets and costs together, with care as forms and jobs change.
-- [Private AI for schools: student lenses and parent summaries](https://pretendhome.github.io/canvases/education): Private AI for schools: connect classroom observations, student records and teacher-reviewed parent drafts, with formats and coursework adapted to your school.
-- [Ticketing and access control software for venues](https://pretendhome.github.io/canvases/events-venues): Ticketing and access control software for venues: shared sales and entry records for box office and gate staff, with forms, entry rules and reports adapted to the event.
-- [Private patient check-in and scheduling software](https://pretendhome.github.io/canvases/healthcare): Patient check-in and scheduling software in progress: scope the administrative handoffs for clinic staff, with access, review and ongoing care agreed before use.
-- [Order tracking software for small logistics companies](https://pretendhome.github.io/canvases/logistics): Order tracking software for small logistics companies: help operations check stalled orders and prepare customer updates, with imports and connections scoped to the workflow.
-- [Invoice processing automation for small businesses](https://pretendhome.github.io/canvases/office): Invoice processing automation for small businesses in progress: scope invoice checks, recurring requests and reviewer handoffs, with care as forms and rules change.
-- [AI receptionist for small businesses: phone, WhatsApp, email](https://pretendhome.github.io/canvases/voice-front-desk): An AI receptionist for small businesses: routine bookings by phone, WhatsApp and email, with staff handover and ongoing care for your rules and service information.
+- [Construction job costing and fleet software](https://missioncanvas.ai/canvases/construction): Construction job costing and fleet software: job sites, the office and the fleet in one system, with AI doing the back-office work, on your own computers.
+- [Private AI for schools: student lenses and parent summaries](https://missioncanvas.ai/canvases/education): Private AI for schools: teachers say what they noticed and each student’s lens updates with what works, accommodations and CEFR milestones, on your own machines.
+- [Ticketing and access control software for venues](https://missioncanvas.ai/canvases/events-venues): Ticketing and access control software for events and venues: online sales, the gate, the box office and your visitor list in one system.
+- [Private patient check-in and scheduling software](https://missioncanvas.ai/canvases/healthcare): Patient check-in, scheduling and queues for clinics, with patient data kept on your own computers. In progress: book an audit to shape it.
+- [Order tracking software for small logistics companies](https://missioncanvas.ai/canvases/logistics): Order tracking software for small logistics companies: orders, stages and customer updates in one place, checked overnight on your own computers.
+- [Invoice processing automation for small businesses](https://missioncanvas.ai/canvases/office): Invoice processing automation for small businesses: invoices read, checked and filed, and the repetitive back-office work done on your own computers.
+- [AI receptionist for small businesses: phone, WhatsApp, email](https://missioncanvas.ai/canvases/voice-front-desk): An AI receptionist for small businesses: it answers the phone, WhatsApp and email, books and reschedules on your calendar, and hands over to a person.
 
 ## Optional
 
-- [About](https://pretendhome.github.io/about): Meet the Mission Canvas team and the operating, software and information-system experience behind our approach to custom workflows.
-- [Desktop tools: downloads from Mission Canvas](https://pretendhome.github.io/apps/): Explore the existing desktop tools for Mac, Windows and Linux. Custom workflow development, integrations and ongoing care are commissioned separately.
-- [Tools and installation notes](https://pretendhome.github.io/docs): Public developer tools and installation links, plus the operating notes and responsibilities to establish for your custom deployment.
-- [Press and media](https://pretendhome.github.io/press): Company information, a downloadable logo and the press contact for Mission Canvas, a custom software service with ongoing maintenance and improvement.
-- [Privacy and data handling](https://pretendhome.github.io/privacy): What happens to your information when you contact Mission Canvas, and how access to business files is agreed before connecting a custom workflow.
-- [What is Mission Canvas](https://pretendhome.github.io/what-is-mission-canvas): Customized Software as a Service: software for one recurring business workflow, built from reusable foundations and cared for after launch.
-- [Why Mission Canvas](https://pretendhome.github.io/why-mission-canvas): Why custom software needs ongoing care: connected tools change, workflows evolve, and someone needs to maintain and improve what your team relies on.
+- [About](https://missioncanvas.ai/about): The people behind Mission Canvas, and why we build software around how your business works, on your own computers.
+- [Download the apps](https://missioncanvas.ai/apps/): Download the desktop apps for your team, for Mac, Windows and Linux.
+- [Developer docs](https://missioncanvas.ai/docs): Where to find install instructions for the command line and the desktop apps.
+- [Press and media](https://missioncanvas.ai/press): Press releases, coverage, company facts and logos for Mission Canvas, plus who to contact for interviews.
+- [Privacy and data handling](https://missioncanvas.ai/privacy): What this website collects, why, where it is kept and who can see it, and how Mission Canvas handles your business files.
+- [What is Mission Canvas](https://missioncanvas.ai/what-is-mission-canvas): Software built around how your business already works, running on your own computers, and handed over to you.
+- [Why Mission Canvas](https://missioncanvas.ai/why-mission-canvas): Software built around how your business works, running on your own computers, licensed per company with no per-seat fees.

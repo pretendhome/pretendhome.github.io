@@ -62,11 +62,11 @@
 
   .footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border); color: var(--faint); font-size: 0.72rem; }
 </style>
-</head>
-<body>
+<style>body{overflow-wrap:anywhere}svg{max-width:100%;height:auto}table{display:block;max-width:100%;overflow-x:auto}nav a{color:inherit}*{box-sizing:border-box}</style></head>
+<body><nav aria-label="Portfolio navigation" style="padding:16px;display:flex;gap:24px;flex-wrap:wrap"><a href="/portfolio/" style="color:inherit">← Work samples</a><a href="/audit" style="color:inherit">Discuss a workflow</a></nav>
 
 <h1>Voice Agent Design — Finding the Brand's Tessitura</h1>
-<p class="subtitle">ACME × Mother's Day Gift Rescue · Case Study Demo</p>
+<p class="subtitle">Fictional brand · Mother’s Day Gift Rescue · Recorded design study</p>
 
 <div class="thesis">
   <strong>Core thesis:</strong> In vocal performance, <em>tessitura</em> is the range where a voice sounds most natural — narrower than the full range. Every brand has a tessitura too. This case study finds ACME's: a 5-state pacing model where each conversational state sits at a measured point within the brand's emotional range (0.83–1.30 speedAlpha). The improvement comes from constraining to tessitura, not from a different voice.
@@ -132,7 +132,7 @@
 
 <!-- Metrics comparison -->
 <div class="metrics">
-  <h2>Prosodic Measurements</h2>
+  <h2>Recorded study notes</h2><p>Values reported for these recordings. They are not a customer-outcome benchmark.</p>
   <table>
     <thead>
       <tr><th>Metric</th><th>Baseline</th><th>Designed</th><th>Target</th><th>Verdict</th></tr>
@@ -140,7 +140,6 @@
     <tbody>
       <tr><td>Opening pace</td><td class="num">3.5 WPS</td><td class="num">3.4 WPS</td><td class="num">3.2–3.8</td><td class="good">✓ In range</td></tr>
       <tr><td>Empathy pace</td><td class="num">3.4 WPS</td><td class="num">2.9 WPS</td><td class="num">Distinctly slower than other states</td><td class="good">✓ Slowest non-confirmation state</td></tr>
-      <tr><td>Empathy vs non-empathy avg</td><td class="num bad">−3.0%</td><td class="num good">+16%</td><td class="num">≥15%</td><td class="good">✓ 2.9 vs 3.5 avg (+19pp swing)</td></tr>
       <tr><td>Empathy pre-pause</td><td class="num">~0ms</td><td class="num">500ms</td><td class="num">250–450ms</td><td class="neutral">Observed — intentionally stronger</td></tr>
       <tr><td>Options structure</td><td class="num">Stacked in one sentence</td><td class="num">Separated into two options</td><td class="num">One option per sentence</td><td class="good">✓ Easier to follow</td></tr>
       <tr><td>Boundary contrast</td><td class="num faint">—</td><td class="num">3.3 WPS</td><td class="num">Distinct from empathy</td><td class="good">✓ +0.4 WPS above empathy</td></tr>
@@ -151,29 +150,23 @@
 </div>
 
 <div class="finding">
-  <h3>Key Finding: TTS Models Don't Know Their Tessitura</h3>
-  <p>TTS models know their range — every speed they can produce. They don't know their tessitura.
-  Rime's speed parameter gives <strong>directional</strong> control over pacing but not precise per-state control.
-  The TTS engine's internal prosody model partially overrides speed hints non-deterministically.
-  True tessitura-aware pacing requires SSML-level control (pause tags, emphasis markers, rate-per-phrase)
-  or a model that accepts emotional state as an input parameter — not just a global speed knob.
-  This finding applies to any TTS provider using speed-only controls.</p>
+  <h3>Design question: pacing by conversational state</h3>
+  <p>This study varies pacing by conversational state: acknowledgment, options, boundary, confirmation and close. A global speed setting does not describe all of those choices. Listen for the pauses and the separation of critical details. Other voices and controls need their own evaluation.</p>
 </div>
 
 <div class="finding">
-  <h3>What This Proves</h3>
-  <p>Even with limited TTS control, the design intervention produces measurable improvement.
-  The empathy delta swung +19 percentage points (from −3% to +16%).
+  <h3>What This Comparison Shows</h3>
+  <p>The displayed measurements describe these recordings; they do not measure customer trust or business outcomes.
   The boundary state creates a distinct register for honesty moments.
   Critical details are isolated instead of buried in one dense confirmation sentence.
-  With SSML or state-aware TTS, these improvements would be larger and more reliable.
-  <strong>The improvement comes from design, not from a different voice.</strong></p>
+  Whether finer controls improve consistency needs a separate test.
+  <strong>The comparison holds the voice constant and changes the pacing design.</strong></p>
 </div>
 
 <!-- Brand Tessitura Comparison -->
 <div class="metrics" style="margin-top: 2.5rem;">
   <h2>Brand Tessitura Comparison</h2>
-  <p style="color: var(--dim); font-size: 0.82rem; margin-bottom: 1.2rem;">Same methodology, different tessitura. Change the brand, change the range.</p>
+  <p style="color: var(--dim); font-size: 0.82rem; margin-bottom: 1.2rem;">Illustrative brand profiles. Only the fictional support-brand comparison has recordings here.</p>
   <svg viewBox="0 0 700 190" xmlns="http://www.w3.org/2000/svg" style="width: 100%; max-width: 700px; background: var(--surface); border-radius: 8px; border: 1px solid var(--border); padding: 0;">
     <!-- Scale: 0.60 to 1.55, width 700, left pad 160, right pad 30 -->
     <!-- usable width: 700 - 160 - 30 = 510 -->
@@ -230,13 +223,13 @@
     <line x1="374.7" y1="35" x2="374.7" y2="65" stroke="#a5b4fc" stroke-width="2" stroke-dasharray="3,2"/>
     <text x="374.7" y="30" font-family="'JetBrains Mono', monospace" font-size="9" fill="#a5b4fc" text-anchor="middle">1.00</text>
     <!-- Proven label -->
-    <text x="410" y="55" font-family="Inter, sans-serif" font-size="9" fill="#a5b4fc" font-weight="600">PROVEN</text>
+    <text x="410" y="55" font-family="Inter, sans-serif" font-size="9" fill="#a5b4fc" font-weight="600">RECORDED</text>
 
-    <!-- Row 2: Discord (0.70–0.95), center ~0.82, y=85 -->
+    <!-- Row 2: Playful brand (0.70–0.95), center ~0.82, y=85 -->
     <!-- x(0.70) = 160 + 0.10*536.84 = 213.7 -->
     <!-- x(0.95) = 160 + 0.35*536.84 = 347.9 -->
     <!-- width = 347.9 - 213.7 = 134.2 -->
-    <text x="10" y="102" font-family="Inter, sans-serif" font-size="12" fill="#e8eaf0" font-weight="600">Discord</text>
+    <text x="10" y="102" font-family="Inter, sans-serif" font-size="12" fill="#e8eaf0" font-weight="600">Playful brand</text>
     <text x="10" y="116" font-family="Inter, sans-serif" font-size="9" fill="#9ca3b8">playful-fast</text>
     <rect x="213.7" y="85" width="134.2" height="30" rx="4" fill="none" stroke="#22c55e" stroke-width="2" stroke-dasharray="6,3"/>
     <!-- Center marker at 0.82: x(0.82) = 160 + 0.22*536.84 = 278.1 -->
@@ -245,11 +238,11 @@
     <!-- Designed label -->
     <text x="310" y="105" font-family="Inter, sans-serif" font-size="9" fill="#86efac" font-weight="600">DESIGNED</text>
 
-    <!-- Row 3: Ritz-Carlton (0.95–1.45), center ~1.20, y=135 -->
+    <!-- Row 3: Luxury brand (0.95–1.45), center ~1.20, y=135 -->
     <!-- x(0.95) = 347.9 -->
     <!-- x(1.45) = 160 + 0.85*536.84 = 616.3 -->
     <!-- width = 616.3 - 347.9 = 268.4 -->
-    <text x="10" y="152" font-family="Inter, sans-serif" font-size="12" fill="#e8eaf0" font-weight="600">Ritz-Carlton</text>
+    <text x="10" y="152" font-family="Inter, sans-serif" font-size="12" fill="#e8eaf0" font-weight="600">Luxury brand</text>
     <text x="10" y="166" font-family="Inter, sans-serif" font-size="9" fill="#9ca3b8">luxury-deliberate</text>
     <rect x="347.9" y="135" width="268.4" height="30" rx="4" fill="none" stroke="#f59e0b" stroke-width="2" stroke-dasharray="6,3"/>
     <!-- Center marker at 1.20: x(1.20) = 160 + 0.60*536.84 = 482.1 -->
@@ -258,10 +251,10 @@
     <!-- Designed label -->
     <text x="515" y="155" font-family="Inter, sans-serif" font-size="9" fill="#fcd34d" font-weight="600">DESIGNED</text>
   </svg>
-  <p style="color: var(--faint); font-size: 0.75rem; margin-top: 0.6rem; font-style: italic;">Solid = proven (voiced and measured). Dashed = designed (tessitura mapped, not yet voiced). Same methodology, different tessitura. Change the brand, change the range.</p>
+  <p style="color: var(--faint); font-size: 0.75rem; margin-top: 0.6rem; font-style: italic;">Solid = recorded (voiced; measurements shown). Dashed = designed (tessitura mapped, not yet voiced). Illustrative brand profiles. Only the fictional support-brand comparison has recordings here.</p>
 </div>
 
-<p class="footer">Built by Mission Canvas · Voice: Rime Luna (Arcana) · Scenario: ACME Mother's Day Gift Rescue · 5-State Tessitura-Based Pacing · May 2026</p>
+<p class="footer">Built by Mission Canvas · Synthetic voice recordings · Scenario: ACME Mother's Day Gift Rescue · 5-State Tessitura-Based Pacing · May 2026</p>
 
 <script>
 const players = {};
