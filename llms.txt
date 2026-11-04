@@ -30,7 +30,7 @@ Mission Canvas builds private AI software for small and mid-sized businesses. Ea
 - [About](https://missioncanvas.ai/about): The people behind Mission Canvas, and why we build software around how your business works, on your own computers.
 - [Download the apps](https://missioncanvas.ai/apps/): Download the desktop apps for your team, for Mac, Windows and Linux.
 - [Developer docs](https://missioncanvas.ai/docs): Where to find install instructions for the command line and the desktop apps.
-- [Join as a partner](https://missioncanvas.ai/partners): Help the small businesses you already serve put useful software to work. Explore the proposed Mission Canvas partner program.
+- [Join as a partner](https://missioncanvas.ai/partners): Help the small businesses you already serve put useful software to work. Explore the Mission Canvas partner roles and delivery responsibilities.
 - [Press and media](https://missioncanvas.ai/press): Press releases, coverage, company facts and logos for Mission Canvas, plus who to contact for interviews.
 - [Privacy and data handling](https://missioncanvas.ai/privacy): What this website collects, why, where it is kept and who can see it, and how Mission Canvas handles your business files.
 - [What is Mission Canvas](https://missioncanvas.ai/what-is-mission-canvas): Software built around how your business already works, running on your own computers, and handed over to you.

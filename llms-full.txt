@@ -917,21 +917,22 @@ Help them do better work.
 For independent people who sell and install software for small businesses they already serve.
 We’re building the Certified Solutions Partner program. Bring your knowledge of the customer. We bring the software and agree the work together.
 Start a partner conversation
-Program in development · terms to be confirmed Start with the work your customer already needs to do.
+Partner program · delivery resources being built Start with the work your customer already needs to do.
 
 ## Already the person they call?
-The starting point is a business relationship you already have. These are some of the trades we’re designing the program around.
-- Bookkeepers and accounting practices
-- IT consultants and small MSPs
-- Web designers and automation specialists
+The starting point is a business relationship you already have. These are the trades we’re designing the program around.
+- Bookkeepers and small accounting practices
+- One-person IT shops, break/fix and small MSPs
+- Web designers and small agencies
+- Shopify, WordPress and automation freelancers
+- Security camera and alarm installers
+- AV, cabling and business phone contractors
 - Point-of-sale dealers
-- Security, AV and business-phone installers
-- Computer repair and office-equipment businesses
-For repair shops and installers, the fit is your business customers and the workflows you help them run.
+The fit is your business customers and the workflows you help them run.
 What you sell
 
 ## One workflow. A useful tool. A clear handover.
-Mission Canvas is a services company. We start with an audit, then adapt a canvas—an application built around one business workflow—to run on the customer’s computers.
+Mission Canvas is a services company. We start with an audit, then adapt a canvas—an application built around one business workflow—to run on the customer’s own computers. One total price is quoted after the audit, with an 18-month guarantee on what we built.
 
 ### Understand the job
 Find the repeated work, the records it uses and the result someone needs. The audit
@@ -940,26 +941,32 @@ Find the repeated work, the records it uses and the result someone needs. The au
 Our lab builds the reusable pieces. We agree the canvas and changes the workflow needs. The application
 
 ### Put it to work
-The planned partner delivery uses our CLI installation tool, followed by checks and handover. The customer’s computers
+Install with our CLI—the command-line installation tool—then check the workflow and hand it over. The customer’s computers
 The partner installation kit and certification path are being prepared. Delivery scope and readiness are confirmed before each engagement. Explore application examples →
 How you earn
 
 ## Payment follows the work you contribute.
-The proposed program has three milestones. The rate, what it applies to and when payment is due will be agreed in writing.
-Proposed partner milestones
-Your contribution What marks the milestone Compensation
-Make the introduction Introduce a customer with a real workflow problem. We agree the fit and the next step toward an audit. An accepted introduction that reaches a paid audit. To be confirmed
-Help deliver the audit Run or co-run the agreed discovery work. Make the inputs, handoffs and checks clear. The agreed audit work is delivered and accepted. To be confirmed
-Install and hand over Install the agreed canvas, check the workflow and leave the customer able to use it. Installation and handover are accepted. To be confirmed
-No fee to join. No commission on recruiting partners or on another partner’s sales.
-Any share of ongoing run fees is also to be confirmed. No earnings or customer introductions are guaranteed.
+Five rings recognize the work you take responsibility for. Each share applies to the total canvas price, with responsibilities recorded in the written agreement.
+Partner rings · cumulative shares
+Ring What you do Share of the canvas price How you qualify
+Ring 1 Referral Partner Introduce a customer who reaches an audit. 3% No prior delivery required. No fee to join.
+Ring 2 Solutions Advisor Run or co-run the audit and write the scope. 8% One audit done with us.
+Ring 3 Certified Solutions Partner Sell, audit, install a standard canvas with the CLI and hand it over. 30% One install under our review.
+Ring 4 Forward Deployed Partner Do everything above and build the custom part in tandem with the lab. 50%
+Includes the guarantee reserve described below. Two custom builds accepted by the lab.
+Ring 5 Implementation Lead Recruit, train and QA-sign a team of partners while continuing to sell at your own ring. Your own ring on your own deals, plus 5%
+The 5% applies only to the team’s recorded sales that you trained the seller for and signed off. One level only. Ten installs of your own.
+The shares are cumulative: one person taking a deal from introduction through installation receives 30%, not 41%; if different people do the stages, the 30% splits into 3%, 5% and 22%.
+The customer pays one total price: 25% at signing, covering the audit fee and deposit together, and 75% on delivery and acceptance. Partners are paid their share as each payment clears, subject to the guarantee reserve below. We guarantee what we built for 18 months. No subscription.
+For a Forward Deployed Partner’s custom build, 5% of the canvas price is held within the 50% share as a guarantee reserve. It is released at month 18, less any fixes paid from it, under the written agreement.
+No fee to join. No payment for recruiting.
 What we provide
 
 ## A way to learn, demonstrate and deliver.
 These are the planned program resources. We’ll confirm what is available when we agree your participation.
 
 ### Certification
-A practical path to the proposed Certified Solutions Partner role, based on delivery work.
+A practical path to the Certified Solutions Partner role, based on delivery work.
 
 ### CLI and install kit
 The command-line installation tool, instructions and handover checks for the agreed canvas.
@@ -975,7 +982,7 @@ Opportunities to learn, compare experience and meet the people building the soft
 What we ask
 
 ## Start with one real customer workflow.
-The proposed first step is to bring one workflow within your first sixty days in the program. Agree access with the customer before sharing their information.
+Start by bringing one workflow within your first sixty days in the program. Agree access with the customer before sharing their information.
 - Describe the work honestly. Report what happened, what passed and what still needs attention.
 - Use the claims we have cleared. Show what the software does. Ask before promising a capability, result or delivery date.
 - Make the handover usable. Agree who checks the result and who supports the customer afterward.
@@ -985,7 +992,7 @@ How to apply
 A short introduction is enough. Describe the businesses you serve and a recurring job you could help improve.
 Keep customer names, confidential documents, credentials and personal records out of this first message.
 You can also write directly to jason.covington@missioncanvas.ai.
-Your name Email Your trade Choose one Bookkeepers and accounting practices IT consultants and small MSPs Web designers and automation specialists Point-of-sale dealers Security, AV and business-phone installers Computer repair and office-equipment businesses Another trade serving small businesses What kinds of businesses do you serve? One workflow you could help improve Prepare partner email
+Your name Email Your trade Choose one Bookkeepers and small accounting practices One-person IT shops, break/fix and small MSPs Web designers and small agencies Shopify, WordPress and automation freelancers Security camera and alarm installers AV, cabling and business phone contractors Point-of-sale dealers Another trade serving small businesses What kinds of businesses do you serve? One workflow you could help improve Prepare partner email
 This opens a draft in your email app. Review and send it yourself. Nothing is sent or booked by this website. How we handle your data.
 Your application email is prepared, not sent. Send it yourself after reviewing it.
 If no email draft opened, copy the text below and send it to jason.covington@missioncanvas.ai. Prepared application
@@ -995,11 +1002,13 @@ A few questions
 Do I need to be a software developer?
 You need to understand the customer’s work and be able to learn the installation and handover process. We will agree what you can deliver and where you need support before a customer engagement. Can I start by making an introduction?
 Yes. Tell us about the kind of customer you serve and one recurring workflow. Any referral payment will depend on the written terms agreed before the work. What does Certified Solutions Partner mean?
-It is the proposed name for an individual who meets our partner delivery standard. The certification requirements are being developed. It is not a security certification or an employment offer. Is Palette what I would sell?
-Palette is our free local app. Mission Canvas is the services company. The partner offer is a scoped audit and a canvas adapted to a business workflow, with installation and handover. Are the commission rates and benefits final?
-No. The program is being developed. Rates, payment bases, support duties and available benefits will be set out in a written agreement before you begin. Does applying send my information or book a call?
+It is the delivery role for someone who sells, audits, installs a standard canvas and hands it over. Qualification requires one install under our review. The certification resources are being built. This is not a security certification or an employment offer. Is Palette what I would sell?
+Palette is our free local app. Mission Canvas is the services company. The partner offer is a scoped audit and a canvas adapted to a business workflow, with installation and handover. Are the shares added together?
+No. The rings are cumulative. The share for your contribution includes the lower stages; it is not added on top of them. The written agreement records who does each stage and how the share is split. Is there a subscription or a joining fee?
+No. The customer pays one total price for a canvas, with an 18-month guarantee on what we built. There is no fee to join and no payment for recruiting. Are all the partner resources available today?
+Certification resources, the CLI and install kit, demo material, a listing and event invitations are being built. We confirm what is available and record responsibilities in the written agreement before work begins. Does applying send my information or book a call?
 The form prepares an email draft on your device. You review it and send it yourself. Nothing is submitted or booked by this website.
-The proposed role is an independent contractor relationship, not employment. No exclusivity is proposed. Participation, responsibilities and compensation are subject to a written agreement.
+Partners are independent contractors, not employees. The relationship is non-exclusive. Participation, responsibilities and compensation are set out in a written agreement. No fee to join. No payment for recruiting.
 
 ---
 
