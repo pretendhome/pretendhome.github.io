@@ -5,26 +5,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   <title>Voice Evaluation Workbench</title>
+<link rel="icon" href="/favicon.svg" />
+  <link rel="stylesheet" href="../assets/sample.css" />
   <style>
+    /* Daybreak: the page's own variable names, mapped onto the site's tokens (../assets/sample.css). */
     :root {
-      --bg: #0c0f1a;
-      --surface: #141825;
-      --surface-2: #1a1f30;
-      --border: rgba(255,255,255,0.08);
-      --text: #e8ecf4;
-      --text-dim: #7a8194;
-      --text-faint: #4a5068;
-      --accent: #4cc2ff;
-      --accent-dim: rgba(76,194,255,0.12);
-      --green: #7ef0a3;
-      --green-dim: rgba(126,240,163,0.12);
-      --orange: #f0a060;
-      --orange-dim: rgba(240,160,96,0.12);
-      --red: #f08080;
-      --font: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      --mono: 'JetBrains Mono', 'SF Mono', monospace;
-      --radius: 12px;
-      --radius-sm: 8px;
+      --bg: var(--db-ground);
+      --surface: var(--db-white);
+      --surface-2: #f1eadd;
+      --border: var(--db-line);
+      --text: var(--db-soil);
+      --text-dim: var(--db-text2);
+      --text-faint: var(--db-muted);
+      --accent: var(--db-pine);
+      --accent-dim: var(--db-pine-soft);
+      --green: var(--db-pine);
+      --green-dim: var(--db-pine-soft);
+      --orange: var(--db-gold);
+      --orange-dim: var(--db-gold-soft);
+      --red: var(--db-clay);
+      --font: var(--db-body);
+      --mono: var(--db-mono);
+      --radius: 22px;
+      --radius-sm: 12px;
     }
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
@@ -32,29 +35,35 @@
       background: var(--bg);
       color: var(--text);
       min-height: 100vh;
+      line-height: 1.5;
     }
 
     /* Layout */
     .app {
-      max-width: 1400px;
+      max-width: 1120px;
       margin: 0 auto;
-      padding: 24px;
+      padding: 72px 32px 96px;
     }
-    header {
+    .app > header {
       display: flex;
       justify-content: space-between;
       align-items: flex-start;
-      margin-bottom: 32px;
+      gap: 24px;
+      margin-bottom: 40px;
     }
-    header h1 {
-      font-size: 22px;
-      font-weight: 700;
-      letter-spacing: -0.03em;
+    .app > header h1 {
+      font-family: var(--db-display);
+      font-size: clamp(2.2rem, 5vw, 3.6rem);
+      font-weight: 600;
+      letter-spacing: -0.035em;
+      line-height: 1.04;
+      margin-top: 14px;
     }
-    header p {
+    .app > header p:not(.mc-k) {
       color: var(--text-dim);
-      font-size: 14px;
-      margin-top: 4px;
+      font-size: 1.15rem;
+      margin-top: 18px;
+      max-width: 44ch;
     }
     .badge {
       padding: 4px 10px;
@@ -69,16 +78,19 @@
     /* Setup panel */
     .setup {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      /* Three choices share the width; the buttons' column hugs its labels. */
+      grid-template-columns: repeat(3, minmax(0, 1fr)) auto;
       gap: 12px;
       margin-bottom: 24px;
-      padding: 20px;
+      padding: 24px;
       background: var(--surface);
       border-radius: var(--radius);
       border: 1px solid var(--border);
+      box-shadow: var(--db-shadow);
     }
     .field label {
       display: block;
+      font-family: var(--mono);
       font-size: 11px;
       text-transform: uppercase;
       letter-spacing: 0.1em;
@@ -91,8 +103,8 @@
       color: var(--text);
       border: 1px solid var(--border);
       border-radius: var(--radius-sm);
-      padding: 8px 10px;
-      font-size: 13px;
+      padding: 10px 12px;
+      font-size: 14px;
       font-family: var(--font);
     }
     .field textarea {
@@ -108,6 +120,11 @@
       gap: 8px;
       align-items: end;
     }
+    .btn-row button {
+      height: 42px;
+      padding: 0 18px;
+      white-space: nowrap;
+    }
     button {
       font-family: var(--font);
       cursor: pointer;
@@ -120,12 +137,13 @@
       color: var(--text);
       transition: all 0.15s;
     }
-    button:hover { background: rgba(255,255,255,0.06); border-color: rgba(255,255,255,0.15); }
+    button:hover { background: var(--db-sand); border-color: var(--db-cta); }
     button.primary {
-      background: linear-gradient(135deg, rgba(76,194,255,0.2), rgba(126,240,163,0.15));
-      border-color: rgba(76,194,255,0.4);
+      background: var(--db-cta);
+      border-color: var(--db-cta);
+      color: #fff;
     }
-    button.primary:hover { border-color: var(--accent); }
+    button.primary:hover { background: var(--db-cta-hover); border-color: var(--db-cta-hover); }
     button:disabled { opacity: 0.4; cursor: not-allowed; }
 
     /* Locale watchout */
@@ -133,7 +151,7 @@
       padding: 12px 16px;
       margin-bottom: 20px;
       background: var(--orange-dim);
-      border: 1px solid rgba(240,160,96,0.2);
+      border: 1px solid #e8d3a6;
       border-radius: var(--radius-sm);
       font-size: 13px;
       color: var(--orange);
@@ -145,7 +163,7 @@
     /* Voice cards grid */
     .voices {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
       gap: 16px;
       margin-bottom: 24px;
     }
@@ -153,11 +171,12 @@
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      padding: 20px;
+      padding: 24px;
+      box-shadow: var(--db-shadow);
       transition: border-color 0.2s;
     }
     .voice-card.selected { border-color: var(--accent); }
-    .voice-card.winner { border-color: var(--green); box-shadow: 0 0 20px rgba(126,240,163,0.08); }
+    .voice-card.winner { border-color: var(--green); box-shadow: var(--db-shadow-2); }
     .voice-header {
       display: flex;
       justify-content: space-between;
@@ -165,8 +184,10 @@
       margin-bottom: 12px;
     }
     .voice-name {
-      font-size: 16px;
-      font-weight: 700;
+      font-family: var(--db-display);
+      font-size: 18px;
+      font-weight: 600;
+      letter-spacing: -0.015em;
     }
     .voice-desc {
       font-size: 12px;
@@ -185,100 +206,114 @@
     .ttfa-badge.ok { color: var(--accent); background: var(--accent-dim); }
     .ttfa-badge.slow { color: var(--orange); background: var(--orange-dim); }
 
-    /* Audio controls */
+    /* Player, after Krea's recorder: an inset panel, an ink play button, the waveform (../assets/wave.js), mono time. */
     .audio-row {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 12px;
       margin-bottom: 16px;
+      padding: 10px 14px 10px 10px;
+      background: #f1eadd;
+      border-radius: 14px;
     }
     .play-btn {
-      width: 40px; height: 40px;
+      width: 34px; height: 34px;
       border-radius: 50%;
       display: flex;
       align-items: center;
       justify-content: center;
       padding: 0;
       flex-shrink: 0;
+      border: none;
+      background: var(--db-soil);
+      color: #fff;
     }
-    .play-btn.playing { background: var(--accent-dim); border-color: var(--accent); }
-    .audio-bar {
-      flex: 1;
-      height: 4px;
-      background: var(--surface-2);
-      border-radius: 2px;
-      position: relative;
-    }
-    .audio-progress {
-      height: 100%;
-      background: var(--accent);
-      border-radius: 2px;
-      width: 0%;
-      transition: width 0.1s linear;
-    }
+    .play-btn:hover { background: var(--db-soil); transform: scale(1.06); }
+    .play-btn .i-pause, .play-btn.playing .i-play { display: none; }
+    .play-btn.playing .i-pause { display: block; }
+    .wave { flex: 1; min-width: 0; height: 36px; cursor: pointer; touch-action: none; --wave-played: var(--db-soil); --wave-rest: #c4b9a6; border-radius: 6px; }
+    .wave canvas { display: block; }
     .audio-time {
       font-family: var(--mono);
       font-size: 11px;
       color: var(--text-dim);
-      min-width: 36px;
-      text-align: right;
+      white-space: nowrap;
     }
 
-    /* Scoring */
-    .scoring { margin-bottom: 12px; }
-    .score-row {
+    /* Scoring, after DialKit: each criterion is a row whose fill is the score. A real range input sits on top,
+       so dragging, clicking and the arrow keys all work; 0 means not scored yet. */
+    .scoring { display: grid; gap: 6px; margin-bottom: 14px; }
+    .dial {
+      position: relative;
+      height: 36px;
+      border-radius: 10px;
+      background: #efe8db;
+      overflow: hidden;
+    }
+    .dial__fill {
+      position: absolute;
+      inset: 0 auto 0 0;
+      width: 0;
+      background: #ddd3c1;
+      transition: width 0.18s cubic-bezier(0.2, 0.7, 0.2, 1);
+    }
+    .dial.is-set .dial__fill { background: var(--db-pine-soft); box-shadow: inset -2px 0 0 var(--db-pine); }
+    .dial__ticks { position: absolute; inset: 0; display: flex; pointer-events: none; }
+    .dial__ticks i { flex: 1; border-right: 1px solid rgba(60, 38, 18, 0.07); }
+    .dial__ticks i:last-child { border-right: 0; }
+    .dial__row {
+      position: absolute;
+      inset: 0;
       display: flex;
       align-items: center;
-      gap: 10px;
-      margin-bottom: 8px;
+      justify-content: space-between;
+      gap: 8px;
+      padding: 0 12px;
+      pointer-events: none;
+      font-size: 13px;
     }
-    .score-label {
-      font-size: 12px;
-      min-width: 90px;
-      color: var(--text-dim);
+    .dial__label { color: var(--text); font-weight: 500; }
+    .dial__weight { color: var(--text-faint); font-family: var(--mono); font-size: 10px; margin-left: 6px; }
+    .dial__value { font-family: var(--mono); font-size: 12px; color: var(--text-dim); }
+    .dial.is-set .dial__value { color: var(--text); }
+    .dial input {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      opacity: 0;
+      cursor: ew-resize;
     }
-    .score-dots {
-      display: flex;
-      gap: 4px;
-    }
-    .score-dot {
-      width: 28px; height: 28px;
-      border-radius: 50%;
-      border: 1px solid var(--border);
-      background: var(--surface-2);
-      font-size: 11px;
-      font-weight: 600;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      cursor: pointer;
-      transition: all 0.15s;
-      padding: 0;
-    }
-    .score-dot:hover { border-color: var(--accent); }
-    .score-dot.active { background: var(--accent); color: var(--bg); border-color: var(--accent); }
-    .score-weight {
-      font-size: 10px;
-      color: var(--text-faint);
-      font-family: var(--mono);
-    }
+    .dial:has(input:focus-visible) { outline: 3px solid var(--db-soil); outline-offset: 2px; }
+    .dial:hover .dial__fill { background: #d6cbb7; }
+    .dial.is-set:hover .dial__fill { background: #dfe1c8; }
+
     .voice-total {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding-top: 10px;
+      gap: 12px;
+      padding-top: 12px;
       border-top: 1px solid var(--border);
-      margin-top: 8px;
+      margin-top: 10px;
     }
+    .total-label { display: block; font-family: var(--mono); font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-faint); }
     .total-score {
-      font-size: 24px;
-      font-weight: 700;
-      font-family: var(--mono);
+      font-family: var(--db-display);
+      font-size: 28px;
+      font-weight: 600;
+      letter-spacing: -0.03em;
+      color: var(--db-pine);
+      line-height: 1.1;
     }
-    .ship-toggle { display: flex; gap: 6px; }
-    .ship-btn { font-size: 11px; padding: 4px 12px; }
-    .ship-btn.ship.active { background: var(--green-dim); color: var(--green); border-color: var(--green); }
-    .ship-btn.not-yet.active { background: rgba(240,128,128,0.12); color: var(--red); border-color: var(--red); }
+    /* Ship / Not yet, after DialKit's segmented toggle. */
+    .ship-toggle { display: inline-flex; padding: 3px; gap: 2px; border-radius: 12px; background: #efe8db; }
+    .ship-btn { font-size: 12px; padding: 7px 14px; border: 0; border-radius: 9px; background: transparent; color: var(--text-dim); }
+    .ship-btn:hover { background: rgba(255, 255, 255, 0.5); border: 0; }
+    .ship-btn[aria-pressed="true"] { background: var(--db-white); color: var(--text); box-shadow: 0 1px 3px rgba(60, 38, 18, 0.18); }
+    .ship-btn.ship[aria-pressed="true"] { color: var(--db-pine); }
+    .ship-btn.not-yet[aria-pressed="true"] { color: var(--db-ember); }
 
     /* Notes */
     .notes-field {
@@ -300,21 +335,27 @@
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      padding: 24px;
+      padding: 28px;
       margin-bottom: 24px;
+      box-shadow: var(--db-shadow);
       display: none;
     }
     .recommendation.visible { display: block; }
     .recommendation h2 {
-      font-size: 14px;
+      font-family: var(--mono);
+      font-weight: 500;
+      color: var(--db-clay) !important;
+      font-size: 12px;
       text-transform: uppercase;
       letter-spacing: 0.08em;
       color: var(--text-dim);
       margin-bottom: 12px;
     }
     .rec-winner {
-      font-size: 20px;
-      font-weight: 700;
+      font-family: var(--db-display);
+      font-size: 26px;
+      font-weight: 600;
+      letter-spacing: -0.025em;
       margin-bottom: 8px;
     }
     .rec-rationale {
@@ -374,16 +415,23 @@
     @media (max-width: 768px) {
       .voices { grid-template-columns: 1fr; }
       .setup { grid-template-columns: 1fr 1fr; }
+      .setup .btn-row { grid-column: 1 / -1; }
+      .app { padding: 48px 16px 72px; }
+      .app > header { flex-direction: column; }
     }
   </style>
 </head>
-<body><nav aria-label="Portfolio navigation" style="max-width:1200px;margin:auto;padding:20px;display:flex;gap:24px"><a href="/portfolio/" style="color:inherit">← Work samples</a><a href="/audit" style="color:inherit">Discuss a workflow</a></nav>
+<body>
+<header class="mc-bar"><div class="mc-bar__in">
+  <a class="mc-bar__brand" href="/"><img src="../assets/logo.svg" alt="Mission Canvas" /></a>
+  <nav class="mc-bar__nav" aria-label="Portfolio navigation"><a class="mc-bar__back" href="/portfolio/">&larr; Work samples</a><a class="mc-bar__back" href="/audit">Discuss a workflow</a></nav>
+</div></header>
 <div class="app">
   <header>
     <div>
+      <p class="mc-k">Voice design · Evaluation tool</p>
       <h1>Voice Evaluation Workbench</h1>
       <p>Compare preset recordings and record your judgment for each customer journey stage.</p>
-      <p style="color:var(--text-faint);font-size:12px;margin-top:2px">Built by Mission Canvas — Voice Agent Evaluation Framework</p>
     </div>
     <span class="badge offline" id="tts-status">Preset recordings</span>
   </header>
@@ -416,8 +464,8 @@
       </select>
     </div>
     <div class="field btn-row">
-      <button class="primary" id="generate-btn" onclick="generateComparison()">Load preset comparison</button>
-      <button onclick="resetAll()">Reset</button>
+      <button class="primary" id="generate-btn" onclick="generateComparison()">Hear the voices</button>
+      <button onclick="resetAll()">Start over</button>
     </div>
     <div class="field" style="grid-column: 1 / -1;">
       <label>Phrase <span style="color:var(--text-faint)">(default loaded per stage/language, or type custom)</span></label>
@@ -443,7 +491,9 @@
     </div>
   </div>
 </div>
+<footer class="mc-foot"><span>Built by Mission Canvas</span><span>Voice Agent Evaluation Framework</span></footer>
 
+<script src="../assets/wave.js"></script>
 <script>
 // ── Data ───────────────────────────────────────────────────────────────────
 
@@ -562,6 +612,7 @@ async function generateComparison() {
   const isCustom = phrase !== (PHRASES[stage]?.[lang] || '');
   const container = document.getElementById('voices');
   container.innerHTML = '';
+  for (const v of Object.values(state.voices)) if (v.player) v.player.pause();
   state.voices = {};
 
   for (const voice of getVoices()) {
@@ -613,6 +664,13 @@ async function loadAudio(voice, stage, lang, phrase, isCustom, card) {
     const ttfa = Math.round(performance.now() - t0);
     state.voices[voice.id].ttfa = ttfa;
     state.voices[voice.id].audio = blob ? URL.createObjectURL(blob) : null;
+    if (blob) {
+      const player = new Audio(state.voices[voice.id].audio);
+      state.voices[voice.id].player = player;
+      const sync = () => playBtn.classList.toggle('playing', !player.paused);
+      ['play', 'pause', 'ended'].forEach((e) => player.addEventListener(e, sync));
+      MCWave(card.querySelector('.wave'), state.voices[voice.id].audio, { audio: player, time: card.querySelector('.audio-time') });
+    }
 
     if (ttfa < 400) { ttfaBadge.className = 'ttfa-badge fast'; }
     else if (ttfa < 700) { ttfaBadge.className = 'ttfa-badge ok'; }
@@ -623,7 +681,6 @@ async function loadAudio(voice, stage, lang, phrase, isCustom, card) {
     playBtn.classList.remove('loading');
   } catch (e) {
     playBtn.classList.remove('loading');
-    playBtn.textContent = '\u2716';
     ttfaBadge.textContent = 'failed';
     ttfaBadge.className = 'ttfa-badge slow';
   }
@@ -643,20 +700,20 @@ function createVoiceCard(voice) {
     </div>
     <div class="voice-desc">${voice.desc}</div>
     <div class="audio-row">
-      <button class="play-btn" onclick="playVoice('${voice.id}')" disabled>
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"/></svg>
-      </button>
-      <div class="audio-bar"><div class="audio-progress" id="progress-${voice.id}"></div></div>
-      <span class="audio-time" id="time-${voice.id}">--</span>
+      <button class="play-btn" onclick="playVoice('${voice.id}')" aria-label="Play ${voice.name}" disabled><svg class="i-play" width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="M3 1.5v9l7.5-4.5z" fill="currentColor"/></svg><svg class="i-pause" width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="M3.5 2v8M8.5 2v8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>
+      <div class="wave" id="wave-${voice.id}" aria-label="Seek ${voice.name}"></div>
+      <span class="audio-time" id="time-${voice.id}">00:00 / 00:00</span>
     </div>
     <div class="scoring">
       ${RUBRIC.map(r => `
-        <div class="score-row">
-          <span class="score-label" title="${r.hint}">${r.label}</span>
-          <div class="score-dots">
-            ${[1,2,3,4,5].map(n => `<button class="score-dot" onclick="setScore('${voice.id}','${r.id}',${n})">${n}</button>`).join('')}
-          </div>
-          <span class="score-weight">${Math.round(r.weight*100)}%</span>
+        <div class="dial" id="dial-${voice.id}-${r.id}" title="${r.hint}">
+          <span class="dial__fill"></span>
+          <span class="dial__ticks" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span>
+          <span class="dial__row" aria-hidden="true">
+            <span><span class="dial__label">${r.label}</span><span class="dial__weight">${Math.round(r.weight*100)}%</span></span>
+            <span class="dial__value">–</span>
+          </span>
+          <input type="range" min="0" max="5" step="1" value="0" aria-label="${r.label}, weighted ${Math.round(r.weight*100)}%. ${r.hint}" aria-valuetext="Not scored" oninput="setScore('${voice.id}','${r.id}',+this.value)">
         </div>
       `).join('')}
     </div>
@@ -664,10 +721,10 @@ function createVoiceCard(voice) {
       ${ACOUSTIC_TAGS.map(t => `<span class="acoustic-tag" onclick="toggleAcoustic('${voice.id}','${t}',this)">${t}</span>`).join('')}
     </div>
     <div class="voice-total">
-      <span class="total-score" id="total-${voice.id}">--</span>
-      <div class="ship-toggle">
-        <button class="ship-btn ship" onclick="setShip('${voice.id}','ship',this)">Ship</button>
-        <button class="ship-btn not-yet" onclick="setShip('${voice.id}','not-yet',this)">Not yet</button>
+      <div><span class="total-label">Weighted score</span><span class="total-score" id="total-${voice.id}">–</span></div>
+      <div class="ship-toggle" role="group" aria-label="Verdict for ${voice.name}">
+        <button class="ship-btn ship" aria-pressed="false" onclick="setShip('${voice.id}','ship',this)">Ship</button>
+        <button class="ship-btn not-yet" aria-pressed="false" onclick="setShip('${voice.id}','not-yet',this)">Not yet</button>
       </div>
     </div>
     <textarea class="notes-field" placeholder="Evaluator notes..." oninput="state.voices['${voice.id}'].notes=this.value"></textarea>
@@ -677,52 +734,23 @@ function createVoiceCard(voice) {
 
 // ── Playback ───────────────────────────────────────────────────────────────
 
-let currentAudio = null;
-
 function playVoice(voiceId) {
-  if (currentAudio) { currentAudio.pause(); currentAudio = null; }
-
-  const url = state.voices[voiceId]?.audio;
-  if (!url) return;
-
-  const audio = new Audio(url);
-  currentAudio = audio;
-
-  const progress = document.getElementById(`progress-${voiceId}`);
-  const timeEl = document.getElementById(`time-${voiceId}`);
-  const btn = document.querySelector(`#card-${voiceId} .play-btn`);
-  btn.classList.add('playing');
-
-  audio.ontimeupdate = () => {
-    if (audio.duration) {
-      progress.style.width = `${(audio.currentTime / audio.duration) * 100}%`;
-      timeEl.textContent = `${audio.currentTime.toFixed(1)}s`;
-    }
-  };
-  audio.onended = () => {
-    btn.classList.remove('playing');
-    progress.style.width = '100%';
-    currentAudio = null;
-  };
-  audio.play();
+  const player = state.voices[voiceId]?.player;
+  if (!player) return;
+  for (const [id, v] of Object.entries(state.voices)) if (id !== voiceId && v.player && !v.player.paused) v.player.pause();
+  if (player.paused) player.play(); else player.pause();
 }
 
 // ── Scoring ────────────────────────────────────────────────────────────────
 
 function setScore(voiceId, dimension, value) {
-  state.voices[voiceId].scores[dimension] = value;
-  // Update dot visuals
-  const card = document.getElementById(`card-${voiceId}`);
-  const rows = card.querySelectorAll('.score-row');
-  rows.forEach(row => {
-    const label = row.querySelector('.score-label').textContent;
-    const rubricItem = RUBRIC.find(r => r.label === label);
-    if (rubricItem && rubricItem.id === dimension) {
-      row.querySelectorAll('.score-dot').forEach((dot, i) => {
-        dot.classList.toggle('active', i < value);
-      });
-    }
-  });
+  if (value) state.voices[voiceId].scores[dimension] = value;
+  else delete state.voices[voiceId].scores[dimension];
+  const dial = document.getElementById(`dial-${voiceId}-${dimension}`);
+  dial.classList.toggle('is-set', value > 0);
+  dial.querySelector('.dial__fill').style.width = `${(value / 5) * 100}%`;
+  dial.querySelector('.dial__value').textContent = value ? `${value} / 5` : '\u2013';
+  dial.querySelector('input').setAttribute('aria-valuetext', value ? `${value} of 5` : 'Not scored');
   updateTotal(voiceId);
   updateRecommendation();
 }
@@ -736,14 +764,13 @@ function updateTotal(voiceId) {
     else { hasAll = false; }
   }
   const el = document.getElementById(`total-${voiceId}`);
-  el.textContent = hasAll ? total.toFixed(2) : '--';
+  el.textContent = hasAll ? total.toFixed(2) : '\u2013';
 }
 
 function setShip(voiceId, value, btn) {
   state.voices[voiceId].ship = value;
   const card = document.getElementById(`card-${voiceId}`);
-  card.querySelectorAll('.ship-btn').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
+  card.querySelectorAll('.ship-btn').forEach(b => b.setAttribute('aria-pressed', String(b === btn)));
   updateRecommendation();
 }
 
@@ -861,7 +888,7 @@ function copyScorecard() {
 // ── Reset ──────────────────────────────────────────────────────────────────
 
 function resetAll() {
-  if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+  for (const v of Object.values(state.voices)) if (v.player) v.player.pause();
   state.voices = {};
   document.getElementById('voices').innerHTML = '';
   document.getElementById('recommendation').classList.remove('visible');
