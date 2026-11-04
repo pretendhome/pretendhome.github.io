@@ -23,8 +23,42 @@ Owners and operations leads who are tired of typing the same thing into three sy
 - CV-08 Everything else If the work runs on documents, records and rules, we can build for it. ›
 Each industry page lists what it handles today. New features are agreed in the audit and built for you, so the
 list is a floor, not a ceiling.
-A screen from the education app Education Capture an observation Version 0.2.106
-Education · Capture an observation Dictate or type. The fields are suggested, then set by the teacher, and saved on this machine.
+See the work on screen Logistics Today, at a glance Edited demo · sample orders Front desk Calls and handovers Edited demo · Italian interface Education Capture an observation App screenshot · version 0.2.106 Construction Build an estimate from assemblies Partner-developed · staging demo Events From sale to the gate Workflow schematic · illustrative Palette Start with your own work App screenshot · starting screen
+Logistics · Today, at a glance Morning summary, order counts and bottlenecks in one view. Based on the supplied dashboard image; branding edited for this demonstration. Explore Logistics →
+Front desk · Calls and handovers Agent status, pending rule changes and transfers to a person. Identifying details edited; displayed figures illustrate the interface, not verified customer results. Explore Front desk →
+Education · Capture an observation Dictate or type an observation. The teacher reviews the suggested fields before saving. Explore Education →
+Construction · Build an estimate from assemblies Reusable assemblies put materials and unit costs in one place. Edited staging screen from the construction walkthrough; branding and account details removed. Availability is scoped separately. Explore Construction →
+Events · From sale to the gate
+- 01 Configure
+- Tenant
+- Event or venue
+- Checkout
+- Offers
+- Forms
+- Ticket types
+- 02 Sell
+- Storefront · Back office · POS
+- Server-side quote
+- Order · pending
+- Payment
+- Order · processed
+- 03 Fulfil
+- Tickets + QR
+- Email + PDF
+- Contacts · attendees
+- Notifications
+- Statistics
+- 04 Access
+- Checkpoint scan
+- Rule validation
+- Approved / denied + reason
+- Live occupancy
+- 05 Report
+- Gross · tax · fee · net
+- Reconciliation
+- CSV export
+- Audit log Interface schematic · illustrative data Follow a ticket through configuration, payment, fulfilment, admission and reporting. This is a workflow schematic, not a product screenshot. Explore Events →
+Palette · Start with your own work Start a brief or reply, or choose a folder before working with documents. This screenshot shows the starting screen from an earlier build. Explore Palette →
 For your business
 
 ## Software built around how you already work.
@@ -282,7 +316,10 @@ Who checks maintenance dates, assignments and fuel records?
 
 ### Office paperwork
 Which invoice, reimbursement or report gets entered more than once?
-Runs every day at an Italian construction firm that pays for it and whose own work it was built around.
+Partner-developed · staging demonstration
+
+## Start an estimate with reusable assemblies.
+A screen from the construction walkthrough: components, units and costs in one table. This edited staging example shows the workflow; availability and delivery are agreed separately. Branding and account details removed for demonstration. Staging data is illustrative.
 
 ## One scoped job, from audit to handover.
 What working with us looks like, so you know how much disruption to expect.
@@ -521,6 +558,10 @@ Worked out overnight: what stalled, what is at risk, and where the bottleneck is
 
 ### Customer updates
 Drafted from the record. A person approves each one before it goes.
+
+## See it on a real day.
+Demonstration based on the supplied logistics dashboard, with branding edited. Sample orders.
+Logistics · Today, at a glance ↑ The morning summary, order counts and bottlenecks in one view.
 Built around your workflow · Scope and delivery agreed before work begins
 Everything it already does: 8 modules, 35 features
 - M-01 Today The control tower, computed overnight.
@@ -612,6 +653,10 @@ A person is always one transfer away, with the conversation so far.
 
 ### The call record
 Summary, audio and transcript kept for every conversation.
+
+## See it on a real day.
+Edited demonstration of the Italian interface. Identifying details removed; figures are not verified customer results.
+Voice & Front Desk · Calls and handovers ↑ Agent status, rule changes and transfers to a person, together on the home screen.
 Built around your workflow · Scope and delivery agreed before work begins
 Everything it already does: 9 modules, 38 features
 - M-01 Channels One agent, reachable the way people already reach you.
@@ -739,18 +784,15 @@ You get Your application, set up
 ### Operate
 The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team.
 You get Running in your business
-Start with one workflow
+See the workflow
 
-## A useful result has a clear check.
-
-### Name the job
-Choose one recurring task. Identify the files it starts with and the result someone needs to use.
-
-### Make the check explicit
-Agree what counts as a correct result, who can see it and what a person must review.
-
-### Hand over something usable
-Walk the team through the workflow, its limits and what to do when a check fails. See our work samples →
+## Three views of everyday work.
+Examples from logistics, front-desk operations and construction. These edited demonstrations show the interfaces; they are not customer testimonials or a promise that every feature is included in a delivery.
+01 See what needs attention The logistics dashboard brings the morning summary and order counts into one view. 02 Keep a person in the loop The front-desk interface shows pending rule changes and transfers to a person. Displayed figures are illustrative. 03 Reuse the work you have done The construction staging example shows reusable assemblies for estimates, with units and costs together.
+See what needs attention
+Keep a person in the loop
+Reuse the work you have done
+Identifying details edited. Construction is a partner-developed staging example. Explore all six examples →
 
 ## Your company already has the knowledge. Let's put it to work.
 Building the tool is a separate job, quoted before you commit. Book an audit
