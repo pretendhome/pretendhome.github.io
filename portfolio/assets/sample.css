@@ -1,0 +1,34 @@
+/* Daybreak for the interactive work samples (voice demo, voice workbench, MCP lab): fonts, tokens, the top bar and
+   the footer. Each sample keeps its own component CSS and maps its variables onto these tokens. daybreak.css is the
+   long-form pages' sheet; its element rules (section, table, h1) would fight these pages' markup, so it is not reused. */
+@font-face{font-family:'Bricolage';src:url(bricolage-grotesque-latin-wght-normal.woff2) format('woff2');font-weight:200 800;font-display:swap}
+@font-face{font-family:'Geist';src:url(geist-latin-wght-normal.woff2) format('woff2');font-weight:100 900;font-display:swap}
+@font-face{font-family:'Geist Mono';src:url(geist-mono-latin-wght-normal.woff2) format('woff2');font-weight:100 900;font-display:swap}
+:root{--db-ground:#f5efe4;--db-sand:#e3e4d0;--db-white:#fcf9f3;--db-line:#e4dac8;--db-soil:#1b1712;--db-text2:#564c42;--db-muted:#6f6457;
+  --db-pine:#4f5433;--db-ember:#733525;--db-clay:#b4583a;--db-gold:#8a6420;--db-apricot:#f5e0a8;--db-pine-soft:#e8e9d6;--db-clay-soft:#f3dfd3;--db-gold-soft:#f6ead0;
+  --db-cta:rgb(98,101,78);--db-cta-hover:rgb(78,81,60);
+  --db-display:'Bricolage',system-ui,sans-serif;--db-body:'Geist',system-ui,sans-serif;--db-mono:'Geist Mono',ui-monospace,monospace;
+  --db-shadow:0 6px 18px rgba(60,38,18,.08);--db-shadow-2:0 20px 40px -20px rgba(60,38,18,.45)}
+html{-webkit-text-size-adjust:100%}
+body{-webkit-font-smoothing:antialiased}
+::selection{background:var(--db-pine);color:#fff}
+:focus-visible{outline:3px solid var(--db-soil);outline-offset:3px}
+
+.mc-bar{position:sticky;top:0;z-index:200;background:rgba(245,239,228,.92);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--db-line)}
+.mc-bar__in{max-width:1120px;margin:0 auto;padding:0 32px;height:60px;display:flex;align-items:center;justify-content:space-between;gap:16px}
+.mc-bar__brand{display:flex;align-items:center}
+.mc-bar__brand img{height:30px;width:auto;display:block}
+.mc-bar__back{font-family:var(--db-body);font-size:.88rem;font-weight:500;color:var(--db-text2);text-decoration:none;white-space:nowrap}
+.mc-bar__back:hover{color:var(--db-clay)}
+.mc-bar__nav{display:flex;gap:22px;align-items:center}
+
+.mc-k{font-family:var(--db-mono);font-size:.74rem;letter-spacing:.14em;text-transform:uppercase;color:var(--db-clay)}
+
+.mc-foot{max-width:1120px;margin:0 auto;padding:36px 32px 48px;font-family:var(--db-mono);font-size:.74rem;letter-spacing:.04em;color:var(--db-muted);display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;border-top:1px solid var(--db-line)}
+.mc-foot a{color:var(--db-muted)}
+
+@media (max-width:620px){.mc-bar__in,.mc-foot{padding-left:16px;padding-right:16px}}
+
+/* Keep the shared navigation and canvas players inside narrow viewports. */
+.wave{min-width:0}.wave canvas{max-width:100%}
+@media(max-width:620px){.mc-bar__in{height:auto;min-height:60px;flex-wrap:wrap;padding-top:12px;padding-bottom:12px}.mc-bar__nav{flex-wrap:wrap;gap:10px 16px}.mc-bar__back{font-size:.8rem}}

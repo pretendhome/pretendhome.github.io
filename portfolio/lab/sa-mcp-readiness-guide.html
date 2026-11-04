@@ -6,51 +6,56 @@
   
   <title>SA Readiness Guide — MCP Integrations</title>
   <meta name="description" content="MCP integrations for enterprise AI: what it is, what breaks, how to demo it, how to handle the security conversation. One-page SA readiness artifact." />
+  <link rel="icon" href="/favicon.svg" />
+  <link rel="stylesheet" href="../assets/sample.css" />
   <style>
-    @font-face{font-family:'Inter';src:url('/portfolio/assets/geist-latin-wght-normal.woff2') format('woff2');font-weight:100 900;font-display:swap}
-
+    /* Daybreak: the page's own variable names, mapped onto the site's tokens (../assets/sample.css). */
     :root {
-      --bg: #0f1117;
-      --surface: #1a1d27;
-      --surface-alt: #232733;
-      --text: #e8eaf0;
-      --text-soft: #9ca3b8;
-      --text-faint: #6b7280;
-      --accent: #6366f1;
-      --accent-soft: rgba(99, 102, 241, 0.12);
-      --accent-border: rgba(99, 102, 241, 0.25);
-      --green: #22c55e;
-      --green-soft: rgba(34, 197, 94, 0.12);
-      --amber: #f59e0b;
-      --amber-soft: rgba(245, 158, 11, 0.12);
-      --red: #ef4444;
-      --red-soft: rgba(239, 68, 68, 0.12);
-      --border: #2a2e3a;
-      --radius: 16px;
-      --radius-sm: 10px;
-      --mono: "IBM Plex Mono", monospace;
-      --sans: "Inter", system-ui, sans-serif;
+      --bg: var(--db-ground);
+      --surface: var(--db-white);
+      --surface-alt: var(--db-sand);
+      --text: var(--db-soil);
+      --text-soft: var(--db-text2);
+      --text-faint: var(--db-muted);
+      --accent: var(--db-pine);
+      --accent-soft: var(--db-pine-soft);
+      --accent-border: #c9cbaa;
+      --green: var(--db-pine);
+      --green-soft: var(--db-pine-soft);
+      --amber: var(--db-gold);
+      --amber-soft: var(--db-gold-soft);
+      --red: var(--db-clay);
+      --red-soft: var(--db-clay-soft);
+      --border: var(--db-line);
+      --radius: 22px;
+      --radius-sm: 14px;
+      --mono: var(--db-mono);
+      --sans: var(--db-body);
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: var(--sans); background: var(--bg); color: var(--text); line-height: 1.6; padding: 2rem; max-width: 960px; margin: 0 auto; }
+    body { font-family: var(--sans); background: var(--bg); color: var(--text); line-height: 1.6; }
+    main { padding: 72px 32px 96px; max-width: 960px; margin: 0 auto; }
+    @media (max-width: 620px) { main { padding: 48px 16px 72px; } }
+    .ref-note { margin-bottom: 28px; padding: 14px 18px; border-left: 3px solid var(--db-gold); background: var(--db-gold-soft); border-radius: 0 14px 14px 0; font-size: 0.95rem; color: var(--text); }
 
-    h1 { font-size: 1.75rem; font-weight: 800; margin-bottom: 0.25rem; }
-    h2 { font-size: 1.25rem; font-weight: 700; margin: 2rem 0 0.75rem; color: var(--accent); }
-    h3 { font-size: 1rem; font-weight: 600; margin: 1.25rem 0 0.5rem; }
+    h1, h2, h3 { font-family: var(--db-display); font-weight: 600; color: var(--text); }
+    h1 { font-size: clamp(2.2rem, 5vw, 3.4rem); letter-spacing: -0.035em; line-height: 1.04; margin-bottom: 0.5rem; }
+    h2 { font-size: clamp(1.5rem, 3vw, 2rem); letter-spacing: -0.03em; line-height: 1.1; margin: 3rem 0 0.9rem; }
+    h3 { font-size: 1.1rem; letter-spacing: -0.015em; margin: 1.25rem 0 0.5rem; }
     p { margin-bottom: 0.75rem; color: var(--text-soft); }
     strong { color: var(--text); }
 
-    .badge { display: inline-block; font-family: var(--mono); font-size: 0.7rem; font-weight: 500; padding: 0.2rem 0.6rem; border-radius: 6px; text-transform: uppercase; letter-spacing: 0.05em; }
+    .badge { display: inline-block; font-family: var(--mono); font-size: 0.7rem; font-weight: 500; padding: 0.2rem 0.6rem; border-radius: 999px; text-transform: uppercase; letter-spacing: 0.05em; }
     .badge-role { background: var(--accent-soft); color: var(--accent); border: 1px solid var(--accent-border); }
-    .badge-time { background: var(--green-soft); color: var(--green); border: 1px solid rgba(34,197,94,0.25); }
-    .badge-audience { background: var(--amber-soft); color: var(--amber); border: 1px solid rgba(245,158,11,0.25); }
+    .badge-time { background: var(--green-soft); color: var(--green); border: 1px solid #c9cbaa; }
+    .badge-audience { background: var(--amber-soft); color: var(--amber); border: 1px solid #e8d3a6; }
 
     .meta { display: flex; gap: 0.75rem; flex-wrap: wrap; margin: 0.75rem 0 1.5rem; }
     .subtitle { color: var(--text-faint); font-size: 0.9rem; margin-bottom: 0.5rem; }
 
-    .card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.25rem; margin-bottom: 1rem; }
-    .card-header { font-weight: 700; font-size: 0.95rem; margin-bottom: 0.5rem; }
+    .card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.4rem 1.5rem; margin-bottom: 1rem; box-shadow: var(--db-shadow); }
+    .card-header { font-family: var(--db-display); font-weight: 600; font-size: 1.05rem; margin-bottom: 0.5rem; }
 
     .stack { display: grid; gap: 0.75rem; }
     .stack-3 { grid-template-columns: repeat(3, 1fr); }
@@ -59,7 +64,7 @@
 
     .layer { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 1rem; text-align: center; }
     .layer-num { font-family: var(--mono); font-size: 0.7rem; color: var(--text-faint); text-transform: uppercase; letter-spacing: 0.08em; }
-    .layer-name { font-weight: 700; font-size: 1rem; margin: 0.25rem 0; }
+    .layer-name { font-family: var(--db-display); font-weight: 600; font-size: 1rem; margin: 0.25rem 0; }
     .layer-desc { font-size: 0.8rem; color: var(--text-soft); }
 
     .talk-track { background: var(--surface-alt); border-left: 3px solid var(--accent); padding: 1rem 1.25rem; border-radius: 0 var(--radius-sm) var(--radius-sm) 0; margin: 0.75rem 0; font-size: 0.9rem; }
@@ -95,7 +100,13 @@
     pre { font-family: var(--mono); font-size: 0.8rem; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 1rem; overflow-x: auto; margin: 0.75rem 0; color: var(--text-soft); line-height: 1.5; }
   </style>
 </head>
-<body><aside style="padding:18px;background:#eee4cf;color:#29251f;font:16px/1.5 system-ui">Training reference: the platform and integration scenarios here are illustrative, not Mission Canvas product features. <a href="/portfolio/lab/">Back to the lab</a> · <a href="/portfolio/">Work samples</a></aside>
+<body>
+<header class="mc-bar"><div class="mc-bar__in">
+  <a class="mc-bar__brand" href="/"><img src="../assets/logo.svg" alt="Mission Canvas" /></a>
+  <nav class="mc-bar__nav" aria-label="Portfolio navigation"><a class="mc-bar__back" href="/portfolio/lab/">&larr; Back to the lab</a><a class="mc-bar__back" href="/portfolio/">Work samples</a></nav>
+</div></header>
+<main>
+  <aside class="ref-note">Training reference: the platform and integration scenarios here are illustrative, not Mission Canvas product features.</aside>
 
   <h1>MCP Integrations &mdash; SA Readiness Guide</h1>
   <p class="subtitle">What MCP is, what breaks, how to demo it, how to handle the security conversation</p>
@@ -372,5 +383,6 @@
     <p>Module 5 of 12 in the SA Enablement Curriculum. Performance support artifact.</p>
   </div>
 
+</main>
 </body>
 </html>

@@ -5,66 +5,97 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>Voice Agent Design — Finding the Brand's Tessitura</title>
+<link rel="icon" href="/favicon.svg" />
+<link rel="stylesheet" href="../assets/sample.css" />
 <style>
+  /* Daybreak: the page's own variable names, mapped onto the site's tokens (../assets/sample.css). */
   :root {
-    --bg: #0f1117; --surface: #1a1d27; --surface2: #232733; --border: rgba(255,255,255,0.08);
-    --text: #e8eaf0; --dim: #9ca3b8; --faint: #6b7280;
-    --accent: #6366f1; --green: #22c55e; --orange: #f59e0b; --red: #ef4444; --blue: #3b82f6;
-    --font: 'Inter', -apple-system, sans-serif; --mono: 'JetBrains Mono', monospace;
+    --bg: var(--db-ground); --surface: var(--db-white); --surface2: var(--db-sand); --border: var(--db-line);
+    --text: var(--db-soil); --dim: var(--db-text2); --faint: var(--db-muted);
+    --accent: var(--db-pine); --green: var(--db-pine); --orange: var(--db-gold); --red: var(--db-clay); --blue: var(--db-ember);
+    --font: var(--db-body); --mono: var(--db-mono);
   }
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { font-family: var(--font); background: var(--bg); color: var(--text); padding: 2rem; max-width: 1100px; margin: 0 auto; }
-  h1 { font-size: 1.6rem; margin-bottom: 0.3rem; }
-  .subtitle { color: var(--dim); font-size: 0.9rem; margin-bottom: 2rem; }
-  .thesis { background: var(--surface); border-left: 3px solid var(--accent); padding: 1rem 1.2rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0; }
-  .thesis strong { color: var(--accent); }
+  body { font-family: var(--font); background: var(--bg); color: var(--text); line-height: 1.6; font-size: 17px; }
+  .page { max-width: 1120px; margin: 0 auto; padding: 72px 32px 96px; }
+  h1, h2, h3 { font-family: var(--db-display); font-weight: 600; letter-spacing: -0.03em; color: var(--text); }
+  h1 { font-size: clamp(2.2rem, 5vw, 3.6rem); line-height: 1.04; margin: 14px 0 0; max-width: 18ch; }
+  .subtitle { color: var(--dim); font-size: 1.15rem; margin: 18px 0 40px; }
+  .thesis { background: var(--surface); border-left: 3px solid var(--db-clay); padding: 18px 22px; margin-bottom: 48px; border-radius: 0 16px 16px 0; color: var(--text); font-size: 1rem; max-width: 860px; }
+  .thesis strong { color: var(--db-ember); }
 
-  .track { background: var(--surface); border-radius: 12px; padding: 1.2rem; margin-bottom: 1.2rem; border: 1px solid var(--border); }
-  .track-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8rem; }
-  .track-label { font-weight: 600; font-size: 1rem; }
-  .track-tag { font-size: 0.7rem; padding: 3px 8px; border-radius: 4px; font-weight: 600; text-transform: uppercase; }
-  .tag-reference { background: rgba(99,102,241,0.15); color: #818cf8; }
-  .tag-baseline { background: rgba(239,68,68,0.15); color: #f87171; }
-  .tag-designed { background: rgba(34,197,94,0.15); color: #4ade80; }
-  .track-desc { color: var(--dim); font-size: 0.8rem; margin-bottom: 0.8rem; }
+  .track { background: var(--surface); border-radius: 22px; padding: 22px 24px; margin-bottom: 16px; border: 1px solid var(--border); box-shadow: var(--db-shadow); }
+  .track-header { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 8px; }
+  .track-label { font-family: var(--db-display); font-weight: 600; font-size: 1.15rem; letter-spacing: -0.015em; }
+  .track-tag { font-family: var(--mono); font-size: 0.66rem; padding: 4px 10px; border-radius: 999px; letter-spacing: 0.06em; text-transform: uppercase; white-space: nowrap; }
+  .tag-reference { background: var(--db-sand); color: var(--dim); }
+  .tag-baseline { background: var(--db-clay-soft); color: var(--db-ember); }
+  .tag-designed { background: var(--db-pine-soft); color: var(--db-pine); }
+  .track-desc { color: var(--dim); font-size: 0.92rem; line-height: 1.55; margin-bottom: 16px; max-width: 820px; }
 
-  .player-row { display: flex; align-items: center; gap: 0.8rem; }
-  .play-btn { width: 40px; height: 40px; border-radius: 50%; border: none; background: var(--accent); color: white; cursor: pointer; font-size: 1rem; display: flex; align-items: center; justify-content: center; flex-shrink: 0; transition: transform 0.1s; }
-  .play-btn:hover { transform: scale(1.08); }
-  .play-btn.playing { background: var(--orange); }
-  .progress-wrap { flex: 1; height: 6px; background: var(--surface2); border-radius: 3px; cursor: pointer; position: relative; }
-  .progress-bar { height: 100%; background: var(--accent); border-radius: 3px; width: 0%; transition: width 0.1s linear; }
-  .time { font-family: var(--mono); font-size: 0.75rem; color: var(--faint); min-width: 42px; text-align: right; }
+  /* Player, after Krea's recorder: an inset panel, an ink play button, the waveform (../assets/wave.js), mono time. */
+  .player { background: #f1eadd; border-radius: 16px; padding: 12px 18px 12px 12px; }
+  .player-row { display: flex; align-items: center; gap: 14px; }
+  .play-btn { width: 36px; height: 36px; border-radius: 50%; border: none; background: var(--db-soil); color: #fff; cursor: pointer; display: flex; align-items: center; justify-content: center; flex-shrink: 0; transition: transform 0.15s; }
+  .play-btn:hover { transform: scale(1.06); }
+  .play-btn .i-pause, .play-btn.playing .i-play { display: none; }
+  .play-btn.playing .i-pause { display: block; }
+  .wave { flex: 1; height: 44px; cursor: pointer; touch-action: none; --wave-played: var(--db-soil); --wave-rest: #c4b9a6; border-radius: 6px; }
+  .wave canvas { display: block; }
+  .time { font-family: var(--mono); font-size: 0.74rem; color: var(--faint); min-width: 104px; text-align: right; white-space: nowrap; }
 
   /* State markers on timeline */
-  .markers { position: relative; height: 22px; margin-top: 6px; margin-left: 48px; margin-right: 50px; }
-  .marker { position: absolute; top: 0; font-size: 0.6rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.03em; padding: 2px 5px; border-radius: 3px; white-space: nowrap; transform: translateX(-50%); }
-  .m-accept { background: rgba(99,102,241,0.2); color: #a5b4fc; }
-  .m-resolve { background: rgba(59,130,246,0.2); color: #93c5fd; }
-  .m-boundary { background: rgba(245,158,11,0.2); color: #fcd34d; }
-  .m-confirm { background: rgba(34,197,94,0.2); color: #86efac; }
-  .m-close { background: rgba(168,85,247,0.2); color: #c4b5fd; }
+  .markers { position: relative; height: 24px; margin-top: 8px; margin-left: 50px; margin-right: 118px; }
+  .marker { position: absolute; top: 0; font-family: var(--mono); font-size: 0.6rem; text-transform: uppercase; letter-spacing: 0.04em; padding: 3px 6px; border-radius: 999px; white-space: nowrap; transform: translateX(-50%); }
+  .m-accept { background: var(--db-pine-soft); color: var(--db-pine); }
+  .m-resolve { background: var(--db-sand); color: var(--db-soil); }
+  .m-boundary { background: var(--db-gold-soft); color: var(--db-gold); }
+  .m-confirm { background: var(--db-clay-soft); color: var(--db-ember); }
+  .m-close { background: #efe7da; color: var(--faint); }
 
   /* Metrics table */
-  .metrics { margin-top: 2rem; }
-  .metrics h2 { font-size: 1.1rem; margin-bottom: 0.8rem; }
-  table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
-  th { text-align: left; padding: 0.5rem 0.6rem; border-bottom: 2px solid var(--border); color: var(--dim); font-weight: 600; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.04em; }
-  td { padding: 0.5rem 0.6rem; border-bottom: 1px solid var(--border); }
-  .num { font-family: var(--mono); text-align: right; }
-  .good { color: var(--green); }
-  .bad { color: var(--red); }
+  .metrics { margin-top: 72px; }
+  .metrics h2, .section-h { font-size: clamp(1.6rem, 3vw, 2.2rem); line-height: 1.1; margin-bottom: 20px; }
+  .tw { overflow-x: auto; background: var(--surface); border: 1px solid var(--border); border-radius: 22px; padding: 8px 20px 12px; box-shadow: var(--db-shadow); }
+  table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+  th { text-align: left; padding: 12px 10px; border-bottom: 1px solid var(--text); color: var(--faint); font-family: var(--mono); font-weight: 500; font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.08em; }
+  td { padding: 12px 10px; border-bottom: 1px solid var(--border); color: var(--dim); vertical-align: top; }
+  tr:last-child td { border-bottom: 0; }
+  td:first-child { color: var(--text); font-weight: 500; }
+  .num { font-family: var(--mono); font-size: 0.82rem; }
+  .good { color: var(--db-pine); }
+  .bad { color: var(--db-clay); }
   .neutral { color: var(--dim); }
 
-  .finding { background: var(--surface); border-radius: 8px; padding: 1rem; margin-top: 1.5rem; border: 1px solid var(--border); }
-  .finding h3 { font-size: 0.9rem; margin-bottom: 0.5rem; color: var(--orange); }
-  .finding p { font-size: 0.82rem; color: var(--dim); line-height: 1.5; }
+  .findings { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 24px; }
+  .finding { background: var(--surface); border-radius: 22px; padding: 26px; border: 1px solid var(--border); box-shadow: var(--db-shadow); }
+  .finding h3 { font-size: 1.2rem; letter-spacing: -0.015em; line-height: 1.25; margin-bottom: 10px; }
+  .finding p { font-size: 0.94rem; color: var(--dim); line-height: 1.6; }
+  .finding strong { color: var(--text); }
 
-  .footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border); color: var(--faint); font-size: 0.72rem; }
+  .chart { background: var(--surface); border: 1px solid var(--border); border-radius: 22px; padding: 24px; box-shadow: var(--db-shadow); }
+  .chart svg { width: 100%; height: auto; display: block; }
+  .lede { color: var(--dim); font-size: 1.05rem; margin: -8px 0 20px; }
+  .caption { color: var(--faint); font-size: 0.86rem; margin-top: 14px; }
+
+  @media (max-width: 760px) {
+    .findings { grid-template-columns: 1fr; }
+    .page { padding: 48px 16px 72px; }
+    .track-header { flex-direction: column; align-items: flex-start; }
+    .markers { display: none; }
+    .chart { overflow-x: auto; padding: 16px; }
+    .chart svg { min-width: 620px; }
+  }
 </style>
-<style>body{overflow-wrap:anywhere}svg{max-width:100%;height:auto}table{display:block;max-width:100%;overflow-x:auto}nav a{color:inherit}*{box-sizing:border-box}</style></head>
-<body><nav aria-label="Portfolio navigation" style="padding:16px;display:flex;gap:24px;flex-wrap:wrap"><a href="/portfolio/" style="color:inherit">← Work samples</a><a href="/audit" style="color:inherit">Discuss a workflow</a></nav>
+</head>
+<body>
+<header class="mc-bar"><div class="mc-bar__in">
+  <a class="mc-bar__brand" href="/"><img src="../assets/logo.svg" alt="Mission Canvas" /></a>
+  <nav class="mc-bar__nav" aria-label="Portfolio navigation"><a class="mc-bar__back" href="/portfolio/">&larr; Work samples</a><a class="mc-bar__back" href="/audit">Discuss a workflow</a></nav>
+</div></header>
 
+<main class="page">
+<p class="mc-k">Voice design · Case study</p>
 <h1>Voice Agent Design — Finding the Brand's Tessitura</h1>
 <p class="subtitle">Fictional brand · Mother’s Day Gift Rescue · Recorded design study</p>
 
@@ -79,11 +110,11 @@
     <span class="track-tag tag-reference">Reference</span>
   </div>
   <div class="track-desc">Original test sample — outside the brand's tessitura. Higher bandwidth (32kHz) but length-based pacing. Opening rushes, empathy is flat, +46% pitch spike on goodbye.</div>
-  <div class="player-row">
-    <button class="play-btn" onclick="toggle('sierra-a')">▶</button>
-    <div class="progress-wrap" onclick="seek(event,'sierra-a')"><div class="progress-bar" id="bar-sierra-a"></div></div>
-    <span class="time" id="time-sierra-a">0:00</span>
-  </div>
+  <div class="player"><div class="player-row">
+    <button class="play-btn" onclick="toggle('sierra-a', this)" aria-label="Play"><svg class="i-play" width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="M3 1.5v9l7.5-4.5z" fill="currentColor"/></svg><svg class="i-pause" width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="M3.5 2v8M8.5 2v8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>
+    <div class="wave" id="wave-sierra-a"></div>
+    <span class="time" id="time-sierra-a">00:00 / 00:00</span>
+  </div></div>
 </div>
 
 <!-- Track 2: Sierra Sample B -->
@@ -93,11 +124,11 @@
     <span class="track-tag tag-reference">Reference</span>
   </div>
   <div class="track-desc">Original test sample — outside the brand's tessitura. Better opening warmth, cleaner brand name. Still length-based pacing — empathy lines show 0% rate delta from informational.</div>
-  <div class="player-row">
-    <button class="play-btn" onclick="toggle('sierra-b')">▶</button>
-    <div class="progress-wrap" onclick="seek(event,'sierra-b')"><div class="progress-bar" id="bar-sierra-b"></div></div>
-    <span class="time" id="time-sierra-b">0:00</span>
-  </div>
+  <div class="player"><div class="player-row">
+    <button class="play-btn" onclick="toggle('sierra-b', this)" aria-label="Play"><svg class="i-play" width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="M3 1.5v9l7.5-4.5z" fill="currentColor"/></svg><svg class="i-pause" width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="M3.5 2v8M8.5 2v8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>
+    <div class="wave" id="wave-sierra-b"></div>
+    <span class="time" id="time-sierra-b">00:00 / 00:00</span>
+  </div></div>
 </div>
 
 <!-- Track 3: Our Baseline -->
@@ -107,12 +138,13 @@
     <span class="track-tag tag-baseline">Outside Tessitura</span>
   </div>
   <div class="track-desc">Length-based pacing — no tessitura awareness. All states cluster at ~3.4 WPS. Prompted with "friendly, warm, professional, empathetic." No pacing rules. Same voice (Rime Luna).</div>
-  <div class="player-row">
-    <button class="play-btn" onclick="toggle('baseline')">▶</button>
-    <div class="progress-wrap" onclick="seek(event,'baseline')"><div class="progress-bar" id="bar-baseline"></div></div>
-    <span class="time" id="time-baseline">0:00</span>
+  <div class="player"><div class="player-row">
+    <button class="play-btn" onclick="toggle('baseline', this)" aria-label="Play"><svg class="i-play" width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="M3 1.5v9l7.5-4.5z" fill="currentColor"/></svg><svg class="i-pause" width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="M3.5 2v8M8.5 2v8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>
+    <div class="wave" id="wave-baseline"></div>
+    <span class="time" id="time-baseline">00:00 / 00:00</span>
   </div>
   <div class="markers" id="markers-baseline"></div>
+  </div>
 </div>
 
 <!-- Track 4: Our Designed -->
@@ -122,18 +154,20 @@
     <span class="track-tag tag-designed">In Tessitura</span>
   </div>
   <div class="track-desc">5-state pacing within ACME's tessitura (0.83–1.30). Each state at a distinct position in the range. Same voice. Different behavior: slower for empathy, moderate for options, firm for boundary, slowest for confirmation, warm for close.</div>
-  <div class="player-row">
-    <button class="play-btn" onclick="toggle('designed')">▶</button>
-    <div class="progress-wrap" onclick="seek(event,'designed')"><div class="progress-bar" id="bar-designed"></div></div>
-    <span class="time" id="time-designed">0:00</span>
+  <div class="player"><div class="player-row">
+    <button class="play-btn" onclick="toggle('designed', this)" aria-label="Play"><svg class="i-play" width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="M3 1.5v9l7.5-4.5z" fill="currentColor"/></svg><svg class="i-pause" width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="M3.5 2v8M8.5 2v8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>
+    <div class="wave" id="wave-designed"></div>
+    <span class="time" id="time-designed">00:00 / 00:00</span>
   </div>
   <div class="markers" id="markers-designed"></div>
+  </div>
 </div>
 
 <!-- Metrics comparison -->
 <div class="metrics">
-  <h2>Recorded study notes</h2><p>Values reported for these recordings. They are not a customer-outcome benchmark.</p>
-  <table>
+  <h2>Recorded study notes</h2>
+  <p class="lede">Values reported for these recordings. They are not a customer-outcome benchmark.</p>
+  <div class="tw"><table>
     <thead>
       <tr><th>Metric</th><th>Baseline</th><th>Designed</th><th>Target</th><th>Verdict</th></tr>
     </thead>
@@ -146,9 +180,10 @@
       <tr><td>Critical-detail isolation</td><td class="num">Dense confirmation sentence</td><td class="num">Date and watchpoint broken out</td><td class="num">Stand-alone chunks</td><td class="good">✓</td></tr>
       <tr><td>Closing pitch continuity</td><td class="num bad">+20–46% spike</td><td class="num good">Consistent</td><td class="num">&lt;10%</td><td class="good">✓ Same persona at close</td></tr>
     </tbody>
-  </table>
+  </table></div>
 </div>
 
+<div class="findings">
 <div class="finding">
   <h3>Design question: pacing by conversational state</h3>
   <p>This study varies pacing by conversational state: acknowledgment, options, boundary, confirmation and close. A global speed setting does not describe all of those choices. Listen for the pauses and the separation of critical details. Other voices and controls need their own evaluation.</p>
@@ -162,100 +197,104 @@
   Whether finer controls improve consistency needs a separate test.
   <strong>The comparison holds the voice constant and changes the pacing design.</strong></p>
 </div>
+</div>
 
 <!-- Brand Tessitura Comparison -->
-<div class="metrics" style="margin-top: 2.5rem;">
+<div class="metrics">
   <h2>Brand Tessitura Comparison</h2>
-  <p style="color: var(--dim); font-size: 0.82rem; margin-bottom: 1.2rem;">Illustrative brand profiles. Only the fictional support-brand comparison has recordings here.</p>
-  <svg viewBox="0 0 700 190" xmlns="http://www.w3.org/2000/svg" style="width: 100%; max-width: 700px; background: var(--surface); border-radius: 8px; border: 1px solid var(--border); padding: 0;">
+  <p class="lede">Illustrative brand profiles. Only the fictional support-brand comparison has recordings here.</p>
+  <div class="chart"><svg viewBox="0 0 700 190" xmlns="http://www.w3.org/2000/svg">
     <!-- Scale: 0.60 to 1.55, width 700, left pad 160, right pad 30 -->
     <!-- usable width: 700 - 160 - 30 = 510 -->
     <!-- x(val) = 160 + (val - 0.60) / (1.55 - 0.60) * 510 = 160 + (val - 0.60) * 536.84 -->
 
     <!-- Axis line -->
-    <line x1="160" y1="165" x2="670" y2="165" stroke="#6b7280" stroke-width="1"/>
+    <line x1="160" y1="165" x2="670" y2="165" stroke="#6f6457" stroke-width="1"/>
 
     <!-- Axis ticks and labels -->
-    <g font-family="'JetBrains Mono', monospace" font-size="10" fill="#6b7280" text-anchor="middle">
+    <g font-family="Geist Mono, monospace" font-size="10" fill="#6f6457" text-anchor="middle">
       <!-- 0.60 -->
-      <line x1="160" y1="162" x2="160" y2="168" stroke="#6b7280" stroke-width="1"/>
+      <line x1="160" y1="162" x2="160" y2="168" stroke="#6f6457" stroke-width="1"/>
       <text x="160" y="180">0.60</text>
       <!-- 0.70 -->
-      <line x1="213.7" y1="162" x2="213.7" y2="168" stroke="#6b7280" stroke-width="1"/>
+      <line x1="213.7" y1="162" x2="213.7" y2="168" stroke="#6f6457" stroke-width="1"/>
       <text x="213.7" y="180">0.70</text>
       <!-- 0.80 -->
-      <line x1="267.4" y1="162" x2="267.4" y2="168" stroke="#6b7280" stroke-width="1"/>
+      <line x1="267.4" y1="162" x2="267.4" y2="168" stroke="#6f6457" stroke-width="1"/>
       <text x="267.4" y="180">0.80</text>
       <!-- 0.90 -->
-      <line x1="321" y1="162" x2="321" y2="168" stroke="#6b7280" stroke-width="1"/>
+      <line x1="321" y1="162" x2="321" y2="168" stroke="#6f6457" stroke-width="1"/>
       <text x="321" y="180">0.90</text>
       <!-- 1.00 -->
-      <line x1="374.7" y1="162" x2="374.7" y2="168" stroke="#6b7280" stroke-width="1"/>
+      <line x1="374.7" y1="162" x2="374.7" y2="168" stroke="#6f6457" stroke-width="1"/>
       <text x="374.7" y="180">1.00</text>
       <!-- 1.10 -->
-      <line x1="428.4" y1="162" x2="428.4" y2="168" stroke="#6b7280" stroke-width="1"/>
+      <line x1="428.4" y1="162" x2="428.4" y2="168" stroke="#6f6457" stroke-width="1"/>
       <text x="428.4" y="180">1.10</text>
       <!-- 1.20 -->
-      <line x1="482.1" y1="162" x2="482.1" y2="168" stroke="#6b7280" stroke-width="1"/>
+      <line x1="482.1" y1="162" x2="482.1" y2="168" stroke="#6f6457" stroke-width="1"/>
       <text x="482.1" y="180">1.20</text>
       <!-- 1.30 -->
-      <line x1="535.8" y1="162" x2="535.8" y2="168" stroke="#6b7280" stroke-width="1"/>
+      <line x1="535.8" y1="162" x2="535.8" y2="168" stroke="#6f6457" stroke-width="1"/>
       <text x="535.8" y="180">1.30</text>
       <!-- 1.40 -->
-      <line x1="589.5" y1="162" x2="589.5" y2="168" stroke="#6b7280" stroke-width="1"/>
+      <line x1="589.5" y1="162" x2="589.5" y2="168" stroke="#6f6457" stroke-width="1"/>
       <text x="589.5" y="180">1.40</text>
       <!-- 1.50 -->
-      <line x1="643.2" y1="162" x2="643.2" y2="168" stroke="#6b7280" stroke-width="1"/>
+      <line x1="643.2" y1="162" x2="643.2" y2="168" stroke="#6f6457" stroke-width="1"/>
       <text x="643.2" y="180">1.50</text>
     </g>
 
     <!-- Axis title -->
-    <text x="415" y="12" font-family="Inter, sans-serif" font-size="11" fill="#9ca3b8" text-anchor="middle" font-weight="600">speedAlpha</text>
+    <text x="415" y="12" font-family="Geist, sans-serif" font-size="11" fill="#564c42" text-anchor="middle" font-weight="600">speedAlpha</text>
 
     <!-- Row 1: ACME (0.83–1.30), center ~1.0, y=35 -->
     <!-- x(0.83) = 160 + 0.23*536.84 = 283.5 -->
     <!-- x(1.30) = 160 + 0.70*536.84 = 535.8 -->
     <!-- width = 535.8 - 283.5 = 252.3 -->
-    <text x="10" y="52" font-family="Inter, sans-serif" font-size="12" fill="#e8eaf0" font-weight="600">ACME</text>
-    <text x="10" y="66" font-family="Inter, sans-serif" font-size="9" fill="#9ca3b8">warm-premium</text>
-    <rect x="283.5" y="35" width="252.3" height="30" rx="4" fill="rgba(99,102,241,0.3)" stroke="#6366f1" stroke-width="2"/>
+    <text x="10" y="52" font-family="Geist, sans-serif" font-size="12" fill="#1b1712" font-weight="600">ACME</text>
+    <text x="10" y="66" font-family="Geist, sans-serif" font-size="9" fill="#564c42">warm-premium</text>
+    <rect x="283.5" y="35" width="252.3" height="30" rx="4" fill="#e8e9d6" stroke="#4f5433" stroke-width="2"/>
     <!-- Center marker at 1.0: x(1.0) = 160 + 0.40*536.84 = 374.7 -->
-    <line x1="374.7" y1="35" x2="374.7" y2="65" stroke="#a5b4fc" stroke-width="2" stroke-dasharray="3,2"/>
-    <text x="374.7" y="30" font-family="'JetBrains Mono', monospace" font-size="9" fill="#a5b4fc" text-anchor="middle">1.00</text>
+    <line x1="374.7" y1="35" x2="374.7" y2="65" stroke="#4f5433" stroke-width="2" stroke-dasharray="3,2"/>
+    <text x="374.7" y="30" font-family="Geist Mono, monospace" font-size="9" fill="#4f5433" text-anchor="middle">1.00</text>
     <!-- Proven label -->
-    <text x="410" y="55" font-family="Inter, sans-serif" font-size="9" fill="#a5b4fc" font-weight="600">RECORDED</text>
+    <text x="410" y="55" font-family="Geist, sans-serif" font-size="9" fill="#4f5433" font-weight="600">RECORDED</text>
 
     <!-- Row 2: Playful brand (0.70–0.95), center ~0.82, y=85 -->
     <!-- x(0.70) = 160 + 0.10*536.84 = 213.7 -->
     <!-- x(0.95) = 160 + 0.35*536.84 = 347.9 -->
     <!-- width = 347.9 - 213.7 = 134.2 -->
-    <text x="10" y="102" font-family="Inter, sans-serif" font-size="12" fill="#e8eaf0" font-weight="600">Playful brand</text>
-    <text x="10" y="116" font-family="Inter, sans-serif" font-size="9" fill="#9ca3b8">playful-fast</text>
-    <rect x="213.7" y="85" width="134.2" height="30" rx="4" fill="none" stroke="#22c55e" stroke-width="2" stroke-dasharray="6,3"/>
+    <text x="10" y="102" font-family="Geist, sans-serif" font-size="12" fill="#1b1712" font-weight="600">Playful brand</text>
+    <text x="10" y="116" font-family="Geist, sans-serif" font-size="9" fill="#564c42">playful-fast</text>
+    <rect x="213.7" y="85" width="134.2" height="30" rx="4" fill="none" stroke="#b4583a" stroke-width="2" stroke-dasharray="6,3"/>
     <!-- Center marker at 0.82: x(0.82) = 160 + 0.22*536.84 = 278.1 -->
-    <line x1="278.1" y1="85" x2="278.1" y2="115" stroke="#86efac" stroke-width="2" stroke-dasharray="3,2"/>
-    <text x="278.1" y="80" font-family="'JetBrains Mono', monospace" font-size="9" fill="#86efac" text-anchor="middle">0.82</text>
+    <line x1="278.1" y1="85" x2="278.1" y2="115" stroke="#733525" stroke-width="2" stroke-dasharray="3,2"/>
+    <text x="278.1" y="80" font-family="Geist Mono, monospace" font-size="9" fill="#733525" text-anchor="middle">0.82</text>
     <!-- Designed label -->
-    <text x="310" y="105" font-family="Inter, sans-serif" font-size="9" fill="#86efac" font-weight="600">DESIGNED</text>
+    <text x="310" y="105" font-family="Geist, sans-serif" font-size="9" fill="#733525" font-weight="600">DESIGNED</text>
 
     <!-- Row 3: Luxury brand (0.95–1.45), center ~1.20, y=135 -->
     <!-- x(0.95) = 347.9 -->
     <!-- x(1.45) = 160 + 0.85*536.84 = 616.3 -->
     <!-- width = 616.3 - 347.9 = 268.4 -->
-    <text x="10" y="152" font-family="Inter, sans-serif" font-size="12" fill="#e8eaf0" font-weight="600">Luxury brand</text>
-    <text x="10" y="166" font-family="Inter, sans-serif" font-size="9" fill="#9ca3b8">luxury-deliberate</text>
-    <rect x="347.9" y="135" width="268.4" height="30" rx="4" fill="none" stroke="#f59e0b" stroke-width="2" stroke-dasharray="6,3"/>
+    <text x="10" y="152" font-family="Geist, sans-serif" font-size="12" fill="#1b1712" font-weight="600">Luxury brand</text>
+    <text x="10" y="166" font-family="Geist, sans-serif" font-size="9" fill="#564c42">luxury-deliberate</text>
+    <rect x="347.9" y="135" width="268.4" height="30" rx="4" fill="none" stroke="#8a6420" stroke-width="2" stroke-dasharray="6,3"/>
     <!-- Center marker at 1.20: x(1.20) = 160 + 0.60*536.84 = 482.1 -->
-    <line x1="482.1" y1="135" x2="482.1" y2="165" stroke="#fcd34d" stroke-width="2" stroke-dasharray="3,2"/>
-    <text x="482.1" y="130" font-family="'JetBrains Mono', monospace" font-size="9" fill="#fcd34d" text-anchor="middle">1.20</text>
+    <line x1="482.1" y1="135" x2="482.1" y2="165" stroke="#8a6420" stroke-width="2" stroke-dasharray="3,2"/>
+    <text x="482.1" y="130" font-family="Geist Mono, monospace" font-size="9" fill="#8a6420" text-anchor="middle">1.20</text>
     <!-- Designed label -->
-    <text x="515" y="155" font-family="Inter, sans-serif" font-size="9" fill="#fcd34d" font-weight="600">DESIGNED</text>
-  </svg>
-  <p style="color: var(--faint); font-size: 0.75rem; margin-top: 0.6rem; font-style: italic;">Solid = recorded (voiced; measurements shown). Dashed = designed (tessitura mapped, not yet voiced). Illustrative brand profiles. Only the fictional support-brand comparison has recordings here.</p>
+    <text x="515" y="155" font-family="Geist, sans-serif" font-size="9" fill="#8a6420" font-weight="600">DESIGNED</text>
+  </svg></div>
+  <p class="caption">Solid = recorded (voiced; measurements shown). Dashed = designed (tessitura mapped, not yet voiced). Illustrative brand profiles. Only the fictional support-brand comparison has recordings here.</p>
 </div>
 
-<p class="footer">Built by Mission Canvas · Synthetic voice recordings · Scenario: ACME Mother's Day Gift Rescue · 5-State Tessitura-Based Pacing · May 2026</p>
+</main>
 
+<footer class="mc-foot"><span>Built by Mission Canvas</span><span>Synthetic voice recordings · Scenario: ACME Mother's Day Gift Rescue · 5-State Tessitura-Based Pacing · May 2026</span></footer>
+
+<script src="../assets/wave.js"></script>
 <script>
 const players = {};
 const durations = {};
@@ -290,48 +329,21 @@ const designedMarkers = [
 
 function initPlayer(id, src) {
   const a = new Audio(src);
+  a.preload = 'metadata';
   players[id] = a;
   a.addEventListener('loadedmetadata', () => { durations[id] = a.duration; });
-  a.addEventListener('timeupdate', () => {
-    const pct = (a.currentTime / a.duration) * 100;
-    document.getElementById('bar-' + id).style.width = pct + '%';
-    const m = Math.floor(a.currentTime / 60);
-    const s = Math.floor(a.currentTime % 60).toString().padStart(2, '0');
-    document.getElementById('time-' + id).textContent = m + ':' + s;
-  });
-  a.addEventListener('ended', () => {
-    document.querySelector('#t-' + id.replace(/\./g, '-').replace(/ /g,'-') + ' .play-btn')
-    // find the button
-    const btns = document.querySelectorAll('.play-btn');
-    btns.forEach(b => { if(b.closest('.track') && b.closest('.track').querySelector('[id^="bar-' + id + '"]')) { b.textContent = '▶'; b.classList.remove('playing'); }});
-  });
+  const btn = document.querySelector('#t-' + id + ' .play-btn');
+  const sync = () => { btn.classList.toggle('playing', !a.paused); btn.setAttribute('aria-label', a.paused ? 'Play' : 'Pause'); };
+  ['play', 'pause', 'ended'].forEach((e) => a.addEventListener(e, sync));
+  MCWave(document.getElementById('wave-' + id), src, { audio: a, time: document.getElementById('time-' + id) });
 }
 
 function toggle(id) {
   const a = players[id];
   if (!a) return;
   // Stop all others
-  Object.entries(players).forEach(([k, p]) => {
-    if (k !== id && !p.paused) { p.pause(); }
-  });
-  document.querySelectorAll('.play-btn').forEach(b => { b.textContent = '▶'; b.classList.remove('playing'); });
-
-  if (a.paused) {
-    a.play();
-    // Find this track's button
-    event.target.closest('.play-btn').textContent = '⏸';
-    event.target.closest('.play-btn').classList.add('playing');
-  } else {
-    a.pause();
-  }
-}
-
-function seek(e, id) {
-  const a = players[id];
-  if (!a || !a.duration) return;
-  const rect = e.currentTarget.getBoundingClientRect();
-  const pct = (e.clientX - rect.left) / rect.width;
-  a.currentTime = pct * a.duration;
+  Object.entries(players).forEach(([k, p]) => { if (k !== id && !p.paused) p.pause(); });
+  if (a.paused) a.play(); else a.pause();
 }
 
 function renderMarkers(containerId, markers, totalDuration) {
