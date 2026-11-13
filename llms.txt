@@ -2,7 +2,7 @@
 
 > Software built around how your business works, running on your own computers. We audit the workflow, build the application and hand it over. No per-seat fees.
 
-Mission Canvas builds private AI software for small and mid-sized businesses. Each engagement starts with a workflow audit, then the application is built from a working starting point for the industry (a "canvas") and runs on the business's own computers. One job, one fixed price, quoted after the audit. 25% at signing, 75% at handover. Never per seat, no subscription. Get started: https://missioncanvas.ai/audit/
+Mission Canvas builds private AI software for small and mid-sized businesses. Each engagement starts with a workflow audit, then the application is built from a working starting point for the industry (a "canvas") and runs on the business's own computers. One job, one fixed price, quoted after the audit. 25% at signing, 75% on delivery and acceptance. Never per seat, no subscription. Get started: https://missioncanvas.ai/audit/
 
 ## Main pages
 
@@ -12,7 +12,7 @@ Mission Canvas builds private AI software for small and mid-sized businesses. Ea
 - [Private AI software for small businesses: questions answered](https://missioncanvas.ai/faq): Answers to what owners ask about private AI software before an audit: what it is, what it costs, who owns it, and where the data goes.
 - [How it works](https://missioncanvas.ai/how-it-works): What happens to your files, step by step, and what working with Mission Canvas looks like, from the audit to handover in four to six weeks.
 - [Palette: a free local AI app for your documents](https://missioncanvas.ai/palette): A free local AI app for Mac, Windows and Linux. Give it one folder. It reads only what you allow, on your computer, and links every line to its source.
-- [Pricing: one job, one fixed price](https://missioncanvas.ai/pricing): One job, one fixed price, quoted after the audit. 25% at signing, 75% at handover. Never per seat, no subscription.
+- [Pricing: one job, one fixed price](https://missioncanvas.ai/pricing): One job, one fixed price, quoted after the audit. 25% at signing, 75% on delivery and acceptance. Never per seat, no subscription.
 - [Private, on-premise AI: your files stay on your computers](https://missioncanvas.ai/security): Your files are read on your own computers. Agree what is read, what may leave and how the team checks the result.
 
 ## Industries

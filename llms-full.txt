@@ -2,7 +2,7 @@
 
 > Software built around how your business works, running on your own computers. We audit the workflow, build the application and hand it over. No per-seat fees.
 
-Mission Canvas builds private AI software for small and mid-sized businesses. Each engagement starts with a workflow audit, then the application is built from a working starting point for the industry (a "canvas") and runs on the business's own computers. One job, one fixed price, quoted after the audit. 25% at signing, 75% at handover. Never per seat, no subscription. Get started: https://missioncanvas.ai/audit/
+Mission Canvas builds private AI software for small and mid-sized businesses. Each engagement starts with a workflow audit, then the application is built from a working starting point for the industry (a "canvas") and runs on the business's own computers. One job, one fixed price, quoted after the audit. 25% at signing, 75% on delivery and acceptance. Never per seat, no subscription. Get started: https://missioncanvas.ai/audit/
 
 ---
 
@@ -700,7 +700,7 @@ Yes. We work with the advisors a business already trusts, and the first project 
 
 ## Cost and ownership
 What does it cost?
-One job, one fixed price, quoted after the audit. 25% at signing, 75% at handover. Never per seat, no subscription. Who owns what you build?
+One job, one fixed price, quoted after the audit. 25% at signing, 75% on delivery and acceptance. Never per seat, no subscription. Who owns what you build?
 You do. The application is handed over to run on your hardware. What if we stop working together?
 The application keeps running on your machines.
 
@@ -926,7 +926,7 @@ Your first audit is done with us. Watch, or lead it with us beside you. The audi
 Our lab builds the software. Your first install is under our review. Audit to handover takes four to six weeks.
 
 ### Get paid as the customer pays
-The customer pays 25% at signing and 75% at handover. Your share is paid as each payment clears. See applications we have built →
+The customer pays 25% at signing and 75% on delivery and acceptance. Your share is paid as each payment clears. See applications we have built →
 How you earn
 
 ## What a project pays you.
@@ -948,13 +948,11 @@ Includes the fix reserve described below. Two custom builds accepted by the lab.
 Ring 5 Implementation Lead Recruit, train and QA-sign a team of partners while continuing to sell at your own ring. Your own ring on your own deals, plus 5%
 The 5% applies only to the team’s recorded sales that you trained the seller for and signed off. One level only. Ten installs of your own.
 The shares are cumulative: one person taking a deal from introduction through installation receives 30%, not 41%; if different people do the stages, the 30% splits into 3%, 5% and 22%.
-One job, one fixed price, quoted after the audit. 25% at signing, 75% at handover. Never per seat, no subscription. Partners are paid their share as each payment clears, subject to the fix reserve below. We fix what we built for 18 months at no charge.
+One job, one fixed price, quoted after the audit. 25% at signing, 75% on delivery and acceptance. Never per seat, no subscription. Partners are paid their share as each payment clears, subject to the fix reserve below. We fix what we built for 18 months at no charge.
 For a Forward Deployed Partner’s custom build, 5% of the canvas price is held within the 50% share as a fix reserve. It is released at month 18, less any fixes paid from it, under the written agreement.
 What we provide
 
-## What’s ready today, and what’s coming.
-
-### Ready now
+## What’s ready today.
 - Us, on your first projects
 Your first audit is done with us and your first install is under our review.
 - The audit and the lab
@@ -963,19 +961,11 @@ We scope the work, price it and build the software.
 Applications we have built, to show a customer what is possible. See the examples
 - Palette™, to try yourself
 Our free desktop app. Local AI on your own files, so you know what you are describing. About Palette
-
-### Being built
-- Certification resources
-- The partner install kit and handover checks
-- Partner demo material
-- A partner listing for customers
-- Event invitations
-We confirm what is available and record responsibilities in the written agreement before work begins.
 When your customer asks
 
 ## Five questions you’ll hear, and the answers.
 What does it cost?
-One job, one fixed price, quoted after the audit. 25% at signing, 75% at handover. Never per seat, no subscription.
+One job, one fixed price, quoted after the audit. 25% at signing, 75% on delivery and acceptance. Never per seat, no subscription.
 Where does our data go?
 The software runs on your own computers. What runs locally, what may leave, and how it is logged.
 What if it breaks?
@@ -1010,10 +1000,10 @@ A few questions
 ## Before you get in touch.
 What happens if something breaks after I hand it over?
 We fix what we built for 18 months at no charge. Who checks the result and who supports the customer afterward is agreed in writing before the work starts. If you built the custom part with the lab as a Forward Deployed Partner, fixes to it are paid from the fix reserve held within your share. Do I need to be a software developer?
-No. You need to understand the customer’s work and be able to learn the installation and handover process. We will agree what you can deliver and where you need support before a customer engagement. Can I start by making an introduction?
-Yes. Tell us about the kind of customer you serve and one recurring workflow. Any referral payment will depend on the written terms agreed before the work. What comes after the first project?
+No. You need to understand the customer’s work and learn the installation and handover process. Can I start by making an introduction?
+Yes. Tell us about the kind of customer you serve and one recurring workflow. An introduction that reaches an audit earns 3% of the canvas price. What comes after the first project?
 One job at a time. When the first one works, ask the customer which job should come next, and who else they know with the same problem. Each new project is scoped and priced by its own audit. When do I get paid?
-As the customer pays. The customer pays 25% at signing and 75% at handover, and your share is paid as each payment clears, subject to any fix reserve. Is there a subscription or a joining fee?
+As the customer pays. The customer pays 25% at signing and 75% on delivery and acceptance, and your share is paid as each payment clears. For a Forward Deployed Partner’s custom build, 5% of the canvas price is held as a fix reserve and released at month 18, less any fixes paid from it. Is there a subscription or a joining fee?
 No. The customer pays one fixed price for the job, with 18 months of fixes on what we built, at no charge. There is no fee to join and no payment for recruiting. Are the shares added together?
 No. The rings are cumulative. The share for your contribution includes the lower stages; it is not added on top of them. The written agreement records who does each stage and how the share is split. What does Solutions Partner mean?
 It is the delivery role for someone who sells, audits, installs a standard canvas and hands it over. Qualification requires one install under our review. Is Palette what I would sell?
@@ -1052,7 +1042,7 @@ Source: https://missioncanvas.ai/pricing
 Pricing
 
 # One job, one fixed price.
-Quoted after the audit. 25% at signing, 75% at handover. Never per seat, no subscription.
+Quoted after the audit. 25% at signing, 75% on delivery and acceptance. Never per seat, no subscription.
 Get Started
 - 1
 
@@ -1090,7 +1080,7 @@ replace.
 
 ## Questions about cost.
 What does it cost?
-One job, one fixed price, quoted after the audit. 25% at signing, 75% at handover. Never per seat, no subscription. Who owns what you build?
+One job, one fixed price, quoted after the audit. 25% at signing, 75% on delivery and acceptance. Never per seat, no subscription. Who owns what you build?
 You do. The application is handed over to run on your hardware. What if we stop working together?
 The application keeps running on your machines.
 
@@ -1111,7 +1101,7 @@ How the website handles an audit request, and how we scope data handling for a b
 receive what you choose to send.
 - No cookies and no tracking. This site sets no cookies and runs no analytics today. If we add
 visitor counts, they will be cookie-free, hosted by us, and listed on this page first.
-- Arranging a time. Audit calls and partner calls are booked on pages run by Zoho Bookings, and the video call itself runs on Zoho Meeting. “Get Started” and the partner page link to those pages. What you enter on a booking page, and the time you choose, goes to Zoho Bookings and to us. Please keep customer names and confidential details out of the booking form; you can say more on the call.
+- Arranging a time. Calls are booked on a page run by Zoho Bookings, and the video call itself runs on Zoho Meeting. “Get Started” and the partner page link to it. What you enter on the booking page, and the time you choose, goes to Zoho Bookings and to us. Please keep customer names and confidential details out of the booking form; you can say more on the call.
 
 ## Why we collect it
 Only to set up and run your audit or partner call, and to follow up about it. We don't sell it, rent it or use it for
