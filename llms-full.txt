@@ -898,7 +898,7 @@ Book a 15-minute call See what you’d earn
 No fee to join. Your first project, we do together. Start with the work your customer already needs to do.
 
 ## Already the person they call?
-Start with a business you already work for. They trust you, and that counts for more than a pitch from a stranger. These are the trades we’re designing the program around, with the kind of job their customers ask about.
+Start with a business you already work for. They trust you, and that counts for more than a pitch from a stranger. These are the trades the program is for.
 - Bookkeepers and small accounting practices Invoices read, checked and filed.
 - One-person IT shops, break/fix and small MSPs Records your clients still retype by hand.
 - Web designers and small agencies Enquiries and bookings that end up copied into another system.
