@@ -2,16 +2,15 @@
 
 > Software built around how your business works, running on your own computers. We audit the workflow, build the application and hand it over. No per-seat fees.
 
-Mission Canvas builds private AI software for small and mid-sized businesses. Each engagement starts with a workflow audit, then the application is built from a working starting point for the industry (a "canvas") and runs on the business's own computers. Licensed per company, with no per-seat fees. Book an audit: https://missioncanvas.ai/audit/
+Mission Canvas builds private AI software for small and mid-sized businesses. Each engagement starts with a workflow audit, then the application is built from a working starting point for the industry (a "canvas") and runs on the business's own computers. One job, one fixed price, quoted after the audit. 25% at signing, 75% at handover. Never per seat, no subscription. Get started: https://missioncanvas.ai/audit/
 
 ---
 
 Source: https://missioncanvas.ai/
 
 # Software built around your business, on your own computers.
-Companies have two expensive options for AI. We offer a disruptive, affordable third.
-Book an audit
-No contract. Nothing to prepare.
+Start with the one job that eats your week. We build the software around it.
+Get Started
 Who this is for
 
 ## Small and mid-sized businesses.
@@ -62,7 +61,7 @@ Palette · Start with your own work Start a brief or reply, or choose a folder b
 For your business
 
 ## Software built around how you already work.
-We audit how the work moves, build from a working start for your industry, and hand it over to run on your computers. Book an audit
+We audit how the work moves, build from a working start for your industry, and hand it over to run on your computers. Get Started
 Free for you
 
 ## Palette⁠&trade;, a free local AI app for your documents.
@@ -81,7 +80,7 @@ How it works
 01 Audit 02 Redesign 03 Assemble 04 Operate
 
 ### Audit
-We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes. What you get
+We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes, starting with the one job that costs you the most. What you get
 Process map · Where the hours go How long it all takes
 Four to six weeks from the audit to handover, depending on what the audit finds.
 
@@ -99,25 +98,24 @@ Four to six weeks from the audit to handover, depending on what the audit finds.
 The software takes over repeat work: data entry, reports, filing. We measure it and adjust it with your team. What you get
 Running in your business How long it all takes
 Four to six weeks from the audit to handover, depending on what the audit finds.
-Book an audit No contract. Nothing to prepare.
-For firms supporting many customers
+Get Started
+For bookkeepers, IT firms and installers
 
 ## Start with one customer workflow.
 You already know the customer’s work. We help turn one recurring task into software they can use and check on their own systems. Start with a scoped engagement; agree the output and the check before expanding.
-Discuss a customer workflow → See our work samples →
+Discuss a customer workflow → How partnering works → See our work samples →
 
 ## Questions.
 What is Mission Canvas?
 Software built around how your business already works, running on your own computers. We audit how the work moves, build the application from a working starting point for your industry, and hand it over to you. Who is it for?
-Small and mid-sized businesses whose work runs on documents, records and rules. That includes construction, education, logistics, front desk and voice, events and venues, with healthcare and office work in progress. What do you build beyond a chat interface?
+Small and mid-sized businesses whose work runs on documents, records and rules: education, logistics, front desk and voice, events and venues today; construction, healthcare and office work in progress. What do you build beyond a chat interface?
 Mission Canvas builds an application around an agreed workflow, with the inputs, review steps and output your team needs. We scope the local processing and any outside connections before delivery. What happens in the audit?
-We sit with your team and map how the work really moves: the tools, the files, the handoffs. We measure where the time goes. You get a process map and a list of where the hours go. No contract, nothing to prepare. How long does it take?
+We sit with your team and map how the work really moves: the tools, the files, the handoffs. We measure where the time goes. You get a process map and a list of where the hours go. How long does it take?
 Four to six weeks from the audit to handover, depending on what the audit finds.
-Show all 13 questions
+Show all 14 questions
 Start with an audit
 
-## Stop working around your software. Build it around your business. Book an audit
-No contract. Nothing to prepare.
+## Stop working around your software. Build it around your business. Get Started
 Your company already knows how to work. Your software should too.
 
 ---
@@ -181,11 +179,9 @@ Privacy, security and human oversight first. Technology should earn trust, not d
 ## Wherever paperwork piles up.
 Healthcare is where this matters most. Patient information needs clearly defined access and processing boundaries. With Mission
 Canvas, sensitive work stays on a local model, and every answer records the path it took.
-The same approach works in education, logistics, legal, financial services, government and manufacturing.
 
 ## Your company already knows how to work. Your software should too.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+The audit comes first. Building the tool is a separate job, quoted before you commit. Get Started
 
 ---
 
@@ -226,21 +222,12 @@ Windows irm https://missioncanvas.ai/install-cli.ps1 | iex
 
 Source: https://missioncanvas.ai/audit/
 
-Start with one workflow
+Get Started
 
 # Bring the job that keeps coming back.
-Tell us how the work moves between people, documents and systems. If you support other businesses, start with one customer workflow. Keep confidential details out of this first message.
-- Name the job. What goes in, what needs to come out, and who checks it?
-- Agree the next step. We discuss scope before proposing a build or a price.
-- Arrange a time by email. Preparing this request does not book an appointment.
-Your request
-
-## Tell us where to start.
-Your name Work email
-Company Industry Choose one Education Logistics Voice & Front Desk Events & Venues Construction & Real Estate Healthcare Office & Administration Something else What job would you like to improve? Prepare email request →
-This opens a draft in your email app. Review and send it yourself. Nothing is submitted to this website. How we handle your data.
-Your request is prepared, not sent. Send it from your email app so we can arrange a time.
-If no draft opened, copy the request below and send it to jason.covington@missioncanvas.ai. Prepared request
+Tell us how the work moves between people, documents and systems. If you support other businesses, start with one customer workflow. Pick a time and a video link comes with the booking.
+Get Started
+Keep customer names, confidential documents, credentials and personal records out of the booking page. How we handle your data.
 
 ---
 
@@ -285,8 +272,7 @@ Invoices read, checked and filed. Invoices · Queries · Recurring work
 If the work runs on documents, records and rules, we can build for it. Scoped in the audit · Built for you
 
 ## Do what you do best. We'll handle the software.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+The audit comes first. Building the tool is a separate job, quoted before you commit. Get Started
 
 ---
 
@@ -296,7 +282,7 @@ Construction and Real Estate
 
 # Construction job costing and fleet software Run the job, not the paperwork.
 Start with the paperwork between the site and the office. We scope the workflow, the application and the checks your crew needs before agreeing the delivery.
-Book an audit No contract. Nothing to prepare. See how we approach the work
+Get Started See how we approach the work
 
 ## What we scope together.
 Choose one recurring job. The audit establishes the current workflow, the proposed change and how your team will check the result.
@@ -342,8 +328,7 @@ Your crew uses it on live jobs. We adjust it with you as it runs.
 - You can run local models instead, and send nothing out. How we handle your data
 
 ## Show us the job that eats your week.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+The audit comes first. Building the tool is a separate job, quoted before you commit. Get Started
 
 ---
 
@@ -353,7 +338,7 @@ Canvases CV-01 Education
 
 # Private AI for schools A living picture of every student, on your own machines.
 Say or type what you noticed in under a minute. The right student’s lens updates: strategies that work, accommodations, CEFR milestones. Student data never leaves the school.
-Book an audit No contract. Nothing to prepare.
+Get Started
 
 ## What it handles today.
 These parts work now. Anything else your business needs is agreed in the audit and built for you. This list is the floor, not the ceiling.
@@ -400,8 +385,7 @@ Everything it already does: 8 modules, 42 features
 - CV-07 Office & Administration
 
 ## Show us the job that eats your week.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+The audit comes first. Building the tool is a separate job, quoted before you commit. Get Started
 
 ---
 
@@ -411,7 +395,7 @@ Canvases CV-04 Events & Venues
 
 # Ticketing and access control software for venues One system from the ticket sale to the gate.
 Ticketing, check-in, the box office and your visitor list, for events and permanent venues.
-Book an audit No contract. Nothing to prepare.
+Get Started
 
 ## What it handles today.
 These parts work now. Anything else your business needs is agreed in the audit and built for you. This list is the floor, not the ceiling.
@@ -478,7 +462,7 @@ Everything it already does: 15 modules, 80 features
 - M-14 Notifications and automations An event bus you can build on.
 - M-15 Tenant administration Everything an operator needs to run their own house.
 
-## Your files stay on your computer.
+## What runs on your computer and what uses an outside service is agreed in the audit.
 - Files are read and organised on a computer you already own. No data migration. No new cloud account.
 - If you use an outside AI model, only what that task needs is sent, and it is logged.
 - You can run local models instead, and send nothing out. How we handle your data Other industries
@@ -490,8 +474,7 @@ Everything it already does: 15 modules, 80 features
 - CV-07 Office & Administration
 
 ## Show us the job that eats your week.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+The audit comes first. Building the tool is a separate job, quoted before you commit. Get Started
 
 ---
 
@@ -501,7 +484,7 @@ Canvases CV-06 Healthcare In progress
 
 # Patient check-in and scheduling software Patient flow without the paperwork.
 Check-in, scheduling and queues, with patient data kept on your own computers.
-Book an audit No contract. Nothing to prepare.
+Get Started
 
 ## What it is being built around.
 This canvas is in progress, so these are what it is being built around, not finished features. There are no screenshots yet.
@@ -531,8 +514,7 @@ In progress · Scope and delivery agreed before work begins
 - CV-07 Office & Administration
 
 ## Show us the job that eats your week.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+The audit comes first. Building the tool is a separate job, quoted before you commit. Get Started
 
 ---
 
@@ -542,7 +524,7 @@ Canvases CV-02 Logistics
 
 # Order tracking software for small logistics companies Know which order is late before the customer calls.
 Orders, stages and customer updates in one place, checked overnight on your own computers.
-Book an audit No contract. Nothing to prepare.
+Get Started
 
 ## What it handles today.
 These parts work now. Anything else your business needs is agreed in the audit and built for you. This list is the floor, not the ceiling.
@@ -585,8 +567,7 @@ Everything it already does: 8 modules, 35 features
 - CV-07 Office & Administration
 
 ## Show us the job that eats your week.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+The audit comes first. Building the tool is a separate job, quoted before you commit. Get Started
 
 ---
 
@@ -596,7 +577,7 @@ Canvases CV-07 Office & Administration In progress
 
 # Invoice processing automation for small businesses Invoices read, checked and filed.
 The repetitive back-office work, done on your own computers.
-Book an audit No contract. Nothing to prepare.
+Get Started
 
 ## What it is being built around.
 This canvas is in progress, so these are what it is being built around, not finished features. There are no screenshots yet.
@@ -626,8 +607,7 @@ In progress · Scope and delivery agreed before work begins
 - CV-06 Healthcare
 
 ## Show us the job that eats your week.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+The audit comes first. Building the tool is a separate job, quoted before you commit. Get Started
 
 ---
 
@@ -637,7 +617,7 @@ Canvases CV-03 Voice & Front Desk
 
 # AI receptionist for small businesses Every call answered. Every booking on the calendar.
 An agent answers the phone, WhatsApp and email, books and reschedules, and hands over to a person.
-Book an audit No contract. Nothing to prepare.
+Get Started
 
 ## What it handles today.
 These parts work now. Anything else your business needs is agreed in the audit and built for you. This list is the floor, not the ceiling.
@@ -669,7 +649,7 @@ Everything it already does: 9 modules, 38 features
 - M-08 Platform and security Built to be operated for many customers.
 - M-09 Metering and observability Know what runs, what fails and what it costs.
 
-## Your files stay on your computer.
+## What runs on your computer and what uses an outside service is agreed in the audit.
 - Files are read and organised on a computer you already own. No data migration. No new cloud account.
 - If you use an outside AI model, only what that task needs is sent, and it is logged.
 - You can run local models instead, and send nothing out. How we handle your data Other industries
@@ -681,8 +661,7 @@ Everything it already does: 9 modules, 38 features
 - CV-07 Office & Administration
 
 ## Show us the job that eats your week.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+The audit comes first. Building the tool is a separate job, quoted before you commit. Get Started
 
 ---
 
@@ -707,20 +686,21 @@ Source: https://missioncanvas.ai/faq
 Questions
 
 # Asked before every audit.
-If yours is not here, ask it in the audit, or write to us from the audit page.
+If yours is not here, ask it in the audit.
 
 ## The basics
 What is Mission Canvas?
 Software built around how your business already works, running on your own computers. We audit how the work moves, build the application from a working starting point for your industry, and hand it over to you. Who is it for?
-Small and mid-sized businesses whose work runs on documents, records and rules. That includes construction, education, logistics, front desk and voice, events and venues, with healthcare and office work in progress. What do you build beyond a chat interface?
+Small and mid-sized businesses whose work runs on documents, records and rules: education, logistics, front desk and voice, events and venues today; construction, healthcare and office work in progress. What do you build beyond a chat interface?
 Mission Canvas builds an application around an agreed workflow, with the inputs, review steps and output your team needs. We scope the local processing and any outside connections before delivery. What happens in the audit?
-We sit with your team and map how the work really moves: the tools, the files, the handoffs. We measure where the time goes. You get a process map and a list of where the hours go. No contract, nothing to prepare. How long does it take?
+We sit with your team and map how the work really moves: the tools, the files, the handoffs. We measure where the time goes. You get a process map and a list of where the hours go. How long does it take?
 Four to six weeks from the audit to handover, depending on what the audit finds. What is a canvas?
-A working application for one industry: its workflows, its words and its rules, already built. We start from yours and change it to fit, so you do not pay for what already exists.
+A working application for one industry: its workflows, its words and its rules, already built. We start from yours and change it to fit, so you do not pay for what already exists. Can my bookkeeper or IT firm bring you in?
+Yes. We work with the advisors a business already trusts, and the first project is done together. How partnering works →
 
 ## Cost and ownership
 What does it cost?
-One license per company, plus services quoted before you commit. Never per seat, no per-token charges, and no subscription for the application we hand over. Who owns what you build?
+One job, one fixed price, quoted after the audit. 25% at signing, 75% at handover. Never per seat, no subscription. Who owns what you build?
 You do. The application is handed over to run on your hardware. What if we stop working together?
 The application keeps running on your machines.
 
@@ -728,12 +708,11 @@ The application keeps running on your machines.
 Does our data leave our computers?
 Local processing and outside connections are scoped separately. We agree which files the application may read, what an external service would receive and what your team needs to review. See the public Palette page for the limits of the current downloadable app. Do we need new hardware?
 We assess your existing workstation or server against the workflow. Any additional hardware, model or service requirement is agreed in the scope. Can we keep the tools we use today?
-We start by mapping the tools, files and exports you already use. The audit establishes which integrations are supported and which would need to be built. What is Palette?
+Yes. We build around the tools, files and exports you already use. The audit establishes which connections exist and which would need to be built. What is Palette?
 Our free desktop app for Mac, Windows and Linux. It runs local AI on your own files, one folder at a time, and every claim in what it writes links back to its source.
 
 ## Do what you do best. We'll handle the software.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+The audit comes first. Building the tool is a separate job, quoted before you commit. Get Started
 
 ---
 
@@ -742,8 +721,8 @@ Source: https://missioncanvas.ai/how-it-works
 How it works
 
 # From scattered files to one picture of your business.
-Four steps turn what your company already has into something AI can work with. All of it on your own computers.
-Book an audit No contract. Nothing to prepare.
+We start with one job and the files it already uses. Here is what happens to them, in four steps, all on your own computers.
+Get Started
 
 ## The four steps
 01 Read 02 Sort 03 Connect 04 Work
@@ -770,7 +749,7 @@ We start from a canvas: a working application for your industry, with its workfl
 rules already built. Then we change it to fit you.
 
 ### Audit
-We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes.
+We sit with your team and map how work really moves: the tools, the files, the handoffs. We measure where time goes, starting with the one job that costs you the most.
 You get Process map · Where the hours go
 
 ### Redesign
@@ -795,8 +774,7 @@ Reuse the work you have done
 Identifying details edited. Construction is a partner-developed staging example. Explore all six examples →
 
 ## Your company already has the knowledge. Let's put it to work.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+The audit comes first. Building the tool is a separate job, quoted before you commit. Get Started
 
 ---
 
@@ -812,7 +790,7 @@ Mac Windows Linux
 Palette runs on a computer.
 Send yourself this page
 and open it there.
-Free. No account. Version 0.4.2, released 24 October 2026. Mac is signed and notarised. Windows is not yet
+Free. No account. Version 0.4.4, released 8 November 2026. Mac is signed and notarised. Windows is not yet
 signed, so SmartScreen will warn you once: what to click, and how to check the file.
 The design we are building toward. The app as it ships today is below, screen by screen.
 See it work · 105 seconds, unedited
@@ -878,22 +856,22 @@ What it is for, and what it is not
 Today It reads plain text:.txt,.md,.csv,.json
 and.ics. PDFs and Office files are listed and skipped, and it tells you so. It is an early build, and it
 is honest about where it stops.
-Install · version 0.4.2 · 24 October 2026
+Install · version 0.4.4 · 8 November 2026
 - Mac
 Open MissionCanvas.dmg and drag the app into Applications. It is signed and notarised. If macOS still says it cannot be verified, right-click the app and choose Open. Download for Mac, 683 MB
 - Windows
 Run MissionCanvas-Setup.exe. The installer is not yet code-signed, so SmartScreen shows “Windows protected your PC”. Click More info, then Run anyway. If you would rather check the file first, its SHA-256 is below. Download for Windows, 637 MB
 - Linux
-Open MissionCanvas.deb with your software installer, or run sudo apt install ~/Downloads/MissionCanvas.deb. Download for Linux, 701 MB
+Open MissionCanvas.deb with your software installer, or run sudo apt install ~/Downloads/MissionCanvas.deb. Download for Linux, 702 MB
 The files are still named MissionCanvas. They are Palette. SHA-256: check the file you downloaded
 MissionCanvas.dmg
-55b1076d1e9359065d405d5658c00fa0a630355c87a13542885c87d622702e27
+e50b46615e61e5e374cab47cb4ebd3649575502997f050ec8440610f48c0aa85
 MissionCanvas-Setup.exe
-5380141c921d30c0a8762eb8bed5b808850465c40c491b4a3fd0a84dceac271b
+fcc4c139288365bb3714b460a6dabce7fca613960adb7e9de8f5b8117dc06b82
 MissionCanvas.deb
-75f1bd828b529636c9f709eee9efb53eb4ec787a590c312955ff1be2cca99ed3
+37038c44fb85e570bbf5a255a57693d06c98b0923445ffd910e82c424293d77a
 Mac and Linux: shasum -a 256 <file>. Windows: certutil -hashfile <file> SHA256. These
-are the digests GitHub publishes for release desktop-v0.4.2; this page reads them when it is built.
+are the digests GitHub publishes for release desktop-v0.4.4; this page reads them when it is built.
 Price
 
 ## Free. No account, no card, no trial clock.
@@ -902,7 +880,7 @@ Who makes it
 ## Palette is the app. Mission Canvas is the company.
 Mission Canvas builds a business its own application, shaped to the way it works, and hands it over to keep. That
 is a different thing from Palette, and it starts with a conversation.
-Book an audit
+Get Started
 
 ## Try it on the sample notes. Then on one folder of your own. Download Palette
 
@@ -912,102 +890,135 @@ Source: https://missioncanvas.ai/partners
 
 Join as a partner
 
-# You know the customer.
-Help them do better work.
-For independent people who sell and install software for small businesses they already serve.
-We’re building the Certified Solutions Partner program. Bring your knowledge of the customer. We bring the software and agree the work together.
-Start a partner conversation
-Partner program · delivery resources being built Start with the work your customer already needs to do.
+# Something new to offer
+the businesses you already serve.
+We build a private AI tool around the one job that costs your customer the most time, like invoices, delivery tickets or scheduling. It runs on their own computers. You bring the customer. We scope it, build it and stand behind it for 18 months.
+You earn 3% of the project for an introduction, 30% when you sell and install it, and up to 50% when you build with us.
+Book a 15-minute call See what you’d earn
+No fee to join. Your first project, we do together. Start with the work your customer already needs to do.
 
 ## Already the person they call?
-The starting point is a business relationship you already have. These are the trades we’re designing the program around.
-- Bookkeepers and small accounting practices
-- One-person IT shops, break/fix and small MSPs
-- Web designers and small agencies
-- Shopify, WordPress and automation freelancers
-- Security camera and alarm installers
-- AV, cabling and business phone contractors
-- Point-of-sale dealers
-The fit is your business customers and the workflows you help them run.
-What you sell
+Start with a business you already work for. They trust you, and that counts for more than a pitch from a stranger. These are the trades we’re designing the program around, with the kind of job their customers ask about.
+- Bookkeepers and small accounting practices Invoices read, checked and filed.
+- One-person IT shops, break/fix and small MSPs Records your clients still retype by hand.
+- Web designers and small agencies Enquiries and bookings that end up copied into another system.
+- Shopify, WordPress and automation freelancers Orders, invoices and supplier paperwork matched and filed.
+- Security camera and alarm installers Delivery tickets checked against the job record.
+- AV, cabling and business phone contractors Check-in, scheduling and queues at the front desk.
+- Point-of-sale dealers Supplier invoices and delivery tickets matched to stock.
+Not on the list? If your customers run on documents, records and rules, it fits.
+After the handover
 
-## One workflow. A useful tool. A clear handover.
-Mission Canvas is a services company. We start with an audit, then adapt a canvas—an application built around one business workflow—to run on the customer’s own computers. One total price is quoted after the audit, with an 18-month guarantee on what we built.
+## Your name is on the introduction. Ours is on the fixes.
+- 18 months of fixes, at no charge. We fix what we built for 18 months at no charge. If something we built stops working, fixing it is our job.
+- Support agreed before the work starts. Who checks the result and who supports the customer afterward is agreed and written down first, so nobody finds out at a bad moment.
+Your first project
 
-### Understand the job
-Find the repeated work, the records it uses and the result someone needs. The audit
+## Four steps, and we’re there for each one.
 
-### Fit the software
-Our lab builds the reusable pieces. We agree the canvas and changes the workflow needs. The application
+### Tell us about one customer
+A short conversation about the business and the job that eats their week. Pick the one that hurts most, not the fifth on their list. No customer names or documents yet.
 
-### Put it to work
-Install with our CLI—the command-line installation tool—then check the workflow and hand it over. The customer’s computers
-The partner installation kit and certification path are being prepared. Delivery scope and readiness are confirmed before each engagement. Explore application examples →
+### Run the audit with us
+Your first audit is done with us. Watch, or lead it with us beside you. The audit sets the scope and the price.
+
+### We build it, you hand it over
+Our lab builds the software. Your first install is under our review. Audit to handover takes four to six weeks.
+
+### Get paid as the customer pays
+The customer pays 25% at signing and 75% at handover. Your share is paid as each payment clears. See applications we have built →
 How you earn
 
-## Payment follows the work you contribute.
+## What a project pays you.
+Your share depends on how much of the work you take on. For every $10,000 of canvas price:
+- $300 Introduce the customer 3% of the price
+- $800 Run the audit with us 8% of the price
+- $3,000 Sell it and install it 30% of the price
+- $5,000 Build the custom part with the lab 50% of the price
+Prices are quoted after each audit. This shows the arithmetic, not a typical price.
+No fee to join. No payment for recruiting. No subscription for your customer. All five partner levels, how you qualify, and how shares split
 Five rings recognize the work you take responsibility for. Each share applies to the total canvas price, with responsibilities recorded in the written agreement.
 Partner rings · cumulative shares
 Ring What you do Share of the canvas price How you qualify
 Ring 1 Referral Partner Introduce a customer who reaches an audit. 3% No prior delivery required. No fee to join.
 Ring 2 Solutions Advisor Run or co-run the audit and write the scope. 8% One audit done with us.
-Ring 3 Certified Solutions Partner Sell, audit, install a standard canvas with the CLI and hand it over. 30% One install under our review.
+Ring 3 Solutions Partner Sell, audit, install a standard canvas with the CLI and hand it over. 30% One install under our review.
 Ring 4 Forward Deployed Partner Do everything above and build the custom part in tandem with the lab. 50%
-Includes the guarantee reserve described below. Two custom builds accepted by the lab.
+Includes the fix reserve described below. Two custom builds accepted by the lab.
 Ring 5 Implementation Lead Recruit, train and QA-sign a team of partners while continuing to sell at your own ring. Your own ring on your own deals, plus 5%
 The 5% applies only to the team’s recorded sales that you trained the seller for and signed off. One level only. Ten installs of your own.
 The shares are cumulative: one person taking a deal from introduction through installation receives 30%, not 41%; if different people do the stages, the 30% splits into 3%, 5% and 22%.
-The customer pays one total price: 25% at signing, covering the audit fee and deposit together, and 75% on delivery and acceptance. Partners are paid their share as each payment clears, subject to the guarantee reserve below. We guarantee what we built for 18 months. No subscription.
-For a Forward Deployed Partner’s custom build, 5% of the canvas price is held within the 50% share as a guarantee reserve. It is released at month 18, less any fixes paid from it, under the written agreement.
-No fee to join. No payment for recruiting.
+One job, one fixed price, quoted after the audit. 25% at signing, 75% at handover. Never per seat, no subscription. Partners are paid their share as each payment clears, subject to the fix reserve below. We fix what we built for 18 months at no charge.
+For a Forward Deployed Partner’s custom build, 5% of the canvas price is held within the 50% share as a fix reserve. It is released at month 18, less any fixes paid from it, under the written agreement.
 What we provide
 
-## A way to learn, demonstrate and deliver.
-These are the planned program resources. We’ll confirm what is available when we agree your participation.
+## What’s ready today, and what’s coming.
 
-### Certification
-A practical path to the Certified Solutions Partner role, based on delivery work.
+### Ready now
+- Us, on your first projects
+Your first audit is done with us and your first install is under our review.
+- The audit and the lab
+We scope the work, price it and build the software.
+- Examples to show
+Applications we have built, to show a customer what is possible. See the examples
+- Palette™, to try yourself
+Our free desktop app. Local AI on your own files, so you know what you are describing. About Palette
 
-### CLI and install kit
-The command-line installation tool, instructions and handover checks for the agreed canvas.
+### Being built
+- Certification resources
+- The partner install kit and handover checks
+- Partner demo material
+- A partner listing for customers
+- Event invitations
+We confirm what is available and record responsibilities in the written agreement before work begins.
+When your customer asks
 
-### Demo material
-Examples you can show and clear language for what the software can do.
-
-### Partner listing
-A planned place for customers to find partners who meet the delivery standard.
-
-### Event invitations
-Opportunities to learn, compare experience and meet the people building the software.
+## Five questions you’ll hear, and the answers.
+What does it cost?
+One job, one fixed price, quoted after the audit. 25% at signing, 75% at handover. Never per seat, no subscription.
+Where does our data go?
+The software runs on your own computers. What runs locally, what may leave, and how it is logged.
+What if it breaks?
+Mission Canvas fixes what it built for 18 months at no charge.
+How long does it take?
+Four to six weeks from the audit to handover.
+Who do we call afterward?
+Whoever the handover names. That is agreed and written down before the work starts.
+Stick to these. Ask us before promising a capability, result or delivery date.
 What we ask
 
 ## Start with one real customer workflow.
 Start by bringing one workflow within your first sixty days in the program. Agree access with the customer before sharing their information.
+- Listen before you offer. Ask what takes their week and what they already pay to get done. Start with the job, not the technology.
+- Show, then ask. Show an application we have built and ask whether it would help. Let the customer name the job.
 - Describe the work honestly. Report what happened, what passed and what still needs attention.
 - Use the claims we have cleared. Show what the software does. Ask before promising a capability, result or delivery date.
 - Make the handover usable. Agree who checks the result and who supports the customer afterward.
-How to apply
+Get in touch
 
-## Tell us about the work you already know.
-A short introduction is enough. Describe the businesses you serve and a recurring job you could help improve.
-Keep customer names, confidential documents, credentials and personal records out of this first message.
-You can also write directly to missioncanvas@gmail.com.
-Your name Email Your trade Choose one Bookkeepers and small accounting practices One-person IT shops, break/fix and small MSPs Web designers and small agencies Shopify, WordPress and automation freelancers Security camera and alarm installers AV, cabling and business phone contractors Point-of-sale dealers Another trade serving small businesses What kinds of businesses do you serve? One workflow you could help improve Prepare partner email
-This opens a draft in your email app. Review and send it yourself. Nothing is sent or booked by this website. How we handle your data.
-Your application email is prepared, not sent. Send it yourself after reviewing it.
-If no email draft opened, copy the text below and send it to missioncanvas@gmail.com. Prepared application
+## Tell us about one customer.
+Book a call, or write three lines. Either is fine.
+Book a 15-minute call
+Keep customer names, confidential documents, credentials and personal records out of the booking page and out of your first message.
+You can also write directly to missioncanvasai@gmail.com.
+Three lines are enough: who you are, your trade, and one job a customer of yours would gladly hand over. Your name Your trade Choose one Bookkeepers and small accounting practices One-person IT shops, break/fix and small MSPs Web designers and small agencies Shopify, WordPress and automation freelancers Security camera and alarm installers AV, cabling and business phone contractors Point-of-sale dealers Another trade serving small businesses One job a customer of yours would gladly hand over Prepare partner email
+This opens a draft in your email app, so we can reply to you there. Review it and send it yourself. This form sends nothing. How we handle your data.
+Your email is prepared, not sent. Send it yourself after reviewing it.
+If no email draft opened, copy the text below and send it to missioncanvasai@gmail.com. Prepared email
 A few questions
 
 ## Before you get in touch.
-Do I need to be a software developer?
-You need to understand the customer’s work and be able to learn the installation and handover process. We will agree what you can deliver and where you need support before a customer engagement. Can I start by making an introduction?
-Yes. Tell us about the kind of customer you serve and one recurring workflow. Any referral payment will depend on the written terms agreed before the work. What does Certified Solutions Partner mean?
-It is the delivery role for someone who sells, audits, installs a standard canvas and hands it over. Qualification requires one install under our review. The certification resources are being built. This is not a security certification or an employment offer. Is Palette what I would sell?
-Palette is our free local app. Mission Canvas is the services company. The partner offer is a scoped audit and a canvas adapted to a business workflow, with installation and handover. Are the shares added together?
-No. The rings are cumulative. The share for your contribution includes the lower stages; it is not added on top of them. The written agreement records who does each stage and how the share is split. Is there a subscription or a joining fee?
-No. The customer pays one total price for a canvas, with an 18-month guarantee on what we built. There is no fee to join and no payment for recruiting. Are all the partner resources available today?
-Certification resources, the CLI and install kit, demo material, a listing and event invitations are being built. We confirm what is available and record responsibilities in the written agreement before work begins. Does applying send my information or book a call?
-The form prepares an email draft on your device. You review it and send it yourself. Nothing is submitted or booked by this website.
+What happens if something breaks after I hand it over?
+We fix what we built for 18 months at no charge. Who checks the result and who supports the customer afterward is agreed in writing before the work starts. If you built the custom part with the lab as a Forward Deployed Partner, fixes to it are paid from the fix reserve held within your share. Do I need to be a software developer?
+No. You need to understand the customer’s work and be able to learn the installation and handover process. We will agree what you can deliver and where you need support before a customer engagement. Can I start by making an introduction?
+Yes. Tell us about the kind of customer you serve and one recurring workflow. Any referral payment will depend on the written terms agreed before the work. What comes after the first project?
+One job at a time. When the first one works, ask the customer which job should come next, and who else they know with the same problem. Each new project is scoped and priced by its own audit. When do I get paid?
+As the customer pays. The customer pays 25% at signing and 75% at handover, and your share is paid as each payment clears, subject to any fix reserve. Is there a subscription or a joining fee?
+No. The customer pays one fixed price for the job, with 18 months of fixes on what we built, at no charge. There is no fee to join and no payment for recruiting. Are the shares added together?
+No. The rings are cumulative. The share for your contribution includes the lower stages; it is not added on top of them. The written agreement records who does each stage and how the share is split. What does Solutions Partner mean?
+It is the delivery role for someone who sells, audits, installs a standard canvas and hands it over. Qualification requires one install under our review. Is Palette what I would sell?
+Palette is our free local app. Mission Canvas is the services company. The partner offer is a scoped audit and a canvas adapted to a business workflow, with installation and handover. Does the form send my information or book a call?
+The form prepares an email draft on your device. You review it and send it yourself; the website submits nothing. The “Book a 15-minute call” button opens a separate booking page run by Zoho Bookings. What you enter there goes to Zoho and to us.
 Partners are independent contractors, not employees. The relationship is non-exclusive. Participation, responsibilities and compensation are set out in a written agreement. No fee to join. No payment for recruiting.
 
 ---
@@ -1023,8 +1034,8 @@ Contact the team
 ## About Mission Canvas
 Mission Canvas builds software around how small and mid-sized businesses already work, and runs it on their own
 computers. Each business starts with an audit. Its first canvas is for construction and real estate, covering
-daily reports, documents and job costs. Customers license the software once per company, with no
-per-seat fees.
+daily reports, documents and job costs. One job, one fixed price, quoted after the audit. Never
+per seat, no subscription.
 Website
 missioncanvas.ai
 
@@ -1040,9 +1051,9 @@ Source: https://missioncanvas.ai/pricing
 
 Pricing
 
-# One license per company. Never per seat.
-You pay for the software once it fits your business, and for the work to fit it, quoted before you commit.
-Book an audit No contract. Nothing to prepare.
+# One job, one fixed price.
+Quoted after the audit. 25% at signing, 75% at handover. Never per seat, no subscription.
+Get Started
 - 1
 
 ## The audit
@@ -1050,9 +1061,9 @@ Scope agreed first
 We map how the work runs and where the hours go. You get a process map and a quote for the build.
 - 2
 
-## One license per company
+## One fixed price
 Quoted after the audit
-For your whole company. Add people without adding fees. Never per seat.
+Add people without adding fees. Never per seat.
 - 3
 
 ## Services, quoted
@@ -1079,19 +1090,18 @@ replace.
 
 ## Questions about cost.
 What does it cost?
-One license per company, plus services quoted before you commit. Never per seat, no per-token charges, and no subscription for the application we hand over. Who owns what you build?
+One job, one fixed price, quoted after the audit. 25% at signing, 75% at handover. Never per seat, no subscription. Who owns what you build?
 You do. The application is handed over to run on your hardware. What if we stop working together?
 The application keeps running on your machines.
 
 ## Get a price for your business.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+The audit comes first. Building the tool is a separate job, quoted before you commit. Get Started
 
 ---
 
 Source: https://missioncanvas.ai/privacy
 
-Last updated November 3, 2026
+Last updated November 12, 2026
 
 # Your data, in plain words.
 How the website handles an audit request, and how we scope data handling for a business workflow.
@@ -1101,10 +1111,10 @@ How the website handles an audit request, and how we scope data handling for a b
 receive what you choose to send.
 - No cookies and no tracking. This site sets no cookies and runs no analytics today. If we add
 visitor counts, they will be cookie-free, hosted by us, and listed on this page first.
-- Arranging a time. We arrange audit calls by email. This site does not currently book an appointment or submit your request to a scheduling service.
+- Arranging a time. Audit calls and partner calls are booked on pages run by Zoho Bookings, and the video call itself runs on Zoho Meeting. “Get Started” and the partner page link to those pages. What you enter on a booking page, and the time you choose, goes to Zoho Bookings and to us. Please keep customer names and confidential details out of the booking form; you can say more on the call.
 
 ## Why we collect it
-Only to set up and run your audit, and to follow up about it. We don't sell it, rent it or use it for
+Only to set up and run your audit or partner call, and to follow up about it. We don't sell it, rent it or use it for
 advertising.
 
 ## Your email stays with your email provider
@@ -1141,12 +1151,11 @@ Local processing and external sharing are different decisions. For the current p
 Does our data leave our computers?
 Local processing and outside connections are scoped separately. We agree which files the application may read, what an external service would receive and what your team needs to review. See the public Palette page for the limits of the current downloadable app. Do we need new hardware?
 We assess your existing workstation or server against the workflow. Any additional hardware, model or service requirement is agreed in the scope. Can we keep the tools we use today?
-We start by mapping the tools, files and exports you already use. The audit establishes which integrations are supported and which would need to be built.
+Yes. We build around the tools, files and exports you already use. The audit establishes which connections exist and which would need to be built.
 For how this website and the audit handle your details, read the privacy page.
 
 ## Do what you do best. We'll handle the software.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+The audit comes first. Building the tool is a separate job, quoted before you commit. Get Started
 
 ---
 
@@ -1178,7 +1187,7 @@ It runs on your own computers, under your control. Four to six weeks from audit 
 The AI works inside an application built around your workflow, with your rules and records.
 
 ### Not rented by the seat
-One license per company, plus quoted services. No per-seat or per-token fees.
+One job, one fixed price, quoted after the audit. No per-seat or per-token fees.
 
 ### Not a report that sits in a drawer
 The audit ends in software your team uses, not a slide deck.
@@ -1207,8 +1216,7 @@ How Mission Canvas charges.
 What owners ask before an audit.
 
 ## Do what you do best. We'll handle the software.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+The audit comes first. Building the tool is a separate job, quoted before you commit. Get Started
 
 ---
 
@@ -1232,12 +1240,12 @@ People carry information between tools by hand. That is where time and accuracy 
 ## What to establish before choosing a solution.
 Question Ask first Mission Canvas
 Where your data lives Where is each part of the workflow processed? On your own computers
-How you pay What is included, and what is billed separately? One license per company, plus quoted services. No per-seat fees
+How you pay What is included, and what is billed separately? One job, one fixed price, quoted after the audit. No per-seat fees
 What you get Which job will the team be able to complete? Software built around your workflow, then handed over
 Who it is for Who uses the result and who supports it? Small and mid-sized businesses, starting with construction
 
 ## How Mission Canvas makes money.
-A license per company, plus services quoted before you commit. Never per seat. The whole model, with what each
+One job, one fixed price, quoted after the audit. Never per seat. The whole model, with what each
 part covers, is on the pricing page.
 
 ## Built to stay yours.
@@ -1252,8 +1260,8 @@ Choose the supported local model and any outside service as part of the scoped d
 We hand the software over. If we part ways, it keeps running on your machines. Read how we handle your data
 
 ## For partners with a customer workflow in mind.
-Start with one job your customers keep asking you to solve. We agree a scoped engagement, the output and how it will be checked on their systems. A broader application comes after that first useful result. See work you can inspect →
+Start with one job your customers keep asking you to solve. We agree a scoped engagement, the output and how it will be checked on their systems. A broader application comes after that first useful result.
+How partnering works → See work you can inspect →
 
 ## Do what you do best. We'll handle the software.
-Building the tool is a separate job, quoted before you commit. Book an audit
-No contract. Nothing to prepare.
+The audit comes first. Building the tool is a separate job, quoted before you commit. Get Started
