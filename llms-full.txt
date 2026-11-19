@@ -2,11 +2,11 @@
 
 > Software built around how your business works, running on your own computers. We audit the workflow, build the application and hand it over. No per-seat fees.
 
-Mission Canvas builds private AI software for small and mid-sized businesses. Each engagement starts with a workflow audit, then the application is built from a working starting point for the industry (a "canvas") and runs on the business's own computers. One job, one fixed price, quoted after the audit. 25% at signing, 75% on delivery and acceptance. Never per seat, no subscription. Get started: https://missioncanvas.ai/audit/
+Mission Canvas builds private AI software for small and mid-sized businesses. Each engagement starts with a workflow audit, then the application is built from a working starting point for the industry (a "canvas") and runs on the business's own computers. One job, one fixed price, quoted after the audit. 25% at signing, 75% on delivery and acceptance. Never per seat, no subscription. Get started: https://pretendhome.github.io/audit/
 
 ---
 
-Source: https://missioncanvas.ai/
+Source: https://pretendhome.github.io/
 
 # Software built around your business, on your own computers.
 Start with the one job that eats your week. We build the software around it.
@@ -120,7 +120,7 @@ Your company already knows how to work. Your software should too.
 
 ---
 
-Source: https://missioncanvas.ai/about
+Source: https://pretendhome.github.io/about
 
 About Mission Canvas
 
@@ -185,7 +185,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/apps/
+Source: https://pretendhome.github.io/apps/
 
 Download
 
@@ -220,7 +220,7 @@ Windows irm https://missioncanvas.ai/install-cli.ps1 | iex
 
 ---
 
-Source: https://missioncanvas.ai/audit/
+Source: https://pretendhome.github.io/audit/
 
 Get Started
 
@@ -231,7 +231,7 @@ Keep customer names, confidential documents, credentials and personal records ou
 
 ---
 
-Source: https://missioncanvas.ai/canvases/
+Source: https://pretendhome.github.io/canvases/
 
 Canvases
 
@@ -276,7 +276,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/canvases/construction
+Source: https://pretendhome.github.io/canvases/construction
 
 Construction and Real Estate
 
@@ -332,7 +332,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/canvases/education
+Source: https://pretendhome.github.io/canvases/education
 
 Canvases CV-01 Education
 
@@ -389,7 +389,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/canvases/events-venues
+Source: https://pretendhome.github.io/canvases/events-venues
 
 Canvases CV-04 Events & Venues
 
@@ -478,7 +478,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/canvases/healthcare
+Source: https://pretendhome.github.io/canvases/healthcare
 
 Canvases CV-06 Healthcare In progress
 
@@ -518,7 +518,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/canvases/logistics
+Source: https://pretendhome.github.io/canvases/logistics
 
 Canvases CV-02 Logistics
 
@@ -571,7 +571,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/canvases/office
+Source: https://pretendhome.github.io/canvases/office
 
 Canvases CV-07 Office & Administration In progress
 
@@ -611,7 +611,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/canvases/voice-front-desk
+Source: https://pretendhome.github.io/canvases/voice-front-desk
 
 Canvases CV-03 Voice & Front Desk
 
@@ -665,7 +665,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/docs
+Source: https://pretendhome.github.io/docs
 
 Developer docs
 
@@ -681,7 +681,7 @@ The installer names three commands to start with.
 
 ---
 
-Source: https://missioncanvas.ai/faq
+Source: https://pretendhome.github.io/faq
 
 Questions
 
@@ -716,7 +716,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/finish-a-stuck-ai-automation
+Source: https://pretendhome.github.io/finish-a-stuck-ai-automation
 
 # I built an AI automation for my business and it keeps breaking. Who can help me finish it?
 Bring one example of where the work stops and what the person doing the job expected to happen next. Mission Canvas can review the job, scope a build around it and hand the finished tool over to your team.
@@ -747,7 +747,7 @@ The customer owns the application we build and hand over. Use the walkthrough to
 
 ---
 
-Source: https://missioncanvas.ai/for-it-providers/clients-asking-about-ai
+Source: https://pretendhome.github.io/for-it-providers/clients-asking-about-ai
 
 # My clients are asking about AI. How can an IT provider help without putting client data into public tools?
 Mission Canvas helps IT providers scope a job that can run on the client’s machines. Pick one job with the client first. Ask which files it uses, who checks the result and whether any part needs an outside service. You can use that conversation to scope a tool that runs on the client’s own machines.
@@ -779,7 +779,7 @@ Working with us as a partner Book a call about your workflow
 
 ---
 
-Source: https://missioncanvas.ai/how-it-works
+Source: https://pretendhome.github.io/how-it-works
 
 How it works
 
@@ -841,7 +841,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/palette
+Source: https://pretendhome.github.io/palette
 
 Mission Canvas Palette
 
@@ -949,7 +949,7 @@ Get Started
 
 ---
 
-Source: https://missioncanvas.ai/partners
+Source: https://pretendhome.github.io/partners
 
 Join as a partner
 
@@ -1076,7 +1076,7 @@ Partners are independent contractors, not employees. The relationship is non-exc
 
 ---
 
-Source: https://missioncanvas.ai/press
+Source: https://pretendhome.github.io/press
 
 Press and media
 
@@ -1100,7 +1100,7 @@ Our first release is on its way. Ask the team for the latest news in the meantim
 
 ---
 
-Source: https://missioncanvas.ai/pricing
+Source: https://pretendhome.github.io/pricing
 
 Pricing
 
@@ -1152,7 +1152,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/privacy
+Source: https://pretendhome.github.io/privacy
 
 Last updated November 12, 2026
 
@@ -1180,7 +1180,7 @@ Mission Canvas does not bring your company's email into an inbox of ours. If an 
 
 ---
 
-Source: https://missioncanvas.ai/private-ai-for-confidential-files
+Source: https://pretendhome.github.io/private-ai-for-confidential-files
 
 # Can a small firm use AI on confidential client files without uploading them anywhere?
 Yes. Mission Canvas builds tools that read the files your firm chooses on its own computers. Start with a sample folder and ask it a question whose answer you already know. Check the source before you try the same job with client material.
@@ -1218,7 +1218,7 @@ Choose a sample change order in plain text and keep the job on a local model. Ch
 
 ---
 
-Source: https://missioncanvas.ai/security
+Source: https://pretendhome.github.io/security
 
 Your data
 
@@ -1250,7 +1250,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/what-is-mission-canvas
+Source: https://pretendhome.github.io/what-is-mission-canvas
 
 What is Mission Canvas
 
@@ -1311,7 +1311,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/why-mission-canvas
+Source: https://pretendhome.github.io/why-mission-canvas
 
 Why Mission Canvas
 
