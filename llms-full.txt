@@ -726,7 +726,8 @@ Bring a made-up input that used to work and one that fails. Walk through both, m
 This suits a business that wants a tool fitted to a repeatable job and a handover to its own team. A request for immediate repair of a third-party service needs a support agreement with that service.
 
 ## What stays on your computer, and what can leave?
-The application reads the agreed files on your machines. Before connecting an outside service, identify what it would receive and who can approve that connection.
+For your broken workflow, start with a folder that contains a sample input from the failing step. Palette lists the files without opening them. You give permission before it reads the files you choose. Follow a line in its generated document to the source sentence. See the folder walkthrough.
+An outside service receives only what the agreed task needs, with permission.
 See what your team can check and how the files are used.
 
 ## Set it up yourself or have it built around your job?
@@ -749,14 +750,15 @@ The customer owns the application we build and hand over. Use the walkthrough to
 Source: https://missioncanvas.ai/for-it-providers/clients-asking-about-ai
 
 # My clients are asking about AI. How can an IT provider help without putting client data into public tools?
-Pick one job with the client first. Ask which files it uses, who checks the result and whether any part needs an outside service. You can use that conversation to scope a tool that runs on the client’s own machines.
+Mission Canvas helps IT providers scope a job that can run on the client’s machines. Pick one job with the client first. Ask which files it uses, who checks the result and whether any part needs an outside service. You can use that conversation to scope a tool that runs on the client’s own machines.
 
 ## A check you can try
 At a client walkthrough, use a fictional service ticket. Ask the reviewer to point to the file behind one answer and identify who could approve an outside connection.
 This suits a provider whose client can name a recurring job and a person responsible for its output. A request to turn on AI across every department needs a narrower first job.
 
 ## What stays on your computer, and what can leave?
-The application reads the agreed files on your machines. Before connecting an outside service, identify what it would receive and who can approve that connection.
+On a client’s workstation, ask the client to choose a sample folder for the demonstration. Palette lists the files without opening them. You give permission before it reads the files you choose. Follow a line in its generated document to the source sentence. See the folder walkthrough.
+An outside service receives only what the agreed task needs, with permission.
 See what your team can check and how the files are used.
 
 ## Set it up yourself or have it built around your job?
@@ -772,7 +774,8 @@ Map one job from its first file to its last approval. Identify the machine, the 
 Start with supported local files and a local model. Agree the allowed connections with the client before designing the workflow.
 
 ### What can we offer a small-business client asking about AI?
-Offer to walk through a single job together. A scoped review gives the client a written account of the work before they decide whether to commission a build. Book a call about your workflow
+Offer to walk through a single job together. A scoped review gives the client a written account of the work before they decide whether to commission a build.
+Working with us as a partner Book a call about your workflow
 
 ---
 
@@ -1180,14 +1183,15 @@ Mission Canvas does not bring your company's email into an inbox of ours. If an 
 Source: https://missioncanvas.ai/private-ai-for-confidential-files
 
 # Can a small firm use AI on confidential client files without uploading them anywhere?
-Yes. A local model can read supported files on your computer. Start with a sample folder and ask it a question whose answer you already know. Check the source before you try the same job with client material.
+Yes. Mission Canvas builds tools that read the files your firm chooses on its own computers. Start with a sample folder and ask it a question whose answer you already know. Check the source before you try the same job with client material.
 
 ## A check you can try
 Put a made-up job cost in a short text file. Ask where that cost came from and follow the answer back to the file. Would a colleague be able to check the figure without asking you?
 A local workflow suits a team that needs to check an answer against its own records. If the job begins with scanned forms, the free app skips those files.
 
 ## What stays on your computer, and what can leave?
-The application reads the agreed files on your machines. Before connecting an outside service, identify what it would receive and who can approve that connection.
+For a client file, begin with a folder containing one fictional record. Palette lists the files without opening them. You give permission before it reads the files you choose. Follow a line in its generated document to the source sentence. See the folder walkthrough.
+An outside service receives only what the agreed task needs, with permission.
 See what your team can check and how the files are used.
 
 ## Set it up yourself or have it built around your job?
