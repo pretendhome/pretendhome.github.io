@@ -1,12 +1,12 @@
 # Mission Canvas
 
-> Private AI built around one job, on your own computers. One fixed price.
+> Private AI for small businesses that saves you time, saves you money, and protects your reputation. Built around one job, on your own computers. One fixed price.
 
 Mission Canvas builds private AI software for small and mid-sized businesses. Each engagement starts with a workflow audit, then the application is built from a working starting point for the industry (a "canvas") and runs on the business's own computers. One job, one fixed price, quoted after the audit. 25% at signing, 75% on delivery and acceptance. Never per seat, no subscription. Get started: https://pretendhome.github.io/audit/
 
 ## Main pages
 
-- [Get back the hours your office loses to paperwork](https://pretendhome.github.io/): Private AI built around one job, on your own computers. One fixed price.
+- [Private AI for Small Businesses](https://pretendhome.github.io/): Private AI for small businesses that saves you time, saves you money, and protects your reputation. Built around one job, on your own computers. One fixed price.
 - [Get Started](https://pretendhome.github.io/audit/): Bring the job that keeps coming back. Pick a time and a video link comes with the booking.
 - [Private AI software by industry](https://pretendhome.github.io/canvases/): Private AI software for construction, schools, logistics, front desks, events and venues, clinics and back offices. Find a canvas that gets you close; we make it fit.
 - [Private AI software for small businesses: questions answered](https://pretendhome.github.io/faq): Answers to what owners ask about private AI software before an audit: what it is, what it costs, who owns it, and where the data goes.
@@ -20,13 +20,13 @@ Mission Canvas builds private AI software for small and mid-sized businesses. Ea
 
 ## Industries
 
-- [Approved changes billed, not lost](https://pretendhome.github.io/canvases/construction): Mission Canvas scopes construction job costing and fleet software around your crew’s existing work. Start with a change order, job-cost export or fleet record.
-- [Reports done before 6 PM](https://pretendhome.github.io/canvases/education): Private AI for schools: teachers say what they noticed and each student’s lens updates with what works, accommodations and CEFR milestones, on your own machines.
-- [Fewer credits and refunds](https://pretendhome.github.io/canvases/events-venues): Fewer credits and refunds. Ticketing and access control software for events and venues in one system on your own computers.
-- [Catch every patient call and booking](https://pretendhome.github.io/canvases/healthcare): Every missed call is a lost booking: catch it. Patient check-in, scheduling and queues with patient data kept on your own computers.
-- [Late orders found before the customer calls](https://pretendhome.github.io/canvases/logistics): Late orders found before the customer calls. Orders, stages and customer updates in one place, checked overnight on your own computers.
-- [No retyping client PDFs](https://pretendhome.github.io/canvases/office): No retyping client PDFs. Invoices read, checked and filed, fewer errors reach the client, on your own computers.
-- [No more call-backs at lunch](https://pretendhome.github.io/canvases/voice-front-desk): No more call-backs at lunch. Every call answered, every booking on the calendar, with an AI receptionist on your own computers.
+- [Save money - Approved changes billed, not lost](https://pretendhome.github.io/canvases/construction): Mission Canvas scopes construction job costing and fleet software around your crew’s existing work. Start with a change order, job-cost export or fleet record.
+- [Reports done before 6 PM - Save time on student documentation](https://pretendhome.github.io/canvases/education): Private AI for schools: teachers say what they noticed and each student’s lens updates with what works, accommodations and CEFR milestones, on your own machines.
+- [Fewer credits and refunds - Save money](https://pretendhome.github.io/canvases/events-venues): Save money. Fewer credits and refunds. Ticketing and access control for events and venues in one system on your own computers.
+- [Catch every patient call and booking - Save money on missed appointments](https://pretendhome.github.io/canvases/healthcare): Save money. Every missed call is a lost booking: catch it. Patient check-in and scheduling with data kept on your own computers.
+- [Late orders found before the customer calls - Protect reputation](https://pretendhome.github.io/canvases/logistics): Protect your reputation. Late orders found before the customer calls. Orders and updates checked overnight on your own computers.
+- [No retyping client PDFs - Save time on invoices](https://pretendhome.github.io/canvases/office): Save time, protect reputation. No retyping client PDFs. Invoices read, checked and filed with fewer errors, on your own computers.
+- [No more call-backs at lunch - Save time and bookings](https://pretendhome.github.io/canvases/voice-front-desk): Save time, save money. No more call-backs at lunch. Every call answered, every booking on the calendar with an AI receptionist on your own computers.
 
 ## Optional
 

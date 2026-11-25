@@ -1,6 +1,6 @@
 # Mission Canvas
 
-> Private AI built around one job, on your own computers. One fixed price.
+> Private AI for small businesses that saves you time, saves you money, and protects your reputation. Built around one job, on your own computers. One fixed price.
 
 Mission Canvas builds private AI software for small and mid-sized businesses. Each engagement starts with a workflow audit, then the application is built from a working starting point for the industry (a "canvas") and runs on the business's own computers. One job, one fixed price, quoted after the audit. 25% at signing, 75% on delivery and acceptance. Never per seat, no subscription. Get started: https://pretendhome.github.io/audit/
 
@@ -8,17 +8,17 @@ Mission Canvas builds private AI software for small and mid-sized businesses. Ea
 
 Source: https://pretendhome.github.io/
 
-# Get back the hours your office loses to paperwork.
-Private AI built around one job, on your own computers. One fixed price.
+# Private AI for Small Businesses.
+Save time, save money, protect your reputation. Built around one job, on your own computers. One fixed price.
 Get Started
 Who this is for
 
 ## Small and mid-sized businesses.
-Owners and operations leads who are tired of typing the same thing into three systems. Pick your industry.
+Owners and operations leads who want to stop losing time and money to paperwork. Pick your industry and see how we fix it.
 ‹
-- CV-05 In progress Construction & Real Estate Did that change order make it into your job costs?
-- CV-06 In progress Healthcare Every missed call is a lost booking: catch it.
-- CV-07 In progress Office & Administration No retyping client PDFs.
+- CV-05 In progress Construction & Real Estate Save money - Did that change order make it into your job costs?
+- CV-06 In progress Healthcare Save money - Every missed call is a lost booking: catch it.
+- CV-07 In progress Office & Administration Save time - No retyping client PDFs.
 - CV-08 Everything else If the work runs on documents, records and rules, we can build for it. ›
 Each industry page lists what it handles today. New features are agreed in the audit and built for you, so the
 list is a floor, not a ceiling.
@@ -265,7 +265,7 @@ built. We change it to fit you.
 - CV-05 In progress
 
 ## Construction & Real Estate
-Did that change order make it into your job costs? Job sites · Delivery tickets · Fleet and fuel
+Save money - Did that change order make it into your job costs? Job sites · Delivery tickets · Fleet and fuel
 - CV-01
 
 ## Education
@@ -305,7 +305,7 @@ Source: https://pretendhome.github.io/canvases/construction
 Construction and Real Estate
 
 # Did that change order make it into your job costs?
-Approved changes billed, not lost. Owners see clean, matched paperwork on your own computers.
+Save money. Approved changes billed, not lost. Owners see clean, matched paperwork on your own computers.
 See how it works Book a 15-minute workflow call
 Illustrative workflow
 
@@ -416,7 +416,7 @@ Source: https://pretendhome.github.io/canvases/events-venues
 Canvases CV-04 Events & Venues
 
 # Ticketing and access control software for venues Fewer credits and refunds.
-Every ticket checked, every gate decisive. For events and permanent venues on your own computers.
+Save money on chargebacks. Every ticket checked, every gate decisive. For events and permanent venues on your own computers.
 Get Started
 
 ## What it handles today.
@@ -505,7 +505,7 @@ Source: https://pretendhome.github.io/canvases/healthcare
 Canvases CV-06 Healthcare In progress
 
 # Private patient check-in and scheduling software Every missed call is a lost booking: catch it.
-Patient check-in, scheduling and queues, with sensitive data kept where it belongs. On your own computers.
+Save money on missed bookings. Patient check-in, scheduling and queues, with sensitive data kept where it belongs. On your own computers.
 Get Started
 
 ## What it is being built around.
@@ -545,7 +545,7 @@ Source: https://pretendhome.github.io/canvases/logistics
 Canvases CV-02 Logistics
 
 # Order tracking software for small logistics companies Late orders found before the customer calls.
-The customer hears it from you first. Orders, stages and updates checked overnight on your own computers.
+Protect your reputation. The customer hears it from you first, not the competition. Orders and stages checked overnight on your own computers.
 Get Started
 
 ## What it handles today.
@@ -598,7 +598,7 @@ Source: https://pretendhome.github.io/canvases/office
 Canvases CV-07 Office & Administration In progress
 
 # Invoice processing automation for small businesses No retyping client PDFs.
-Invoices checked, so they are paid faster. Fewer errors reach the client.
+Save time, protect reputation. Invoices checked and paid faster. Fewer errors reach the client.
 Get Started
 
 ## What it is being built around.
@@ -638,7 +638,7 @@ Source: https://pretendhome.github.io/canvases/voice-front-desk
 Canvases CV-03 Voice & Front Desk
 
 # AI receptionist for small businesses No more call-backs at lunch.
-Every call answered, every booking on the calendar. Patients get a reply the same minute.
+Save time, save bookings. Every call answered immediately, every booking on the calendar. Patients get a reply the same minute.
 Get Started
 
 ## What it handles today.
@@ -1360,13 +1360,13 @@ The audit ends in software your team uses, not a slide deck.
 ## Who it is for.
 Small and mid-sized businesses whose work runs on documents, records and rules.
 ‹
-- CV-05 In progress Construction & Real Estate Did that change order make it into your job costs?
-- CV-01 Education Reports done before 6 PM.
-- CV-02 Logistics Late orders found before the customer calls.
-- CV-03 Voice & Front Desk No more call-backs at lunch.
-- CV-04 Events & Venues Fewer credits and refunds.
-- CV-06 In progress Healthcare Every missed call is a lost booking: catch it.
-- CV-07 In progress Office & Administration No retyping client PDFs.
+- CV-05 In progress Construction & Real Estate Save money - Did that change order make it into your job costs?
+- CV-01 Education Save time - Reports done before 6 PM.
+- CV-02 Logistics Protect reputation - Late orders found before the customer calls.
+- CV-03 Voice & Front Desk Save time and money - No more call-backs at lunch.
+- CV-04 Events & Venues Save money - Fewer credits and refunds.
+- CV-06 In progress Healthcare Save money - Every missed call is a lost booking: catch it.
+- CV-07 In progress Office & Administration Save time - No retyping client PDFs.
 - CV-08 Everything else If the work runs on documents, records and rules, we can build for it. ›
 
 ## Read next.
