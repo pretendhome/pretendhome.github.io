@@ -1,24 +1,24 @@
 # Mission Canvas
 
-> Software built around how your business works, running on your own computers. We audit the workflow, build the application and hand it over. No per-seat fees.
+> Private AI built around one job, on your own computers. One fixed price.
 
-Mission Canvas builds private AI software for small and mid-sized businesses. Each engagement starts with a workflow audit, then the application is built from a working starting point for the industry (a "canvas") and runs on the business's own computers. One job, one fixed price, quoted after the audit. 25% at signing, 75% on delivery and acceptance. Never per seat, no subscription. Get started: https://missioncanvas.ai/audit/
+Mission Canvas builds private AI software for small and mid-sized businesses. Each engagement starts with a workflow audit, then the application is built from a working starting point for the industry (a "canvas") and runs on the business's own computers. One job, one fixed price, quoted after the audit. 25% at signing, 75% on delivery and acceptance. Never per seat, no subscription. Get started: https://pretendhome.github.io/audit/
 
 ---
 
-Source: https://missioncanvas.ai/
+Source: https://pretendhome.github.io/
 
-# Software built around your business, on your own computers.
-Start with the one job that eats your week. We build the software around it.
+# Get back the hours your office loses to paperwork.
+Private AI built around one job, on your own computers. One fixed price.
 Get Started
 Who this is for
 
 ## Small and mid-sized businesses.
 Owners and operations leads who are tired of typing the same thing into three systems. Pick your industry.
 ‹
-- CV-05 In progress Construction & Real Estate Job site, office and fleet in one system.
-- CV-06 In progress Healthcare Patient flow and queues, with sensitive data kept where it belongs.
-- CV-07 In progress Office & Administration Invoices, queries and recurring paperwork, read, checked and filed.
+- CV-05 In progress Construction & Real Estate Did that change order make it into your job costs?
+- CV-06 In progress Healthcare Every missed call is a lost booking: catch it.
+- CV-07 In progress Office & Administration No retyping client PDFs.
 - CV-08 Everything else If the work runs on documents, records and rules, we can build for it. ›
 Each industry page lists what it handles today. New features are agreed in the audit and built for you, so the
 list is a floor, not a ceiling.
@@ -120,7 +120,7 @@ Your company already knows how to work. Your software should too.
 
 ---
 
-Source: https://missioncanvas.ai/about
+Source: https://pretendhome.github.io/about
 
 About Mission Canvas
 
@@ -185,7 +185,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/apps/
+Source: https://pretendhome.github.io/apps/
 
 Download
 
@@ -194,6 +194,7 @@ Desktop apps for Mac, Windows and Linux. They run on your own computer.
 
 ## Palette
 Free. Try it on your own files.
+Windows supports creating, shaping, downloading and printing documents. Attachments, local mail/calendar inclusion and saving to a folder are not yet available there. Current release limits.
 Mac Windows Linux
 
 ## Education
@@ -203,8 +204,7 @@ Mac Windows Linux
 ## After it downloads.
 - Mac Open the.dmg and drag the app into Applications. Palette is signed and notarized.
 If macOS still says the app can't be verified, right-click it and choose Open.
-- Windows Run the -Setup.exe installer. It is not yet code-signed, so SmartScreen shows
-"Windows protected your PC": click More info, then Run anyway.
+- Windows Run the -Setup.exe installer. Palette's installer is code-signed. See each app's release notes for its publisher and download checks.
 - Linux Palette is a.deb: open it with your software installer, or run
 sudo apt install ~/Downloads/MissionCanvas.deb. The other apps are.AppImage files,
 which download without permission to run, so double-clicking does nothing. In a terminal, chmod +x
@@ -220,7 +220,7 @@ Windows irm https://missioncanvas.ai/install-cli.ps1 | iex
 
 ---
 
-Source: https://missioncanvas.ai/audit/
+Source: https://pretendhome.github.io/audit/
 
 Get Started
 
@@ -231,7 +231,31 @@ Keep customer names, confidential documents, credentials and personal records ou
 
 ---
 
-Source: https://missioncanvas.ai/canvases/
+Source: https://pretendhome.github.io/book
+
+
+
+---
+
+Source: https://pretendhome.github.io/book-andrejs
+
+
+
+---
+
+Source: https://pretendhome.github.io/book-jason
+
+
+
+---
+
+Source: https://pretendhome.github.io/book-mical
+
+
+
+---
+
+Source: https://pretendhome.github.io/canvases/
 
 Canvases
 
@@ -241,31 +265,31 @@ built. We change it to fit you.
 - CV-05 In progress
 
 ## Construction & Real Estate
-Run the job, not the paperwork. Job sites · Delivery tickets · Fleet and fuel
+Did that change order make it into your job costs? Job sites · Delivery tickets · Fleet and fuel
 - CV-01
 
 ## Education
-A living picture of every student, on your own machines. Student lenses · Observations · Parent summaries
+Reports done before 6 PM. Student lenses · Observations · Parent summaries
 - CV-02
 
 ## Logistics
-Know which order is late before the customer calls. Order tracking · Overnight risk check · Questions from the record
+Late orders found before the customer calls. Order tracking · Overnight risk check · Questions from the record
 - CV-03
 
 ## Voice & Front Desk
-Every call answered. Every booking on the calendar. AI phone agents · WhatsApp · Booking
+No more call-backs at lunch. AI phone agents · WhatsApp · Booking
 - CV-04
 
 ## Events & Venues
-One system from the ticket sale to the gate. Ticketing · Access control · POS · Visitor CRM
+Fewer credits and refunds. Ticketing · Access control · POS · Visitor CRM
 - CV-06 In progress
 
 ## Healthcare
-Patient flow without the paperwork. Patient flow · Scheduling · Clinical operations
+Every missed call is a lost booking: catch it. Patient flow · Scheduling · Clinical operations
 - CV-07 In progress
 
 ## Office & Administration
-Invoices read, checked and filed. Invoices · Queries · Recurring work
+No retyping client PDFs. Invoices · Queries · Recurring work
 - CV-08
 
 ## Your field
@@ -276,32 +300,30 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/canvases/construction
+Source: https://pretendhome.github.io/canvases/construction
 
 Construction and Real Estate
 
-# Construction job costing and fleet software Run the job, not the paperwork.
-Start with the paperwork between the site and the office. We scope the workflow, the application and the checks your crew needs before agreeing the delivery.
-Get Started See how we approach the work
+# Did that change order make it into your job costs?
+Approved changes billed, not lost. Owners see clean, matched paperwork on your own computers.
+See how it works Book a 15-minute workflow call
+Illustrative workflow
 
-## What we scope together.
-Choose one recurring job. The audit establishes the current workflow, the proposed change and how your team will check the result.
-- 01
+## The change is approved. Can the office find it?
 
-### Site records
-How do crew notes, delivery tickets and progress updates reach the office?
-- 02
+### Today
+A foreman has the approved change in an email. The office has a job-cost export. Someone has to match them before the next cost review.
 
-### Job costs
-Where are committed costs and approved changes checked against the budget?
-- 03
+### What you could build
+A check flags an approved change with no match in the export. The office compares the job number and cost code against the original before updating the record.
 
-### Fleet and equipment
-Who checks maintenance dates, assignments and fuel records?
-- 04
-
-### Office paperwork
-Which invoice, reimbursement or report gets entered more than once?
+## Where does your paperwork get stuck?
+Choose the sticking point to see what to bring to a first review.
+An approved change is missing from job costs
+Bring a sample approved change and a job-cost export. Mark the job and cost code your reviewer would use to match them. Invoices are hard to match to site records
+Start with one sample invoice and its delivery ticket. Identify where the office loses the reference back to the job. Fleet maintenance slips between schedules
+Pick one vehicle and a sample service log. Agree who confirms the next service date and where that date should appear. Job files need to stay on your computers
+Use a sample export on a machine you already own. Review where each step runs and which steps, if any, need an outside service.
 Partner-developed · staging demonstration
 
 ## Start an estimate with reusable assemblies.
@@ -327,16 +349,16 @@ Your crew uses it on live jobs. We adjust it with you as it runs.
 - If you use an outside AI model, only what that task needs is sent, and it's logged.
 - You can run local models instead, and send nothing out. How we handle your data
 
-## Show us the job that eats your week.
-The audit comes first. Building the tool is a separate job, quoted before you commit. Get Started
+## Bring one job you want to fix.
+We’ll talk through what gets lost between the site and the office, and what a first workflow could cover. Book a 15-minute workflow call
 
 ---
 
-Source: https://missioncanvas.ai/canvases/education
+Source: https://pretendhome.github.io/canvases/education
 
 Canvases CV-01 Education
 
-# Private AI for schools A living picture of every student, on your own machines.
+# Private AI for schools Reports done before 6 PM.
 Say or type what you noticed in under a minute. The right student’s lens updates: strategies that work, accommodations, CEFR milestones. Student data never leaves the school.
 Get Started
 
@@ -389,12 +411,12 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/canvases/events-venues
+Source: https://pretendhome.github.io/canvases/events-venues
 
 Canvases CV-04 Events & Venues
 
-# Ticketing and access control software for venues One system from the ticket sale to the gate.
-Ticketing, check-in, the box office and your visitor list, for events and permanent venues.
+# Ticketing and access control software for venues Fewer credits and refunds.
+Every ticket checked, every gate decisive. For events and permanent venues on your own computers.
 Get Started
 
 ## What it handles today.
@@ -478,12 +500,12 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/canvases/healthcare
+Source: https://pretendhome.github.io/canvases/healthcare
 
 Canvases CV-06 Healthcare In progress
 
-# Patient check-in and scheduling software Patient flow without the paperwork.
-Check-in, scheduling and queues, with patient data kept on your own computers.
+# Private patient check-in and scheduling software Every missed call is a lost booking: catch it.
+Patient check-in, scheduling and queues, with sensitive data kept where it belongs. On your own computers.
 Get Started
 
 ## What it is being built around.
@@ -518,12 +540,12 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/canvases/logistics
+Source: https://pretendhome.github.io/canvases/logistics
 
 Canvases CV-02 Logistics
 
-# Order tracking software for small logistics companies Know which order is late before the customer calls.
-Orders, stages and customer updates in one place, checked overnight on your own computers.
+# Order tracking software for small logistics companies Late orders found before the customer calls.
+The customer hears it from you first. Orders, stages and updates checked overnight on your own computers.
 Get Started
 
 ## What it handles today.
@@ -571,12 +593,12 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/canvases/office
+Source: https://pretendhome.github.io/canvases/office
 
 Canvases CV-07 Office & Administration In progress
 
-# Invoice processing automation for small businesses Invoices read, checked and filed.
-The repetitive back-office work, done on your own computers.
+# Invoice processing automation for small businesses No retyping client PDFs.
+Invoices checked, so they are paid faster. Fewer errors reach the client.
 Get Started
 
 ## What it is being built around.
@@ -611,12 +633,12 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/canvases/voice-front-desk
+Source: https://pretendhome.github.io/canvases/voice-front-desk
 
 Canvases CV-03 Voice & Front Desk
 
-# AI receptionist for small businesses Every call answered. Every booking on the calendar.
-An agent answers the phone, WhatsApp and email, books and reschedules, and hands over to a person.
+# AI receptionist for small businesses No more call-backs at lunch.
+Every call answered, every booking on the calendar. Patients get a reply the same minute.
 Get Started
 
 ## What it handles today.
@@ -665,7 +687,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/docs
+Source: https://pretendhome.github.io/docs
 
 Developer docs
 
@@ -681,7 +703,7 @@ The installer names three commands to start with.
 
 ---
 
-Source: https://missioncanvas.ai/faq
+Source: https://pretendhome.github.io/faq
 
 Questions
 
@@ -716,7 +738,96 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/how-it-works
+Source: https://pretendhome.github.io/finish-a-stuck-ai-automation
+
+# I built an AI automation for my business and it keeps breaking. Who can help me finish it?
+Bring one example of where the work stops and what the person doing the job expected to happen next. Mission Canvas can review the job, scope a build around it and hand the finished tool over to your team.
+
+## A check you can try
+Bring a made-up input that used to work and one that fails. Walk through both, mark the first different result and show the source a reviewer would use to decide which answer is right.
+This suits a business that wants a tool fitted to a repeatable job and a handover to its own team. A request for immediate repair of a third-party service needs a support agreement with that service.
+
+## What stays on your computer, and what can leave?
+For your broken workflow, start with a folder that contains a sample input from the failing step. Palette lists the files without opening them. You give permission before it reads the files you choose. Follow a line in its generated document to the source sentence. See the folder walkthrough.
+An outside service receives only what the agreed task needs, with permission.
+See what your team can check and how the files are used.
+
+## Set it up yourself or have it built around your job?
+If you like setting up tools yourself, try Palette, the free desktop app for Mac, Windows and Linux. It reads.txt,.md,.csv,.json and.ics files. It skips PDFs and Office files.
+For a fitted tool, Mission Canvas starts with an audit, a review of one job and the files and people it depends on. We design around that job, build the application for your machines and hand it over. You own what we build.
+
+## Questions from small firms
+
+### My small business tried to build an AI assistant and got stuck. What are my options?
+If you enjoy maintaining the setup, isolate one failing step and try it with sample files. For a fitted build, bring the same example to a workflow review.
+
+### How can a freelancer support an AI tool without being on call all the time?
+Write down who owns the tool after handover and who can review a failed result. Agree ongoing support separately when scoping the work.
+
+### Who owns the tool when it is finished?
+The customer owns the application we build and hand over. Use the walkthrough to agree what your team needs to operate it. Book a call about your workflow
+
+---
+
+Source: https://pretendhome.github.io/for-it-providers/clients-asking-about-ai
+
+For managed IT and security providers
+
+# What can you offer clients who ask for private AI?
+Turn a client’s AI request into a service you can scope. You lead the conversation. We help build the workflow.
+Mission Canvas helps IT providers run one recurring job on the client’s machines. Agree which files it uses and who checks the result.
+See how it works Book a 15-minute partner call
+Illustrative workflow
+
+## Take one client request to a scope they can review.
+
+### Today
+An accounting client asks for AI at month-end. Their provider still needs to know which check matters, which files it uses and who signs off.
+
+### What you could build
+The provider can propose a first job: compare two sample ledger exports, point to the difference and have the client’s reviewer check the source rows.
+
+## See how an answer links to its source.
+In Palette, select a claim to see the sentence and file it came from. The screenshot uses sample notes. Watch the Palette walkthrough
+
+## Which job would you start with?
+Choose a job to see what you can test with sample files.
+Accounting: compare ledger exports
+Start with two sample CSVs and one discrepancy the client already knows. Agree who checks the result. Legal: find a clause in a sample file
+Use a fictional text file. Ask for the original sentence a reviewer would check and agree what stays on the workstation. Construction: review a change order
+Use a sample change order and job-cost export. Agree which fields to compare and who confirms the result.
+
+## A check you can try
+At a client walkthrough, use a fictional service ticket. Ask the reviewer to point to the file behind one answer and identify who could approve an outside connection.
+This suits a provider whose client can name a recurring job and a person responsible for its output. A request to turn on AI across every department needs a narrower first job.
+
+## What stays on your computer, and what can leave?
+On a client’s workstation, ask the client to choose a sample folder for the demonstration. Palette lists the files without opening them. You give permission before it reads the files you choose. Follow a line in its generated document to the source sentence. See the folder walkthrough.
+An outside service receives only what the agreed task needs, with permission.
+See what your team can check and how the files are used.
+
+## Set it up yourself or have it built around your job?
+If you like setting up tools yourself, try Palette, the free desktop app for Mac, Windows and Linux. It reads.txt,.md,.csv,.json and.ics files. It skips PDFs and Office files.
+For a fitted tool, Mission Canvas starts with an audit, a review of one job and the files and people it depends on. We design around that job, build the application for your machines and hand it over. You own what we build.
+
+## Questions from IT providers
+
+### What should an AI readiness assessment include?
+Map one job from its first file to its last approval. Identify the machine, the person reviewing the result and any connection that would take data outside the client’s control.
+
+### How can a security-focused provider offer AI that keeps client work on their machines?
+Start with supported local files and a local model. Agree the allowed connections with the client before designing the workflow.
+
+### What can we offer a small-business client asking about AI?
+Offer to walk through a single job together. A scoped review gives the client a written account of the work before they decide whether to commission a build.
+Working with us as a partner
+
+## What are your clients asking AI to do?
+Bring one recurring task. We’ll talk through the files it uses, where it can run and who checks the result. Book a 15-minute partner call
+
+---
+
+Source: https://pretendhome.github.io/how-it-works
 
 How it works
 
@@ -778,7 +889,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/palette
+Source: https://pretendhome.github.io/palette
 
 Mission Canvas Palette
 
@@ -790,8 +901,8 @@ Mac Windows Linux
 Palette runs on a computer.
 Send yourself this page
 and open it there.
-Free. No account. Version 0.4.4, released 8 November 2026. Mac is signed and notarised. Windows is not yet
-signed, so SmartScreen will warn you once: what to click, and how to check the file.
+Free. No account. Version 0.4.6, released 23 November 2026. Mac is signed and notarised. The Windows installer is code-signed.
+Installation and download checks. Windows in this release: create, shape, download and print documents. File and voice-note attachments, local mail/calendar inclusion and saving to a chosen folder are not yet available on Windows.
 The design we are building toward. The app as it ships today is below, screen by screen.
 See it work · 105 seconds, unedited
 
@@ -856,22 +967,22 @@ What it is for, and what it is not
 Today It reads plain text:.txt,.md,.csv,.json
 and.ics. PDFs and Office files are listed and skipped, and it tells you so. It is an early build, and it
 is honest about where it stops.
-Install · version 0.4.4 · 8 November 2026
+Install · version 0.4.6 · 23 November 2026
 - Mac
-Open MissionCanvas.dmg and drag the app into Applications. It is signed and notarised. If macOS still says it cannot be verified, right-click the app and choose Open. Download for Mac, 683 MB
+Open MissionCanvas.dmg and drag the app into Applications. It is signed and notarised. If macOS still says it cannot be verified, right-click the app and choose Open. Download for Mac, 684 MB
 - Windows
-Run MissionCanvas-Setup.exe. The installer is not yet code-signed, so SmartScreen shows “Windows protected your PC”. Click More info, then Run anyway. If you would rather check the file first, its SHA-256 is below. Download for Windows, 637 MB
+Run MissionCanvas-Setup.exe. The installer is code-signed. Its SHA-256 is below so you can check the download. Download for Windows, 638 MB
 - Linux
-Open MissionCanvas.deb with your software installer, or run sudo apt install ~/Downloads/MissionCanvas.deb. Download for Linux, 702 MB
+Open MissionCanvas.deb with your software installer, or run sudo apt install ~/Downloads/MissionCanvas.deb. Download for Linux, 699 MB
 The files are still named MissionCanvas. They are Palette. SHA-256: check the file you downloaded
 MissionCanvas.dmg
-e50b46615e61e5e374cab47cb4ebd3649575502997f050ec8440610f48c0aa85
+5feef6b19a474abec12d7c7e46fb7cabbe5fe137505eec75b24fae7acb16bf4b
 MissionCanvas-Setup.exe
-fcc4c139288365bb3714b460a6dabce7fca613960adb7e9de8f5b8117dc06b82
+9fbe97fb8f941ac342b23262aefd73da2d02f7c48d6927c3a5014d218778dbf9
 MissionCanvas.deb
-37038c44fb85e570bbf5a255a57693d06c98b0923445ffd910e82c424293d77a
+6a8d8cfb606827f1c8a172d2c5355ee4365edbd117469f440951175e4d7e9d83
 Mac and Linux: shasum -a 256 <file>. Windows: certutil -hashfile <file> SHA256. These
-are the digests GitHub publishes for release desktop-v0.4.4; this page reads them when it is built.
+are the digests GitHub publishes for release desktop-v0.4.6; this page reads them when it is built.
 Price
 
 ## Free. No account, no card, no trial clock.
@@ -886,7 +997,7 @@ Get Started
 
 ---
 
-Source: https://missioncanvas.ai/partners
+Source: https://pretendhome.github.io/partners
 
 Join as a partner
 
@@ -1013,7 +1124,7 @@ Partners are independent contractors, not employees. The relationship is non-exc
 
 ---
 
-Source: https://missioncanvas.ai/press
+Source: https://pretendhome.github.io/press
 
 Press and media
 
@@ -1037,7 +1148,7 @@ Our first release is on its way. Ask the team for the latest news in the meantim
 
 ---
 
-Source: https://missioncanvas.ai/pricing
+Source: https://pretendhome.github.io/pricing
 
 Pricing
 
@@ -1089,7 +1200,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/privacy
+Source: https://pretendhome.github.io/privacy
 
 Last updated November 12, 2026
 
@@ -1117,7 +1228,71 @@ Mission Canvas does not bring your company's email into an inbox of ours. If an 
 
 ---
 
-Source: https://missioncanvas.ai/security
+Source: https://pretendhome.github.io/private-ai-for-confidential-files
+
+Private AI for small firms
+
+# Can AI check client files without uploads?
+A month-end figure looks off. Trace it to the ledger rows on your firm’s own computers.
+Mission Canvas builds tools that read the files you choose on your own computers. Test a check with sample files first.
+See how it works Book a 15-minute workflow call
+Illustrative workflow
+
+## Follow one number back to the ledger.
+
+### Today
+A total looks wrong. A reviewer opens several exports to find the entries behind it.
+
+### What you could build
+A workflow built for that check points to the rows behind the difference so the reviewer can decide what needs a second look.
+
+## See how an answer links to its source.
+In Palette, select a claim to see the sentence and file it came from. The screenshot uses sample notes. Watch the Palette walkthrough
+
+## Which job would you start with?
+Choose a job to see what you can test with sample files.
+Compare two ledger exports
+Start with two fictional CSV exports. Choose one discrepancy you can reproduce and decide what the reviewer needs to see beside it. Trace a figure to its source
+Pick a figure you already know. Ask the tool to point to the original row and check whether a colleague can verify it independently. Work within a no-upload policy
+Pick a sample folder and a local model. Confirm which files the tool can read and check whether the job needs any outside connection.
+
+## A check you can try
+Put a made-up job cost in a short text file. Ask where that cost came from and follow the answer back to the file. Would a colleague be able to check the figure without asking you?
+A local workflow suits a team that needs to check an answer against its own records. If the job begins with scanned forms, the free app skips those files.
+
+## What stays on your computer, and what can leave?
+For a client file, begin with a folder containing one fictional record. Palette lists the files without opening them. You give permission before it reads the files you choose. Follow a line in its generated document to the source sentence. See the folder walkthrough.
+An outside service receives only what the agreed task needs, with permission.
+See what your team can check and how the files are used.
+
+## Set it up yourself or have it built around your job?
+If you like setting up tools yourself, try Palette, the free desktop app for Mac, Windows and Linux. It reads.txt,.md,.csv,.json and.ics files. It skips PDFs and Office files.
+For a fitted tool, Mission Canvas starts with an audit, a review of one job and the files and people it depends on. We design around that job, build the application for your machines and hand it over. You own what we build.
+
+## Questions from small firms
+
+### Can a law firm use AI on client documents without risking privilege?
+Local processing lets a firm choose where a document is read. Privilege and confidentiality require a separate legal assessment. ABA Formal Opinion 512 discusses professional duties when lawyers use generative AI.
+Read the American Bar Association’s guidance.
+
+### What can a small accounting firm use on client files without uploading them?
+Try a sample ledger exported as CSV. Check a figure in the answer against its source row before using it in your work.
+
+### Can AI read our job-cost spreadsheets locally?
+Export a sample sheet to CSV and keep the original for comparison. Palette skips the Office workbook itself.
+
+### Can an insurance broker use AI on client financial documents?
+Start with a fictional client record in a supported format. Agree which fields a reviewer needs to see and what can be shared before trying real financial records.
+
+### How can a construction consultant review change orders without exposing contract pricing?
+Choose a sample change order in plain text and keep the job on a local model. Check each quoted price against the source before a person approves any sharing.
+
+## Which check takes longest at month-end?
+Bring one recurring task. We’ll talk through the files it uses, where it can run and who checks the result. Book a 15-minute workflow call
+
+---
+
+Source: https://pretendhome.github.io/security
 
 Your data
 
@@ -1149,7 +1324,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/what-is-mission-canvas
+Source: https://pretendhome.github.io/what-is-mission-canvas
 
 What is Mission Canvas
 
@@ -1185,13 +1360,13 @@ The audit ends in software your team uses, not a slide deck.
 ## Who it is for.
 Small and mid-sized businesses whose work runs on documents, records and rules.
 ‹
-- CV-05 In progress Construction & Real Estate Job site, office and fleet in one system.
-- CV-01 Education A living picture of every student, built from what teachers notice.
-- CV-02 Logistics Every order, its stage, and who is waiting on it, checked overnight.
-- CV-03 Voice & Front Desk Agents that answer, book and follow up on the channels people use.
-- CV-04 Events & Venues From online checkout to the gate, on one commercial engine.
-- CV-06 In progress Healthcare Live flows and queues, with sensitive data kept where it belongs.
-- CV-07 In progress Office & Administration The repetitive back-office work, extracted, checked and filed.
+- CV-05 In progress Construction & Real Estate Did that change order make it into your job costs?
+- CV-01 Education Reports done before 6 PM.
+- CV-02 Logistics Late orders found before the customer calls.
+- CV-03 Voice & Front Desk No more call-backs at lunch.
+- CV-04 Events & Venues Fewer credits and refunds.
+- CV-06 In progress Healthcare Every missed call is a lost booking: catch it.
+- CV-07 In progress Office & Administration No retyping client PDFs.
 - CV-08 Everything else If the work runs on documents, records and rules, we can build for it. ›
 
 ## Read next.
@@ -1210,7 +1385,7 @@ The audit comes first. Building the tool is a separate job, quoted before you co
 
 ---
 
-Source: https://missioncanvas.ai/why-mission-canvas
+Source: https://pretendhome.github.io/why-mission-canvas
 
 Why Mission Canvas
 

@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en"><head><meta name="robots" content="noindex, nofollow" /><meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Book a call · Mission Canvas</title>
+<!-- Our own booking link (19 Nov 2026). Every email, post and profile uses https://missioncanvas.ai/book/ so a
+     change on the Zoho side is one edit here. An incoming ?Ref=<slug> is passed through; otherwise w26. -->
+<meta http-equiv="refresh" content="1; url=https://micalneill-missioncanvas.zohobookings.com/4941251000000076143?Ref=w26">
+<script>
+(function () {
+  // One consultation per source (ruling D-I), all on the same calendars. Unknown or missing Ref -> the general one.
+  var Z = 'https://micalneill-missioncanvas.zohobookings.com/';
+  var GENERAL = '4941251000000076143';  // Conversation with Mission Canvas (email, social, partners, old links)
+  var BY_REF = { gpt01: '4941251000000076062', gpt02: '4941251000000076089', gpt03: '4941251000000076116' };
+  var refs = new URLSearchParams(location.search).getAll('Ref');
+  var ref = (refs.length === 1 && /^[a-z]{1,4}[0-9a-z]{1,12}$/.test(refs[0])) ? refs[0] : 'w26';
+  var id = BY_REF[ref] || (/^w[0-9]{1,9}$/.test(ref) && ref !== 'w26' ? '4941251000000076035' : GENERAL);
+  location.replace(Z + id + '?Ref=' + ref);
+})();
+</script>
+</head><body style="font-family:system-ui,sans-serif;padding:2rem">
+<p>Opening the booking page… <a href="https://micalneill-missioncanvas.zohobookings.com/4941251000000076143?Ref=w26">Book a 15-minute call with Mission Canvas</a>.</p>
+</body></html>
